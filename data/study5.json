@@ -1,0 +1,381 @@
+{
+  "id": "study5",
+  "meta": {
+    "title": {
+      "en": "5 - Missing in Action",
+      "es": "5 – Desaparecidos en acción",
+  "fr": "5 – Portés disparus",
+  "ar": "٥ – مفقودون أثناء الأحداث"
+    },
+    "coverImage": "./images/study5-header.jpeg"
+  },
+  "blocks": [
+    { "type": "image", "src": "./images/study5-header.jpeg" },
+
+        { "type": "paragraph", "en": "HAVE YOU CHECKED the labels on your grocery items lately? You might be getting less than you expected. According to a recent report, certain manufacturers are selling packages that are the same size that we are used to-but with less of the product inside. For instance, a box of well-known detergent that once contained 61 ounces now contains only 55. Same size box, less soap.",
+      "es": "¿Has revisado últimamente las etiquetas de los productos del supermercado? Puede que estés recibiendo menos de lo que esperas. Según un informe reciente, algunos fabricantes venden envases que parecen del mismo tamaño de siempre, pero con menos producto en su interior. Por ejemplo, una conocida caja de detergente que antes contenía 61 onzas ahora solo trae 55. El mismo tamaño de caja, menos detergente.",
+  "fr": "Avez-vous vérifié récemment les étiquettes des produits que vous achetez au supermarché ? Il se peut que vous receviez moins que ce que vous attendez. Selon un rapport récent, certains fabricants vendent des emballages qui ont la même apparence qu’avant, mais qui contiennent moins de produit. Par exemple, une boîte bien connue de détergent qui contenait autrefois 61 onces n’en contient plus que 55. Même taille de boîte, moins de produit.",
+  "ar": "هل تفحّصتَ مؤخرًا الملصقات الموجودة على منتجات البقالة التي تشتريها؟ قد تكون تحصل على أقل مما تتوقّع. فوفقًا لتقرير حديث، يبيع بعض المصنّعين عبوات تبدو بنفس الحجم المعتاد، لكنها تحتوي على كمية أقل من المنتج. فعلى سبيل المثال، علبة منظّف معروفة كانت تحتوي سابقًا على 61 أونصة، وأصبحت الآن تحتوي على 55 فقط. نفس حجم العبوة، لكن بكمية أقل."
+      },
+    { "type": "paragraph", "en": "How something is packaged or labeled on the outside doesn't always show us what's on the inside. Someone might call himself a follower of a certain religion, but this may not really be the case. Actions speak louder than words. And no place is this epitomized more than in our spiritual lives.",
+  "es": "La forma en que algo está empaquetado o etiquetado por fuera no siempre refleja lo que hay en su interior. Alguien puede llamarse a sí mismo seguidor de una determinada religión, pero esto no necesariamente es así. Las acciones hablan más fuerte que las palabras, y en ningún lugar se ve esto con mayor claridad que en nuestra vida espiritual.",
+  "fr": "La manière dont quelque chose est emballé ou étiqueté à l’extérieur ne reflète pas toujours ce qu’il y a à l’intérieur. Une personne peut se dire adepte d’une certaine religion, sans que cela soit réellement le cas. Les actions parlent plus fort que les paroles, et cela se manifeste nulle part aussi clairement que dans notre vie spirituelle.",
+  "ar": "إن طريقة تغليف الشيء أو تسميته من الخارج لا تعكس دائمًا ما بداخله. فقد يصف شخصٌ نفسه بأنه تابع لدينٍ معيّن، لكن ذلك قد لا يكون صحيحًا في الواقع. فالأفعال أبلغ من الأقوال، ولا يتجلّى هذا الأمر بوضوح أكبر مما يتجلّى في حياتنا الروحية."
+  },
+    { "type": "paragraph", "en": "This study will investigate why it is so commonly assumed today that the Previous Revelations were changed. It seems that too many Muslims have been disappointed when peering inside the package of 'a Christian's daily life' and finding that there's not as much inside as there's supposed to be.",
+  "es": "Este estudio investigará por qué hoy en día se asume con tanta frecuencia que las revelaciones anteriores fueron cambiadas. Parece que muchos musulmanes se han sentido decepcionados al mirar dentro del “empaque” de la vida diaria de un cristiano y descubrir que no hay tanto contenido como se supone que debería haber.",
+  "fr": "Cette étude examinera pourquoi on suppose si souvent aujourd’hui que les révélations antérieures ont été modifiées. Il semble que de nombreux musulmans aient été déçus en regardant à l’intérieur de « l’emballage » de la vie quotidienne d’un chrétien et en constatant qu’il n’y a pas autant de contenu qu’on pourrait s’y attendre.",
+  "ar": "ستبحث هذه الدراسة في سبب شيوع الافتراض اليوم بأن الوحي السابق قد تم تغييره. ويبدو أن كثيرًا من المسلمين قد شعروا بخيبة أمل عندما نظروا داخل «غلاف» الحياة اليومية للمسيحي، فوجدوا أن ما بداخلها ليس بقدر ما كان يُفترض أن يكون."
+  },
+
+   
+    { "type": "heading", "en": "WHY WERE THE PREVIOUS SCRIPTURES ALLEGED TO HAVE BEEN CHANGED?",
+  "es": "¿Por qué se ha alegado que las Escrituras anteriores fueron cambiadas?",
+  "fr": "Pourquoi a-t-on prétendu que les Écritures antérieures ont été modifiées ?",
+  "ar": "لماذا زُعِمَ أن الكتب المقدّسة السابقة قد تغيّرت؟"
+  },
+
+    { "type": "paragraph", "en": "Muslim believers observed those around them who followed the Bible-known as the People of the Book-and were shocked to see them doing certain things that were seemingly forbidden in the Bible. Also, in recent times, the greatest reason for Muslim scholars to presume the Bible must have undergone changes is because of what they see in the lifestyle of people in the West (supposedly 'Christian' in their eyes).",
+  "es": "Los creyentes musulmanes observaron a quienes los rodeaban y seguían la Biblia —conocidos como la Gente del Libro— y se sorprendieron al verlos practicar ciertas conductas que parecían estar prohibidas en la Biblia. En tiempos más recientes, la principal razón por la que muchos eruditos musulmanes han supuesto que la Biblia debió haber sido modificada es lo que observan en el estilo de vida de las personas en Occidente, consideradas por ellos como “cristianas”.",
+  "fr": "Les croyants musulmans ont observé ceux qui les entouraient et qui suivaient la Bible — connus comme les Gens du Livre — et ont été surpris de les voir adopter certains comportements qui semblaient interdits par la Bible. À une époque plus récente, la principale raison pour laquelle de nombreux savants musulmans ont supposé que la Bible avait dû être modifiée est ce qu’ils observent dans le mode de vie des populations occidentales, souvent perçues à leurs yeux comme « chrétiennes ».",
+  "ar": "لاحظ المؤمنون المسلمون من حولهم ممّن يتّبعون الكتاب المقدّس — المعروفين بأهل الكتاب — وشعروا بالدهشة لرؤيتهم يمارسون بعض السلوكيات التي تبدو محرّمة في الكتاب المقدّس. وفي الأزمنة الحديثة، فإن السبب الرئيسي الذي جعل كثيرًا من العلماء المسلمين يفترضون أن الكتاب المقدّس قد تعرّض للتغيير هو ما يرونه في نمط حياة الناس في الغرب، الذين يُنظَر إليهم في نظرهم على أنهم «مسيحيون»."
+  },
+    { "type": "paragraph", "en": "When the Muslim world saw the promiscuous lifestyle of the West the use of alcohol and eating of pork-while the Westerners claimed to be Christians (since that was their ancestral religion), Muslims concluded, 'this is what Christianity is and this proves they have changed their Bible.' The fact is, many of these Western people do not even call themselves Christians or are only Christians in name (many are even atheists). True Christians in the West are actually disappointed by the immorality in Western society.",
+    "es": "Cuando el mundo musulmán observó el estilo de vida promiscuo de Occidente —el consumo de alcohol y la ingesta de carne de cerdo— mientras los occidentales afirmaban ser cristianos (por tratarse de su religión ancestral), muchos musulmanes concluyeron: «Esto es el cristianismo, y esto demuestra que han cambiado su Biblia». La realidad, sin embargo, es que muchas de estas personas en Occidente ni siquiera se consideran cristianas, o lo son solo de nombre; muchas son incluso ateas. Los cristianos verdaderos en Occidente suelen sentirse profundamente decepcionados por la inmoralidad presente en la sociedad occidental.",
+  "fr": "Lorsque le monde musulman a observé le mode de vie permissif de l’Occident — la consommation d’alcool et la consommation de porc — alors que les Occidentaux se disaient chrétiens (puisque c’était leur religion ancestrale), beaucoup de musulmans ont conclu : « Voilà ce qu’est le christianisme, et cela prouve qu’ils ont modifié leur Bible ». Or, la réalité est que nombre de personnes en Occident ne se considèrent même pas comme chrétiennes, ou ne le sont que de nom ; beaucoup sont même athées. Les véritables chrétiens en Occident sont souvent profondément déçus par l’immoralité qu’ils observent dans la société occidentale.",
+  "ar": "عندما رأى العالم الإسلامي نمط الحياة المنحلّ في الغرب — مثل شرب الكحول وأكل لحم الخنزير — في الوقت الذي كان فيه الغربيون يزعمون أنهم مسيحيون (بحكم كونها ديانتهم الموروثة)، استنتج كثير من المسلمين: «هذا هو المسيحية، وهذا يثبت أنهم غيّروا كتابهم المقدّس». لكن الحقيقة أن كثيرًا من هؤلاء الناس في الغرب لا يعرّفون أنفسهم أصلًا كمسيحيين، أو هم مسيحيون بالاسم فقط، بل إن كثيرين منهم ملحدون. أما المسيحيون الحقيقيون في الغرب، فكثيرًا ما يشعرون بخيبة أمل عميقة من الانحلال الأخلاقي السائد في المجتمع الغربي."
+  },
+    { "type": "paragraph", "en": "When the People of the Book were questioned as to why they ate pork or drank wine, the People of the Book (Christians specifically) answered from the Bible. They stated that Isa al-Masih (pbuh) said, 'not what goes. into the mouth defiles a man, but what comes out of the mouth, this defiles a man' (Injeel, Matthew 15:11). They claimed that this statement proved that he made all food lawful. It is important to note that this was an incorrect interpretation of Isa al-Masih's (pbuh) words. He was not declaring previously unclean food clean by that statement, nor was he now making all the teachings of the Tawrat nullified by this one verse, as we will see below.",
+  "es": "Cuando se preguntó a la Gente del Libro por qué comían carne de cerdo o bebían vino, la Gente del Libro —en particular los cristianos— respondió citando la Biblia. Señalaron una declaración de Isa al-Masih (pbuh): «No es lo que entra por la boca lo que contamina al hombre, sino lo que sale de la boca; eso es lo que contamina al hombre» (Inyil, Mateo 15:11). Afirmaron que esta declaración demostraba que todos los alimentos habían sido declarados lícitos. Sin embargo, es importante señalar que esta es una interpretación incorrecta de las palabras de Isa al-Masih (pbuh). Él no estaba declarando lícitos los alimentos previamente prohibidos, ni estaba anulando todas las enseñanzas de la Tawrat con un solo versículo, como veremos a continuación.",
+  "fr": "Lorsque les Gens du Livre furent interrogés sur les raisons pour lesquelles ils mangeaient du porc ou buvaient du vin, les Gens du Livre — en particulier les chrétiens — répondirent en citant la Bible. Ils se référaient à une parole de ‘Issa al-Masîh (pbuh) : « Ce n’est pas ce qui entre dans la bouche qui souille l’homme, mais ce qui sort de la bouche ; voilà ce qui souille l’homme » (Injil, Matthieu 15:11). Ils affirmaient que cette déclaration prouvait que tous les aliments avaient été rendus licites. Il est toutefois important de noter qu’il s’agit là d’une interprétation erronée des paroles de ‘Issa al-Masîh (pbuh). Il ne déclarait pas par cette parole que les aliments auparavant interdits devenaient licites, ni n’annulait l’ensemble des enseignements de la Tawrat par un seul verset, comme nous le verrons plus loin.",
+  "ar": "عندما سُئل أهل الكتاب عن سبب أكلهم لحم الخنزير أو شربهم الخمر، أجاب أهل الكتاب — وخصوصًا المسيحيين — بالاستشهاد بالكتاب المقدّس. واستدلّوا بقول عيسى المسيح (عليه السلام): «ليس ما يدخل الفم ينجّس الإنسان، بل ما يخرج من الفم، هذا ينجّس الإنسان» (الإنجيل، متى 15:11). وادّعوا أن هذا القول يثبت أن جميع الأطعمة قد أُبيحت. غير أنه من المهم التنبيه إلى أن هذا تفسير غير صحيح لكلام عيسى المسيح (عليه السلام). فهو لم يكن يعلن بهذا القول أن الأطعمة التي كانت محرّمة قد أصبحت حلالًا، ولا كان يُبطل جميع تعاليم التوراة بآية واحدة، كما سنرى فيما يلي."
+  },
+
+    { "type": "question", "id": 1,
+      "question": { "en": "The Western world consists of which three kinds of people?",
+    "es": "¿De qué tres tipos de personas se compone el mundo occidental?",
+  "fr": "De quels trois types de personnes se compose le monde occidental ?",
+  "ar": "مِمَّ يتكوّن العالم الغربي من حيث أنواع الناس الثلاثة؟"
+    },
+      "options": {
+        "en": [
+          "Republicans, Democrats, and Zionists.",
+          "Christians in name only, non-Christians, and Christians who are disappointed with Western standards.",
+          "Scientists, bakers, and psychologists."
+        ],
+        "es": [
+    "Republicanos, demócratas y sionistas.",
+    "Cristianos solo de nombre, no cristianos y cristianos decepcionados con los estándares occidentales.",
+    "Científicos, panaderos y psicólogos."
+  ],
+  "fr": [
+    "Républicains, démocrates et sionistes.",
+    "Chrétiens de nom seulement, non-chrétiens et chrétiens déçus par les standards occidentaux.",
+    "Scientifiques, boulangers et psychologues."
+  ],
+  "ar": [
+    "الجمهوريون، والديمقراطيون، والصهاينة.",
+    "مسيحيون بالاسم فقط، وغير مسيحيين، ومسيحيون يشعرون بخيبة أمل من المعايير الغربية.",
+    "علماء، وخبّازون، وعلماء نفس."
+  ]
+      },
+      "correct": 1
+    },
+
+    { "type": "heading", "en": "DID ISA AL-MASIH (PBUH) ABROGATE THE TAWRAT?",
+  "es": "¿Abrogó Isa al-Masih (pbuh) la Tawrat?",
+  "fr": "‘Issa al-Masîh (pbuh) a-t-il abrogé la Tawrat ?",
+  "ar": "هل نسخ عيسى المسيح (عليه السلام) التوراة؟"
+  },
+    {
+      "type": "paragraph",
+      "en": "In fact, Isa al-Masih (pbuh) had already stated in the Injeel:",
+      "es": "De hecho, Isa al-Masih (pbuh) ya había declarado en el Inyil:",
+  "fr": "En réalité, ‘Issa al-Masîh (pbuh) avait déjà déclaré dans l’Injil :",
+  "ar": "في الواقع، كان عيسى المسيح (عليه السلام) قد صرّح بالفعل في الإنجيل:"
+    },
+
+    { "type": "verse", "reference": "Matthew 5:17", "en": "Do not think that I came to destroy the Law or the Prophets. I did not come to destroy but to fulfil.",
+   "es": "No penséis que he venido a abolir la Ley o los Profetas. No he venido a abolirlos, sino a cumplirlos.",
+  "fr": "Ne pensez pas que je sois venu abolir la Loi ou les Prophètes. Je ne suis pas venu pour les abolir, mais pour les accomplir.",
+  "ar": "لا تظنّوا أني جئت لأنقض الشريعة أو الأنبياء. ما جئت لأنقض، بل لأتمّم."
+  },
+
+    { "type": "paragraph", "en": "The Tawrat (Law of Prophet Musa (pbuh)), Book of Leviticus, chapter 11 had already detailed the clean and unclean foods, which was to be an important statute for the People of the Book. Therefore, based on this statement, it is clear that he did not come to change the Law or the Prophets",
+  "es": "La Tawrat (la Ley dada al profeta Musa (pbuh)), específicamente en el libro de Levítico, capítulo 11, ya había detallado cuáles alimentos eran puros e impuros, lo cual constituía un mandamiento importante para la Gente del Libro. Por lo tanto, basándose en esta declaración, queda claro que Isa al-Masih (pbuh) no vino a cambiar la Ley ni a los Profetas.",
+  "fr": "La Tawrat (la Loi donnée au prophète Moussa (pbuh)), en particulier dans le livre du Lévitique, chapitre 11, avait déjà précisé quels aliments étaient purs et impurs, ce qui constituait un commandement important pour les Gens du Livre. Par conséquent, à la lumière de cette déclaration, il est clair que ‘Issa al-Masîh (pbuh) n’est pas venu changer la Loi ni les Prophètes.",
+  "ar": "لقد حدّدت التوراة (الشريعة التي أُعطيت للنبي موسى عليه السلام)، وتحديدًا في سفر اللاويين الإصحاح 11، الأطعمة الطاهرة والنجسة، وكان ذلك حكمًا مهمًا لأهل الكتاب. وبناءً على هذا القول، يتّضح أن عيسى المسيح (عليه السلام) لم يأتِ ليغيّر الشريعة ولا الأنبياء."
+  },
+    { "type": "paragraph", "en": "Moreover, when Isa al-Masih (pbuh) answered the Jews by saying, 'not what goes into the mouth defiles a man, but what comes out of the mouth, this defiles man' (Injeel, Matthew 15:11), the discussion was not about food. Remember, he was speaking to the Jews who did not eat un clean food and knew the laws of clean and unclean, therefore the issue was not about what can and can't be eaten.",
+  "es": "Además, cuando Isa al-Masih (pbuh) respondió a los judíos diciendo: «No es lo que entra por la boca lo que contamina a la persona, sino lo que sale de la boca; eso es lo que la contamina» (Inyil, Mateo 15:11), la discusión no trataba sobre la comida. Recordemos que él hablaba a judíos que no comían alimentos impuros y que conocían las leyes sobre lo puro y lo impuro; por lo tanto, el asunto no era qué se podía o no comer.",
+  "fr": "De plus, lorsque ‘Issa al-Masîh (pbuh) répondit aux Juifs en disant : « Ce n’est pas ce qui entre dans la bouche qui souille la personne, mais ce qui sort de la bouche ; voilà ce qui la souille » (Injil, Matthieu 15:11), la discussion ne portait pas sur la nourriture. Rappelons qu’il s’adressait à des Juifs qui ne consommaient pas d’aliments impurs et qui connaissaient déjà les lois concernant le pur et l’impur ; la question n’était donc pas de savoir ce qu’il était permis ou interdit de manger.",
+  "ar": "وعلاوة على ذلك، عندما أجاب عيسى المسيح (عليه السلام) اليهود بقوله: «ليس ما يدخل الفم ينجّس الإنسان، بل ما يخرج من الفم، هذا ينجّس الإنسان» (الإنجيل، متى 15:11)، لم يكن الحديث عن الطعام. فتذكّروا أنه كان يخاطب يهودًا لا يأكلون الأطعمة النجسة ويعرفون أحكام الطاهر والنجس؛ ولذلك لم تكن المسألة متعلّقة بما يجوز أكله أو لا يجوز."
+  },
+    { "type": "paragraph", "en": "The issue was this: Jews had criticized him because his companions were not washing their hands in the ritual ceremonial way before eating food. Isa al-Masih (pbuh) explained to the Pharisees that he knew the evil intent of their thoughts. He declared that it was more important to watch what comes out of their mouths than it was to do the ritual hand washing before meals.",
+   "es": "El problema era el siguiente: los judíos lo habían criticado porque sus compañeros no se lavaban las manos de manera ritual y ceremonial antes de comer. Isa al-Masih (pbuh) explicó a los fariseos que conocía la maldad en las intenciones de sus pensamientos. Declaró que era mucho más importante vigilar lo que sale de sus bocas que cumplir con el lavado ritual de manos antes de las comidas.",
+  "fr": "La question était la suivante : les Juifs l’avaient critiqué parce que ses compagnons ne se lavaient pas les mains de manière rituelle et cérémonielle avant de manger. ‘Issa al-Masîh (pbuh) expliqua aux pharisiens qu’il connaissait les intentions mauvaises de leurs pensées. Il déclara qu’il était bien plus important de surveiller ce qui sort de leurs bouches que d’accomplir le lavage rituel des mains avant les repas.",
+  "ar": "كانت المسألة كالتالي: فقد انتقده اليهود لأن أصحابه لم يكونوا يغسلون أيديهم بالطريقة الطقسية قبل تناول الطعام. وشرح عيسى المسيح (عليه السلام) للفريسيين أنه كان على علم بسوء نوايا أفكارهم. وأعلن أن مراقبة ما يخرج من أفواههم أهم بكثير من القيام بغسل الأيدي الطقسي قبل الوجبات."
+  },
+    { "type": "paragraph", "en": "They needed to understand that their words could actually destroy other people's reputation, a truth more important than knowing that some dirt on the hands might harm the body.",
+  "es": "Necesitaban comprender que sus palabras podían realmente destruir la reputación de otras personas, una verdad mucho más importante que preocuparse por que un poco de suciedad en las manos pudiera dañar el cuerpo.",
+  "fr": "Ils devaient comprendre que leurs paroles pouvaient réellement détruire la réputation des autres, une vérité bien plus importante que de s’inquiéter de la saleté sur les mains pouvant nuire au corps.",
+  "ar": "كان عليهم أن يدركوا أن كلماتهم يمكن أن تدمّر سمعة الآخرين فعلًا، وهي حقيقة أهم بكثير من القلق بشأن اتّساخ الأيدي وما قد يسببه ذلك من ضرر للجسد."
+  },
+
+    { "type": "question", "id": 2,
+      "question": { "en": "goes into the mouth that defiles a man? What did Isa al-Masih (pbuh) mean when he said, 'it is not what' ",
+    "es": "¿Qué quiso decir Isa al-Masih (pbuh) cuando dijo: «No es lo que entra por la boca lo que contamina a la persona»?",
+  "fr": "Que voulait dire ‘Issa al-Masîh (pbuh) lorsqu’il a dit : « Ce n’est pas ce qui entre dans la bouche qui souille la personne » ?",
+  "ar": "ماذا كان يقصد عيسى المسيح (عليه السلام) عندما قال: «ليس ما يدخل الفم ينجّس الإنسان»؟"
+    },
+      "options": {
+        "en": [
+          "The Tawrat's list of halal and haram foods was no longer valid, and believers could eat whatever they wanted.",
+          "Evil intentions towards others is worse than not washing your hands.",
+          "Once a person became a believer, they could no longer be affected by contagious diseases."
+        ],
+"es": [
+    "La lista de alimentos halal y haram de la Tawrat ya no era válida, y los creyentes podían comer lo que quisieran.",
+    "Las malas intenciones hacia los demás son peores que no lavarse las manos.",
+    "Una vez que una persona se convertía en creyente, ya no podía verse afectada por enfermedades contagiosas."
+  ],
+  "fr": [
+    "La liste des aliments licites et illicites de la Tawrat n’était plus valable, et les croyants pouvaient manger ce qu’ils voulaient.",
+    "Les mauvaises intentions envers les autres sont plus graves que le fait de ne pas se laver les mains.",
+    "Une fois qu’une personne devenait croyante, elle ne pouvait plus être affectée par des maladies contagieuses."
+  ],
+  "ar": [
+    "لم تعد قائمة الأطعمة الحلال والحرام في التوراة صالحة، وأصبح بإمكان المؤمنين أكل ما يشاؤون.",
+    "النيات السيئة تجاه الآخرين أخطر من عدم غسل اليدين.",
+    "بمجرد أن يصبح الشخص مؤمنًا، لا تعود الأمراض المعدية تؤثر فيه."
+  ]
+      },
+      "correct": 1
+    },
+
+    { "type": "heading", "en": "HOW ELSE DID THE PEOPLE OF THE BOOK DISOBEY THE PREVIOUS REVELATIONS?",
+   "es": "¿De qué otras maneras desobedecieron la Gente del Libro las revelaciones anteriores?",
+  "fr": "De quelles autres manières les Gens du Livre ont-ils désobéi aux révélations antérieures ?",
+  "ar": "بِأَيِّ طُرُقٍ أُخْرَى عَصَى أَهْلُ الْكِتَابِ الْوَحْيَ السَّابِقَ؟"
+  },
+
+    { "type": "paragraph", "en": "The Jews had always kept the Sabbath, which was given by Allah to Prophet Musa (pbuh). However, Muslim believers began to discover that although the day of worship according to the Bible was Saturday (the Sabbath or al-Sabt in Arabic), many of the People of the Book (Christians) were keeping Sunday as the day of the Lord.",
+   "es": "Los judíos siempre habían guardado el sábado, el cual fue dado por Allah al profeta Musa (pbuh). Sin embargo, los creyentes musulmanes comenzaron a notar que, aunque el día de adoración según la Biblia era el sábado —el Sabbath o *as-Sabt* en árabe—, muchos de la Gente del Libro (cristianos) observaban el domingo como el día del Señor.",
+  "fr": "Les Juifs avaient toujours observé le sabbat, qui avait été donné par Allah au prophète Moussa (pbuh). Cependant, les croyants musulmans ont commencé à remarquer que, bien que le jour de culte selon la Bible soit le samedi — le sabbat, ou *as-Sabt* en arabe — beaucoup de Gens du Livre (chrétiens) observaient le dimanche comme le jour du Seigneur.",
+  "ar": "لقد كان اليهود دائمًا يحفظون يوم السبت، وهو اليوم الذي أعطاه الله للنبي موسى (عليه السلام). غير أن المؤمنين المسلمين بدأوا يلاحظون أنه رغم أن يوم العبادة بحسب الكتاب المقدّس هو يوم السبت — السَّبت (*السبت*) — فإن كثيرًا من أهل الكتاب (المسيحيين) كانوا يحفظون يوم الأحد باعتباره يوم الرب."
+  },
+
+    { "type": "verse", "reference": "Surat Al-Baqarah 2:65 states:", "en": "And well ye knew those amongst you who transgressed in the matter of the Sabbath: We said to them: 'Be ye apes, despised and rejected.",
+  "es": "Ciertamente conocisteis a aquellos de entre vosotros que transgredieron en el asunto del sábado. Entonces les dijimos: «Sed monos, despreciados y rechazados».",
+  "fr": "Vous avez certes connu ceux d’entre vous qui ont transgressé au sujet du sabbat. Nous leur avons alors dit : « Soyez des singes méprisés et rejetés ».",
+  "ar": "وَلَقَدْ عَلِمْتُمُ الَّذِينَ اعْتَدَوْا مِنْكُمْ فِي السَّبْتِ فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ"
+  },
+
+    { "type": "paragraph", "en": "People of the Book (Christians) who kept Sunday as a day of rest could not prove from the Bible that it was a day of rest, especially since in Arabic the word for Saturday was Al-Sabt (which means, 'the day of rest') and Sunday is Yom Al-Ahad (which means, 'day one'). This was an additional link that seemed to show that Christians were not being faithful in following the Previous Revelations.",
+  "es": "Los cristianos de la Gente del Libro que guardaban el domingo como día de descanso no podían demostrar a partir de la Biblia que ese fuera un día establecido para el descanso. Esto resulta aún más claro si se tiene en cuenta que, en árabe, la palabra para sábado es *as-Sabt* (que significa «día de descanso»), mientras que domingo es *Yawm al-Ahad* (que significa «día uno»). Este contraste lingüístico y bíblico parecía indicar aún más que los cristianos no estaban siendo fieles al seguimiento de las revelaciones anteriores.",
+  "fr": "Les chrétiens parmi les Gens du Livre qui observaient le dimanche comme jour de repos ne pouvaient pas démontrer à partir de la Bible qu’il s’agissait d’un jour de repos prescrit. Cela est d’autant plus clair que, en arabe, le mot pour samedi est *as-Sabt* (qui signifie « jour de repos »), tandis que le dimanche est *Yawm al-Ahad* (qui signifie « jour un »). Ce contraste linguistique et scripturaire semblait renforcer l’idée que les chrétiens ne suivaient pas fidèlement les révélations antérieures.",
+  "ar": "لم يكن المسيحيون من أهل الكتاب الذين كانوا يحفظون يوم الأحد كيوم راحة قادرين على إثبات ذلك من الكتاب المقدّس. ويتّضح هذا بشكل خاص لأن كلمة يوم السبت في العربية هي *السبت*، وتعني «يوم الراحة»، بينما يُسمّى يوم الأحد *يوم الأحد*، أي «اليوم الأول». وقد بدا هذا التباين اللغوي والنصي دليلاً إضافيًا على أن المسيحيين لم يكونوا ملتزمين بأمانة باتّباع الوحي السابق."
+  },
+
+    { "type": "question", "id": 3,
+      "question": { "en": "What day does the Bible admonish the Jews and Christians to worship on?",
+    "es": "¿En qué día exhorta la Biblia a judíos y cristianos a adorar?",
+  "fr": "Quel jour la Bible exhorte-t-elle les Juifs et les chrétiens à consacrer au culte ?",
+  "ar": "في أيّ يوم تحثّ التوراة والإنجيل اليهودَ والمسيحيين على العبادة؟"
+    },
+      "options": {
+        "en": [
+          "Saturday.",
+          "Sunday.",
+          "Wednesday."
+        ],
+ "es": ["Sábado.", "Domingo.", "Miércoles."],
+  "fr": ["Samedi.", "Dimanche.", "Mercredi."],
+  "ar": ["السبت.", "الأحد.", "الأربعاء."]
+      },
+      "correct": 0
+    },
+
+    { "type": "heading", "en": "WERE ALL THE PEOPLE OF THE BOOK UNFAITHFUL IN INTERPRETING AND OBEYING THE PREVIOUS REVELATIONS?",
+  "es": "¿Fueron todos los de la Gente del Libro infieles al interpretar y obedecer las revelaciones anteriores?",
+  "fr": "Tous les Gens du Livre ont-ils été infidèles dans l’interprétation et l’obéissance aux révélations antérieures ?",
+  "ar": "هل كان جميع أهل الكتاب غير أمناء في تفسير الوحي السابق والعمل به؟"
+  },
+
+    { "type": "verse", "reference": "Surah Al-Imran 3:110", "en": "If only the People of the Book had faith, it were best for them: among them are some who have faith, but most of them are perverted transgressors.",
+  "es": "Si la Gente del Libro hubiera creído, habría sido mejor para ellos. Entre ellos hay algunos que creen, pero la mayoría son transgresores rebeldes.",
+  "fr": "Si les Gens du Livre avaient cru, cela aurait été meilleur pour eux. Parmi eux, il y en a qui croient, mais la plupart sont des transgresseurs rebelles.",
+  "ar": "ولو آمن أهل الكتاب لكان خيرًا لهم؛ منهم المؤمنون، ولكن أكثرهم فاسقون."
+  },
+
+    { "type": "paragraph", "en": "It is true that there were factions amongst the Christians whose claims or teachings varied from the Bible and there were also many Jews who did not follow what the Previous Scriptures said. However, there were faithful People of the Book who were true to the Word of Allah. This scenario is clearly portrayed in the Qur'an as seen above, and the distinction is clear. The Qur'an clearly distinguishes the true People of the Book, who are faithful to the Word of Allah, from those who are not. The 'some' are different from the 'most,' so there are two kinds of People of the Book.",
+  "es": "Es cierto que existieron grupos entre los cristianos cuyas afirmaciones o enseñanzas diferían de la Biblia, y también hubo muchos judíos que no siguieron lo que decían las Escrituras anteriores. Sin embargo, hubo personas fieles de la Gente del Libro que permanecieron leales a la Palabra de Allah. Esta realidad se presenta claramente en el Corán, como se ha visto anteriormente, y la distinción es evidente. El Corán diferencia con claridad entre los verdaderos de la Gente del Libro, que son fieles a la Palabra de Allah, y aquellos que no lo son. Los «algunos» no son lo mismo que la «mayoría»; por lo tanto, existen dos tipos de Gente del Libro.",
+  "fr": "Il est vrai qu’il y avait parmi les chrétiens des groupes dont les affirmations ou les enseignements différaient de la Bible, et qu’il y avait également de nombreux Juifs qui ne suivaient pas ce que disaient les Écritures antérieures. Cependant, il existait des Gens du Livre fidèles qui demeuraient attachés à la Parole d’Allah. Cette réalité est clairement exposée dans le Coran, comme on l’a vu ci-dessus, et la distinction est sans équivoque. Le Coran distingue clairement les véritables Gens du Livre, fidèles à la Parole d’Allah, de ceux qui ne le sont pas. Les « quelques-uns » ne sont pas les mêmes que la « majorité » ; il existe donc deux catégories de Gens du Livre.",
+  "ar": "صحيح أنه وُجدت فِرَق بين المسيحيين كانت تعاليمها أو ادعاءاتها تختلف عن الكتاب المقدّس، كما وُجد كثير من اليهود الذين لم يلتزموا بما جاء في الكتب السابقة. ومع ذلك، كان هناك من أهل الكتاب من بقوا أوفياء لكلمة الله. وهذه الصورة معروضة بوضوح في القرآن كما ذُكر أعلاه، والتمييز فيها واضح. فالقرآن يفرّق بجلاء بين أهل الكتاب الصادقين الذين يلتزمون بكلمة الله، وبين الذين لا يفعلون ذلك. فـ«البعض» ليسوا مثل «الأكثرية»، ولذلك يوجد نوعان من أهل الكتاب."
+  },
+
+    { "type": "question", "id": 4,
+      "question": { "en": "Who among the People of the Book have faith?",
+    "es": "¿Quiénes, entre la Gente del Libro, tienen fe?",
+  "fr": "Qui, parmi les Gens du Livre, ont la foi ?",
+  "ar": "من هم الذين لديهم إيمان من أهل الكتاب؟"
+    },
+      "options": {
+        "en": [
+          "Some of them.",
+          "All of them.",
+          "None of them."
+        ],
+        "es": ["Algunos de ellos.", "Todos ellos.", "Ninguno de ellos."],
+  "fr": ["Certains d’entre eux.", "Tous.", "Aucun d’entre eux."],
+  "ar": ["بعضهم.", "جميعهم.", "لا أحد منهم."]
+      },
+      "correct": 0
+    },
+
+    { "type": "heading", "en": "AT THE TIME WHEN THE QUR'AN WAS REVEALED, WERE THERE ANY FAITHFUL JEWS OR CHRISTIANS LEFT?",
+    "es": "En el momento en que el Corán fue revelado, ¿quedaban judíos o cristianos fieles?",
+  "fr": "Au moment où le Coran a été révélé, restait-il des Juifs ou des chrétiens fidèles ?",
+  "ar": "هل كان هناك يهود أو نصارى مخلصون باقون عند نزول القرآن؟"
+  },
+
+    { "type": "paragraph", "en": "There have always been-in all religions-faithful and unfaithful fol lowers. Just as there are or have been faithful Muslims and some unfaithful Muslims, so too the Qur'an distinguishes between the faithful and the unfaithful Christians and Jews.",
+   "es": "Siempre ha habido —en todas las religiones— seguidores fieles e infieles. Así como hay o ha habido musulmanes fieles y musulmanes infieles, del mismo modo el Corán distingue entre cristianos y judíos fieles e infieles.",
+  "fr": "Il y a toujours eu —dans toutes les religions— des fidèles et des infidèles. De même qu’il y a eu, ou qu’il y a encore, des musulmans fidèles et des musulmans infidèles, le Coran fait également la distinction entre les chrétiens et les juifs fidèles et infidèles.",
+  "ar": "لقد وُجد دائمًا — في جميع الأديان — أتباع مخلصون وآخرون غير مخلصين. وكما كان ولا يزال هناك مسلمون مخلصون ومسلمون غير مخلصين، كذلك يميّز القرآن بين المسيحيين واليهود المخلصين وغير المخلصين."
+  },
+    { "type": "paragraph", "en": "The following verses within the Qur'an explore this distinction. The Qur'an does not say that everyone from among the People of the Book was unfaithful, or that they do not know the Word of Allah, since the Book is corrupted. Instead, the Qur'an argues that the Scripture is good, but many do not follow it. Yet, there were Christians and Jews who did follow the truth of the Bible, even at the time when the Qur'an was being revealed.",
+  "es": "Los siguientes versículos del Corán profundizan en esta distinción. El Corán no afirma que todos los de la Gente del Libro fueran infieles, ni que desconocieran la Palabra de Allah debido a que la Escritura estuviera corrompida. Más bien, el Corán sostiene que la Escritura es buena, pero que muchos no la siguen. Aun así, hubo cristianos y judíos que sí siguieron la verdad de la Biblia, incluso en la época en que el Corán estaba siendo revelado.",
+  "fr": "Les versets suivants du Coran approfondissent cette distinction. Le Coran ne dit pas que tous les Gens du Livre étaient infidèles, ni qu’ils ignoraient la Parole d’Allah parce que l’Écriture aurait été corrompue. Au contraire, le Coran affirme que l’Écriture est bonne, mais que beaucoup ne la suivent pas. Pourtant, il y avait des chrétiens et des juifs qui suivaient réellement la vérité de la Bible, même à l’époque où le Coran était en cours de révélation.",
+  "ar": "توضّح الآيات التالية في القرآن هذا التمييز بشكل أعمق. فالقرآن لا يقول إن جميع أهل الكتاب كانوا غير مخلصين، ولا إنهم يجهلون كلمة الله بسبب فساد الكتب المقدّسة. بل يؤكّد القرآن أن الكتاب في ذاته حقّ وخير، لكن كثيرين لا يلتزمون به. ومع ذلك، كان هناك من المسيحيين واليهود من اتّبعوا حقّ الكتاب المقدّس، حتى في الوقت الذي كان فيه القرآن يُنزَل."
+  },
+
+    { "type": "heading", "en": "THE UNFAITHFUL PEOPLE OF THE BOOK",
+  "es": "Los infieles de la Gente del Libro",
+  "fr": "Les Gens du Livre infidèles",
+  "ar": "أهلُ الكتاب غيرُ المُخلِصين"
+  },
+
+    { "type": "paragraph", "en": "The Qur'an describes the behavior of unfaithful Jews and Christians in the following way:",
+  "es": "El Corán describe el comportamiento de los judíos y cristianos infieles de la siguiente manera:",
+  "fr": "Le Coran décrit le comportement des Juifs et des chrétiens infidèles de la manière suivante :",
+  "ar": "يصف القرآن سلوك اليهود والنصارى غير المخلصين على النحو التالي:"
+  },
+    {
+      "type": "paragraph",
+      "en": "1. Concealing the truth of the Scripture:",
+       "es": "1. Ocultar la verdad de la Escritura:",
+  "fr": "1. Dissimuler la vérité de l’Écriture :",
+  "ar": "١. كتمانُ حقيقةِ الكتاب:"
+    },
+
+    { "type": "verse", "reference": "Surat Al-Baqarah 2:140", "en": "Who is more unjust than those who conceal the testimony they have from Allah?",
+  "es": "¿Quién es más injusto que aquellos que ocultan el testimonio que tienen de Allah?",
+  "fr": "Qui est plus injuste que ceux qui dissimulent le témoignage qu’ils ont reçu d’Allah ?",
+  "ar": "ومن أظلم ممن يكتم الشهادة التي عنده من الله؟"
+  },
+    {
+      "type": "paragraph",
+      "en": "2. Teaching falsely and forgetting what they had heard from their Scripture:",
+       "es": "2. Enseñar falsamente y olvidar lo que habían oído de su Escritura:",
+  "fr": "2. Enseigner faussement et oublier ce qu’ils avaient entendu de leur Écriture :",
+  "ar": "٢. التعليم بالباطل ونسيان ما سمعوه من كتابهم:"
+    },
+    
+    { "type": "verse", "reference": "Surat Al-'Imran 3:78", "en": "There is among them a section who distort the Book with their tongues: (As they read) you would think it is a part of the Book, but it is not part of the Book; and they say, 'That is from Allah, but it is not from Allah.",
+   "es": "Entre ellos hay un grupo que distorsiona el Libro con sus lenguas, de modo que pensáis que es parte del Libro, cuando no lo es. Y dicen: «Esto viene de Allah», pero no viene de Allah.",
+  "fr": "Parmi eux se trouve un groupe qui déforme le Livre avec leurs langues, au point que vous pensez que cela fait partie du Livre, alors que ce n’en est pas une partie. Ils disent : « Cela vient d’Allah », alors que cela ne vient pas d’Allah.",
+  "ar": "وَإِنَّ مِنْهُمْ لَفَرِيقًا يَلْوُونَ أَلْسِنَتَهُمْ بِالْكِتَابِ لِتَحْسَبُوهُ مِنَ الْكِتَابِ وَمَا هُوَ مِنَ الْكِتَابِ ۖ وَيَقُولُونَ هُوَ مِنْ عِنْدِ اللَّهِ وَمَا هُوَ مِنْ عِنْدِ اللَّهِ"
+  },
+    { "type": "verse", "reference": "Surat Al-Maidah 5:13", "en": "They change words from their context and forget a part of that where of they were admonished.",
+   "es": "Sacan las palabras de su contexto adecuado y olvidan parte de aquello con lo que fueron amonestados.",
+  "fr": "Ils sortent les paroles de leur contexte approprié et oublient une partie de ce dont ils avaient été rappelés.",
+  "ar": "يُخرجون الكلمات من سياقها الصحيح وينسون جزءًا مما ذُكِّروا به."
+  },
+    { "type": "verse", "reference": "Surat Al-Baqarah 2:59", "en": "But the transgressors changed the word from that which had been given them.",
+  "es": "Pero los transgresores cambiaron las palabras de aquello que se les había dado.",
+  "fr": "Mais les transgresseurs ont changé les paroles de ce qui leur avait été donné.",
+  "ar": "فبدّل الذين ظلموا القول غير الذي قيل لهم."
+  },
+
+    {
+      "type": "paragraph",
+      "en": "3. Violating the covenant of Allah and forsaking it for monetary gain:",
+       "es": "3. Violar el pacto de Allah y abandonarlo a cambio de beneficio económico:",
+  "fr": "3. Violer l’alliance d’Allah et l’abandonner pour un gain matériel :",
+  "ar": "٣. انتهاك عهد الله وتركه من أجل مكاسب مادية:"
+    },
+    { "type": "verse", "reference": "Surat Al-'Imran 3:187", "en": "And remember Allah took a covenant from the People of the Book, to make it known and clear to mankind, and not to hide it; but they threw it away behind their backs, and purchased with it some miserable gain! And vile was the bargain they made!",
+   "es": "Y recordad cuando Allah tomó un pacto de la Gente del Libro para que lo hicieran conocido y claro a la humanidad y no lo ocultaran. Pero lo arrojaron a sus espaldas y lo cambiaron por una ganancia miserable. ¡Qué pésimo fue el trato que hicieron!",
+  "fr": "Rappelez-vous quand Allah prit un engagement des Gens du Livre afin qu’ils le rendent connu et clair à l’humanité et qu’ils ne le dissimulent pas. Mais ils l’ont jeté derrière leurs dos et l’ont échangé contre un gain dérisoire. Quel mauvais marché ont-ils conclu !",
+  "ar": "وَإِذْ أَخَذَ اللَّهُ مِيثَاقَ الَّذِينَ أُوتُوا الْكِتَابَ لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهُ فَنَبَذُوهُ وَرَاءَ ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ"
+  },
+
+    { "type": "heading", "en": "THE FAITHFUL PEOPLE OF THE BOOK",
+  "es": "Los fieles de la Gente del Libro",
+  "fr": "Les Gens du Livre fidèles",
+  "ar": "أهلُ الكتاب المُخلِصون"
+  },
+    {
+      "type": "paragraph",
+      "en": "The Qur'an teaches that there are faithful Christians and Jews (People of the Book):",
+       "es": "El Corán enseña que existen cristianos y judíos fieles entre la Gente del Libro:",
+  "fr": "Le Coran enseigne qu’il existe des chrétiens et des juifs fidèles parmi les Gens du Livre :",
+  "ar": "يعلّم القرآن أن هناك مسيحيين ويهودًا مخلصين من أهل الكتاب:"
+    },
+
+    { "type": "verse", "reference": "Surat Al-'Imran 3:113-115", "en": "Not all of them are alike: Of the People of the Book are a portion that stand (for the right); they rehearse the Signs of Allah all night long, and they prostrate themselves in adoration. They believe in Allah and the Last Day; they enjoin what is right, and forbid what is wrong; and they hasten (in emulation) in (all) good works: They are in the ranks of the righteous. Of the good that they do, nothing will be rejected of them; for Allah knoweth well those that do right.",
+  "es": "No todos son iguales. Entre la Gente del Libro hay un grupo que se mantiene firme en lo correcto. Recitan los signos de Allah durante la noche y se postran en adoración. Creen en Allah y en el Último Día, ordenan lo que es correcto y prohíben lo que es incorrecto, y se apresuran a realizar buenas obras. Ellos se cuentan entre los justos. Ninguna de las buenas obras que realizan será rechazada, pues Allah conoce bien a quienes hacen el bien.",
+  "fr": "Ils ne sont pas tous pareils. Parmi les Gens du Livre se trouve un groupe qui se tient dans la droiture. Ils récitent les signes d’Allah durant la nuit et se prosternent en adoration. Ils croient en Allah et au Jour dernier, commandent le bien, interdisent le mal et s’empressent d’accomplir les bonnes œuvres. Ceux-là font partie des justes. Aucun bien qu’ils accomplissent ne leur sera refusé, car Allah connaît parfaitement ceux qui font le bien.",
+  "ar": "ليسوا سواءً. من أهل الكتاب أمة قائمة يتلون آيات الله آناء الليل وهم يسجدون. يؤمنون بالله واليوم الآخر، ويأمرون بالمعروف وينهون عن المنكر، ويسارعون في الخيرات، وأولئك من الصالحين. وما يفعلوا من خير فلن يُكفروه، والله عليم بالمتقين."
+  },
+    { "type": "verse", "reference": "Surat Al-Maidah 5:82", "en": "Nearest among them in love to the Believers wilt thou find those who say, 'We are Christians': Because amongst these are men devoted to learn ing and men who have renounced the world, and they are not arrogant.",
+   "es": "Encontrarás que los más cercanos en afecto a los creyentes son aquellos que dicen: «Somos cristianos». Esto se debe a que entre ellos hay hombres dedicados al conocimiento y monjes, y porque no son arrogantes.",
+  "fr": "Tu trouveras certainement que les plus proches des croyants par l’affection sont ceux qui disent : « Nous sommes chrétiens ». Cela s’explique par le fait qu’il y a parmi eux des savants dévoués et des moines, et qu’ils ne sont pas orgueilleux.",
+  "ar": "ولتجدن أقربهم مودةً للذين آمنوا الذين قالوا إنا نصارى، ذلك بأن منهم قسيسين ورهبانًا وأنهم لا يستكبرون."
+  },
+
+    { "type": "paragraph", "en": "According to the Qur'an, the faithful Christians and Jews did not do what the unfaithful did; they obeyed their Scriptures and worshipped Allah. What about their Scriptures? Does the Qur'an consider the Scripture of the Jews and Christians to have been corrupted by the actions of the Unfaithful? Or has it been preserved by the Faithful? Does the Qur'an con sider that only part of their Scripture now contains truth? As mentioned above, nowhere does the Qur'an accuse the People of the Book of textual corruption of the Previous Scriptures (the Bible) but it repeatedly accuses them of not following its message, thus showing its continued validity. The implication of all this is that the Qur'an assumes (and rightly so) that the Scriptures of the People of the Book are unchanged and reliable, having guidance and light.",
+  "es": "Según el Corán, los cristianos y judíos fieles no actuaron como los infieles; más bien, obedecieron sus Escrituras y adoraron a Allah. Pero ¿qué ocurre con sus propias Escrituras? ¿Considera el Corán que las Escrituras de judíos y cristianos fueron corrompidas por las acciones de los infieles, o preservadas por los fieles? ¿Sugiere el Corán que solo una parte de sus Escrituras contiene ahora la verdad? Como se mencionó anteriormente, en ninguna parte el Corán acusa a la Gente del Libro de haber corrompido textualmente las Escrituras anteriores (la Biblia). Por el contrario, los acusa repetidamente de no seguir su mensaje, lo cual confirma su validez continua. La implicación clara de todo esto es que el Corán asume —con razón— que las Escrituras de la Gente del Libro permanecen intactas, son fiables y contienen guía y luz.",
+  "fr": "Selon le Coran, les chrétiens et les juifs fidèles n’ont pas agi comme les infidèles ; ils ont obéi à leurs Écritures et ont adoré Allah. Mais qu’en est-il de leurs Écritures elles-mêmes ? Le Coran considère-t-il que les Écritures des juifs et des chrétiens ont été corrompues par les actes des infidèles, ou préservées par les fidèles ? Le Coran suggère-t-il que seule une partie de leurs Écritures contiendrait encore la vérité ? Comme mentionné précédemment, le Coran n’accuse nulle part les Gens du Livre d’avoir corrompu textuellement les Écritures antérieures (la Bible). Il les accuse plutôt, à maintes reprises, de ne pas en suivre le message, ce qui confirme leur validité continue. L’implication claire est donc que le Coran considère — à juste titre — que les Écritures des Gens du Livre sont restées inchangées, fiables et porteuses de guidance et de lumière.",
+  "ar": "وفقًا للقرآن، فإن المسيحيين واليهود المخلصين لم يفعلوا ما فعله غير المخلصين، بل أطاعوا كتبهم وعبدوا الله. ولكن ماذا عن كتبهم نفسها؟ هل يعتبر القرآن أن كتب اليهود والنصارى قد فُسدت بسبب أفعال غير المخلصين، أم أنها حُفظت بواسطة المخلصين؟ وهل يرى القرآن أن جزءًا فقط من كتبهم ما زال يحتوي على الحق؟ كما ذُكر سابقًا، لا يتهم القرآن في أي موضع أهلَ الكتاب بتحريف نصوص الكتب السابقة (الكتاب المقدّس). بل إنه يكرر اتهامهم بعدم الالتزام برسالتها، مما يدل على استمرار صلاحيتها. والخلاصة الواضحة من ذلك أن القرآن يفترض — وعن حق — أن كتب أهل الكتاب ما زالت محفوظة، موثوقة، وتحتوي على هدى ونور."
+  },
+
+    { "type": "question", "id": 5,
+      "question": { "en": "According to Al-'Imran 3:113-115, where are the People of the Book who follow the earlier Scriptures?",
+    "es": "Según Al-Imrán 3:113-115, ¿en qué condición o posición se encuentran los de la Gente del Libro que siguen las Escrituras anteriores?",
+  "fr": "Selon Âl-‘Imrân 3:113-115, quelle est la situation des Gens du Livre qui suivent les Écritures antérieures ?",
+  "ar": "وفقًا لآل عمران ٣:١١٣–١١٥، ما مكانة أهل الكتاب الذين يتّبعون الكتب السابقة؟"
+    },
+      "options": {
+        "en": [
+          "Halfway between Heaven and Hell.",
+          "Among the ranks of the righteous.",
+          "Bound for the lowest place in Hell."
+        ],
+        "es": [
+    "A medio camino entre el Paraíso y el Infierno.",
+    "Entre las filas de los justos.",
+    "Destinados al lugar más bajo del Infierno."
+  ],
+  "fr": [
+    "À mi-chemin entre le Paradis et l’Enfer.",
+    "Parmi les rangs des justes.",
+    "Destinés au niveau le plus bas de l’Enfer."
+  ],
+  "ar": [
+    "في منزلة بين الجنة والنار.",
+    "ضمن صفوف الصالحين.",
+    "مُتَّجِهون إلى أدنى دركات النار."
+  ]
+      },
+      "correct": 1
+    },
+
+    { "type": "paragraph", "en": "In our next lesson, we will look at one more source to find out if the Previous Revelations have been changed or not. We have looked thoroughly it what the Qur'an has said and have seen that it commends the Bible as the authentic, unchanged Word of Allah. In our next study, we will also see what the early Islamic scholars had to say on this very same topic.",
+   "es": "En nuestra próxima lección, examinaremos una fuente más para determinar si las revelaciones anteriores han sido cambiadas o no. Hemos analizado cuidadosamente lo que dice el Corán y hemos visto que afirma que la Biblia es la Palabra auténtica e inalterada de Allah. En el próximo estudio, también veremos qué dijeron los primeros eruditos islámicos sobre este mismo tema.",
+  "fr": "Dans notre prochaine leçon, nous examinerons une autre source afin de déterminer si les révélations antérieures ont été modifiées ou non. Nous avons étudié attentivement ce que dit le Coran et avons vu qu’il affirme que la Bible est la Parole authentique et inchangée d’Allah. Dans la prochaine étude, nous verrons également ce que les premiers savants islamiques ont dit sur ce même sujet.",
+  "ar": "في درسنا القادم، سننظر في مصدرٍ آخر لمعرفة ما إذا كان الوحي السابق قد تعرّض للتغيير أم لا. لقد درسنا بعناية ما يقوله القرآن، ورأينا أنه يؤكّد أن الكتاب المقدّس هو كلمة الله الأصيلة وغير المحرّفة. وفي الدراسة القادمة، سنطّلع أيضًا على ما قاله علماء الإسلام الأوائل حول هذا الموضوع نفسه."
+  }
+  ]
+}

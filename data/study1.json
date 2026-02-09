@@ -1,0 +1,467 @@
+{
+  "id": "study1",
+  "meta": {
+    "title": {
+  "en": "1 - Timeless Messages",
+  "es": "1 - Mensajes Eternos",
+  "fr": "1 - Messages Intemporels",
+  "ar": "١ - رسائل خالدة"
+},
+    "coverImage": "images/study1-header.jpeg"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "images/study1-header.jpeg"
+    },
+    {
+      "type": "paragraph",
+      "en": "ON A TINY, OBSCURE ISLAND IN THE PACIFIC OCEAN, primitive islanders who are partially naked build a landing strip. These islanders do not have electricity, cars, or any form of modernity. They do not have packaged food or manufactured clothing. They live as their ancestors did for thousands of years—hunting wild animals, drinking coconut milk, and gathering around small fires. But today, they are building a landing strip, as if expecting an airplane to land.",
+      "es": "EN UNA PEQUEÑA Y REMOTA ISLA DEL OCÉANO PACÍFICO, unos isleños primitivos, parcialmente desnudos, construyen una pista de aterrizaje. Estos isleños no tienen electricidad, coches ni ninguna forma de vida moderna. No tienen alimentos envasados ni ropa fabricada. Viven como lo hicieron sus antepasados durante miles de años: cazando animales salvajes, bebiendo leche de coco y reuniéndose alrededor de pequeños fuegos. Pero hoy están construyendo una pista de aterrizaje, como si esperaran que un avión fuera a aterrizar.",
+      "fr": "SUR UNE PETITE ÎLE RECULÉE DE L’OCÉAN PACIFIQUE, des insulaires primitifs, partiellement nus, construisent une piste d’atterrissage. Ces insulaires n’ont ni électricité, ni voitures, ni aucune forme de modernité. Ils n’ont pas de nourriture emballée ni de vêtements manufacturés. Ils vivent comme leurs ancêtres l’ont fait pendant des milliers d’années : chassant des animaux sauvages, buvant du lait de coco et se rassemblant autour de petits feux. Mais aujourd’hui, ils construisent une piste d’atterrissage, comme s’ils s’attendaient à ce qu’un avion se pose.",
+      "ar": "على جزيرة صغيرة ونائية في المحيط الهادئ، يقوم سكان بدائيون، شبه عراة، ببناء مهبط للطائرات. هؤلاء السكان لا يملكون كهرباء ولا سيارات ولا أي شكل من أشكال الحياة الحديثة. لا يملكون طعامًا معلبًا ولا ملابس مصنَّعة. يعيشون كما عاش أجدادهم لآلاف السنين: يصطادون الحيوانات البرية، ويشربون حليب جوز الهند، ويتجمعون حول نيران صغيرة. ولكن اليوم، هم يبنون مهبطًا للطائرات، وكأنهم يتوقعون هبوط طائرة."
+    },
+    {
+      "type": "paragraph",
+      "en": "Years earlier, during World War II, these innocent natives had their first contact with the outside world. It came in the form of airdropped cargo from the American or Japanese armies as each supplied their troops. They had never seen tin cans of food, guns, or canvas tents before. To these people, it seemed like magic had come down out of the sky from the gods.",
+      "es": "Años antes, durante la Segunda Guerra Mundial, estos inocentes nativos tuvieron su primer contacto con el mundo exterior. Este llegó en forma de cargamentos lanzados desde el aire por los ejércitos estadounidenses o japoneses mientras abastecían a sus tropas. Nunca antes habían visto latas de comida, armas o tiendas de campaña de lona. Para estas personas, parecía que la magia había descendido del cielo enviada por los dioses.",
+      "fr": "Des années plus tôt, pendant la Seconde Guerre mondiale, ces innocents indigènes eurent leur premier contact avec le monde extérieur. Cela se produisit sous la forme de cargaisons larguées par avion par les armées américaine ou japonaise, qui ravitaillaient leurs troupes. Ils n’avaient jamais vu auparavant des boîtes de conserve, des armes ou des tentes en toile. Pour ces personnes, cela semblait être de la magie descendue du ciel envoyée par les dieux.",
+      "ar": "قبل سنوات، خلال الحرب العالمية الثانية، كان لهؤلاء السكان الأبرياء أول اتصال لهم مع العالم الخارجي. جاء ذلك على شكل شحنات أُلقيت من الجو من قبل الجيوش الأمريكية أو اليابانية أثناء تزويد قواتهم بالإمدادات. لم يكونوا قد رأوا من قبل علب طعام معدنية أو أسلحة أو خيامًا قماشية. بالنسبة لهم، بدا الأمر وكأن السحر قد نزل من السماء من عند الآلهة."
+    },
+    {
+      "type": "paragraph",
+      "en": "They begin to worship a mysterious figure named John Frum, believing he will return and bring them infinite material goods. Followers of this \"Cargo Cult\" build ceremonial landing strips to encourage John Frum, whom they come to consider their god and an unfailing source of material wealth, to return.",
+      "es": "Comienzan a adorar a una figura misteriosa llamada John Frum, creyendo que regresará y les traerá infinitos bienes materiales. Los seguidores de este \"Culto del Cargo\" construyen pistas de aterrizaje ceremoniales para animar a John Frum —a quien llegan a considerar su dios y una fuente inagotable de riqueza material— a que regrese.",
+      "fr": "Ils commencent à adorer une figure mystérieuse appelée John Frum, croyant qu’il reviendra et leur apportera des biens matériels infinis. Les adeptes de ce « culte du cargo » construisent des pistes d’atterrissage cérémonielles pour encourager le retour de John Frum, qu’ils en viennent à considérer comme leur dieu et comme une source inépuisable de richesse matérielle.",
+      "ar": "يبدأون في عبادة شخصية غامضة تُدعى جون فروم، معتقدين أنه سيعود ويجلب لهم خيرات مادية لا حصر لها. ويقوم أتباع هذا «عبادة الشحن» ببناء مدارج طائرات احتفالية لتشجيع عودة جون فروم، الذي صاروا يعتبرونه إلههم ومصدرًا لا ينضب للثروة المادية."
+    },
+    {
+      "type": "paragraph",
+      "en": "Unfortunately, followers of the Cargo Cult have been waiting for decades but have received no gifts or revelations from their god. John Frum, whoever he may be, does not communicate with the pagan islanders in the Pacific who eagerly await his return. In fact, these pagans have received absolutely nothing, and have heard nothing but the sound of wind in the palm trees.",
+      "es": "Lamentablemente, los seguidores del Culto del Cargo han estado esperando durante décadas, pero no han recibido ningún regalo ni revelación de su dios. John Frum, quienquiera que sea, no se comunica con los isleños paganos del Pacífico que esperan ansiosamente su regreso. De hecho, estos paganos no han recibido absolutamente nada y no han escuchado otra cosa que el sonido del viento entre las palmeras.",
+      "fr": "Malheureusement, les adeptes du culte du cargo attendent depuis des décennies, mais n’ont reçu aucun don ni aucune révélation de leur dieu. John Frum, qui qu’il soit, ne communique pas avec les insulaires païens du Pacifique qui attendent avec impatience son retour. En réalité, ces païens n’ont absolument rien reçu et n’ont entendu que le bruit du vent dans les palmiers.",
+      "ar": "للأسف، فإن أتباع عبادة الشحن ينتظرون منذ عقود، لكنهم لم يتلقوا أي هدايا ولا أي وحي من إلههم. جون فروم، أيًّا كان، لا يتواصل مع سكان الجزر الوثنيين في المحيط الهادئ الذين ينتظرون عودته بشوق. في الحقيقة، لم يتلقَّ هؤلاء الوثنيون شيئًا على الإطلاق، ولم يسمعوا سوى صوت الرياح بين أشجار النخيل."
+},
+    
+    {
+      "type": "paragraph",
+      "en": "Fortunately for us, we worship a great and mighty God who communicate with us through His prophets. We are not like people lost in a distant island without any communication. In this lesson, we will look at the wonderful revelations that Allah has sent down through the ages.",
+      "es": "Afortunadamente para nosotros, adoramos a un Dios grande y poderoso que se comunica con nosotros a través de Sus profetas. No somos como personas perdidas en una isla lejana sin ningún tipo de comunicación. En esta lección, veremos las maravillosas revelaciones que Allah ha enviado a lo largo de las eras.",
+      "fr": "Heureusement pour nous, nous adorons un Dieu grand et puissant qui communique avec nous par l’intermédiaire de Ses prophètes. Nous ne sommes pas comme des personnes perdues sur une île lointaine sans aucun moyen de communication. Dans cette leçon, nous examinerons les merveilleuses révélations qu’Allah a envoyées à travers les âges.",
+      "ar": "ولحسن حظنا، نحن نعبد إلهًا عظيمًا وقديرًا يتواصل معنا من خلال أنبيائه. لسنا مثل أناس تائهين في جزيرة بعيدة بلا أي وسيلة تواصل. في هذه الدرس، سنتأمل في الوحيات العظيمة التي أنزلها الله عبر العصور."
+   },
+    {
+      "type": "heading",
+      "en": "ACCORDING TO THE QUR'AN, WHICH REVELATIONS ALLAH SENT DOWN TO MANKIND?",
+      "es": "SEGÚN EL CORÁN, ¿QUÉ REVELACIONES ENVIÓ ALLAH A LA HUMANIDAD?",
+      "fr": "SELON LE CORAN, QUELLES RÉVÉLATIONS ALLAH A-T-IL ENVOYÉES À L’HUMANITÉ ?",
+      "ar": "وَفْقًا لِلْقُرْآن، مَا هِيَ الْوُحْيَاتُ الَّتِي أَنْزَلَهَا اللَّهُ لِلْبَشَرِيَّة؟"
+    },
+    {
+      "type": "verse",
+      "reference": "Surat Al-'Imran 3:3-4",
+      "en": "It is He Who sent down to thee (step by step), in truth, the Book, confirming what went before it; and He sent down the Law (of Moses) and the Gospel (of Jesus) before this, as a guide to people, and He sent down the criterion (of judgment between right and wrong).",
+      "es": "Él es quien te ha revelado el Libro con la verdad, confirmando lo que fue revelado antes de él; y reveló la Ley (de Moisés) y el Evangelio (de Jesús) con anterioridad, como guía para la humanidad, y también reveló el criterio para distinguir entre lo correcto y lo incorrecto.",
+      "fr": "C’est Lui qui t’a révélé le Livre avec la vérité, confirmant ce qui l’a précédé ; et Il avait déjà fait descendre la Loi (de Moïse) et l’Évangile (de Jésus) auparavant, comme guide pour les hommes, et Il a aussi fait descendre le discernement entre le bien et le mal.",
+      "ar": "هُوَ الَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ، وَأَنْزَلَ التَّوْرَاةَ وَالْإِنْجِيلَ مِنْ قَبْلُ هُدًى لِلنَّاسِ، وَأَنْزَلَ الْفُرْقَانَ."
+    },
+    {
+      "type": "paragraph",
+      "en": "The verse above states that Allah revealed the Qur'an and he also revealed the Scriptures that came before it (the Tawrat, Zabur, and Injeel). These revelations were important because they provided a moral system of right and wrong and a criterion for mankind's judgment. So according to the articles of faith there are a total of four books revealed by Allah: the Tawrat, the Zabur, the Injeel and the Qur'an.",
+      "es": "El versículo anterior afirma que Allah reveló el Corán y que también reveló las Escrituras que vinieron antes de él (la Tawrat, el Zabur y el Injeel). Estas revelaciones fueron importantes porque proporcionaron un sistema moral de lo correcto y lo incorrecto, así como un criterio para el juicio de la humanidad. Por lo tanto, según los artículos de la fe, hay un total de cuatro libros revelados por Allah: la Tawrat, el Zabur, el Injeel y el Corán.",
+      "fr": "Le verset ci-dessus affirme qu’Allah a révélé le Coran et qu’Il a également révélé les Écritures qui l’ont précédé (la Tawrat, le Zabur et l’Injeel). Ces révélations étaient importantes car elles ont fourni un système moral du bien et du mal ainsi qu’un critère pour le jugement de l’humanité. Ainsi, selon les articles de la foi, il y a au total quatre livres révélés par Allah : la Tawrat, le Zabur, l’Injeel et le Coran.",
+      "ar": "يُبيِّن هذا الآية أن الله أنزل القرآن، كما أنزل الكتب التي سبقته (التوراة والزبور والإنجيل). وكانت هذه الوحيات مهمة لأنها قدَّمت نظامًا أخلاقيًا يميِّز بين الحق والباطل، ومعيارًا لحكم البشرية. لذلك، ووفقًا لأركان الإيمان، فإن عدد الكتب التي أنزلها الله هو أربعة: التوراة والزبور والإنجيل والقرآن."
+    },
+    {
+      "type": "question",
+      "id": 1,
+      "question": {
+        "en": "What does Sura 3:3-4 give as a reason the previous revelations were sent down?",
+        "es": "¿Qué razón da la Sura 3:3-4 para explicar por qué fueron enviadas las revelaciones anteriores?",
+        "fr": "Quelle raison la sourate 3:3-4 donne-t-elle pour expliquer pourquoi les révélations précédentes ont été envoyées ?",
+        "ar": "ما السبب الذي تذكره سورة 3:3-4 لإنزال الوحيات السابقة؟"
+      },
+      "options": {
+        "en": [
+          "To be a spiritual and ethical criterion between right and wrong.",
+          "To be a guide for people.",
+          "To be only a guide for a short period of time and be replaced later."
+        ],
+        "es": [
+    "Ser un criterio espiritual y ético entre lo correcto y lo incorrecto.",
+    "Ser una guía para las personas.",
+    "Ser solo una guía por un corto período de tiempo y ser reemplazada después."
+  ],
+        "fr": [
+    "Être un critère spirituel et éthique entre le bien et le mal.",
+    "Être un guide pour les gens.",
+    "Être seulement un guide pour une courte période et être remplacée plus tard."
+  ],
+       "ar": [
+    "أن تكون معيارًا روحيًا وأخلاقيًا بين الحق والباطل.",
+    "أن تكون هداية للناس.",
+    "أن تكون مجرد هداية لفترة قصيرة ثم تُستبدل لاحقًا."
+  ]
+      },
+      "correct": 1
+    },
+
+    {
+      "type": "heading",
+      "en": "WHERE DID PROPHET MUSA (PBUH) GET THE TAWRAT?",
+      "es": "¿DE DÓNDE RECIBIÓ EL PROFETA MUSA (PBUH) LA TAWRAT?",
+      "fr": "D’OÙ LE PROPHÈTE MUSA (PSL) A-T-IL REÇU LA TAWRAT ?",
+      "ar": "مِنْ أَيْنَ تَلَقَّى النَّبِيُّ مُوسَى (عليه السلام) التَّوْرَاة؟"
+    },
+    {
+      "type": "verse",
+      "reference": "Surat Al-Maidah 5:44",
+      "en": "It was We who revealed the law (to Moses): therein was guidance and light. By its standard have been judged the Jews, by the prophets who bowed to Allah's will, by the rabbis and the doctors of law: for to them was entrusted the protection of Allah's book, and they were witnesses thereto: therefore fear not men, but fear me, and sell not my signs for a miserable price. If any do fail to judge by (the light of) what Allah hath revealed, they are (no better than) Unbelievers.",
+      "es": "Fuimos Nosotros quienes revelamos la Ley (a Moisés): en ella había guía y luz. Por ella fueron juzgados los judíos, por los profetas que se sometieron a la voluntad de Allah, por los rabinos y los doctores de la ley; pues a ellos se les confió la protección del Libro de Allah y fueron testigos de ello. Por lo tanto, no temáis a los hombres, sino temedme a Mí, y no vendáis Mis signos por un precio miserable. Quienes no juzgan conforme a lo que Allah ha revelado, esos son los incrédulos.",
+      "fr": "C’est Nous qui avons fait descendre la Loi (à Moïse) : elle contenait une guidance et une lumière. Les Juifs étaient jugés d’après elle par les prophètes soumis à la volonté d’Allah, par les rabbins et les docteurs de la loi ; car la garde du Livre d’Allah leur avait été confiée et ils en étaient témoins. Ne craignez donc pas les hommes, mais craignez-Moi, et ne vendez pas Mes signes à vil prix. Ceux qui ne jugent pas selon ce qu’Allah a révélé sont les mécréants.",
+      "ar": "إِنَّا أَنْزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ اللَّهِ وَكَانُوا عَلَيْهِ شُهَدَاءَ ۚ فَلَا تَخْشَوُا النَّاسَ وَاخْشَوْنِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ"
+    },
+    {
+      "type": "paragraph",
+      "en": "The above verse clearly states that Prophet Musa (pbuh) received the Tawrat from Allah Himself. This is not the only text that refers to the Tawrat (or the Old Testament) being given by Allah; there are several texts that state this fact within the Qur'an. The verse points out that there was guidance and light in the Tawrat and by its standards the Jews were being judged.",
+      "es": "El versículo anterior afirma claramente que el Profeta Musa (pbuh) recibió la Tawrat directamente de Allah. Este no es el único texto que se refiere a que la Tawrat (o el Antiguo Testamento) fue dada por Allah; hay varios textos dentro del Corán que confirman este hecho. El versículo señala que en la Tawrat había guía y luz, y que por sus normas los judíos eran juzgados.",
+      "fr": "Le verset ci-dessus affirme clairement que le prophète Musa (psl) a reçu la Tawrat directement d’Allah. Ce n’est pas le seul texte qui indique que la Tawrat (ou l’Ancien Testament) a été donnée par Allah ; plusieurs passages du Coran confirment ce fait. Le verset souligne qu’il y avait dans la Tawrat une guidance et une lumière, et que les Juifs étaient jugés selon ses normes.",
+      "ar": "تُبيِّن الآية السابقة بوضوح أن النبي موسى (عليه السلام) تلقّى التوراة من الله نفسه. وهذا ليس النص الوحيد الذي يشير إلى أن التوراة (أو العهد القديم) قد أُنزلت من عند الله؛ فهناك عدة نصوص في القرآن تؤكد هذه الحقيقة. وتوضح الآية أن في التوراة هداية ونورًا، وأن اليهود كانوا يُحاكمون وفقًا لمعاييرها."
+    },
+    {
+      "type": "question",
+      "id": 2,
+      "question": {
+        "en": "To whom did Allah give the book of the law (the Tawrat)?",
+        "es": "¿A quién le dio Allah el libro de la ley (la Tawrat)?",
+        "fr": "À qui Allah a-t-Il donné le livre de la Loi (la Tawrat) ?",
+        "ar": "لِمَنْ أَعْطَى اللَّهُ كِتَابَ الشَّرِيعَةِ (التَّوْرَاة)؟"
+      },
+      "options": {
+        "en": [
+          "To Musa (pbuh)",
+          "To Adam (pbuh)",
+          "To Ibrahim (pbuh)"
+        ],
+        "es": [
+    "A Moisés (pbuh)",
+    "A Adán (pbuh)",
+    "A Abraham (pbuh)"
+  ],
+  "fr": [
+    "À Musa (psl)",
+    "À Adam (psl)",
+    "À Ibrahim (psl)"
+  ],
+  "ar": [
+    "إلى موسى (عليه السلام)",
+    "إلى آدم (عليه السلام)",
+    "إلى إبراهيم (عليه السلام)"
+  ]
+      },
+      "correct": 0
+    },
+    {
+      "type": "question",
+      "id": 3,
+      "question": {
+        "en": "If anybody fails to judge by the light of what Allah has revealed, what is that person called?",
+        "es": "Si alguien no juzga conforme a la luz de lo que Allah ha revelado, ¿cómo se le llama a esa persona?",
+        "fr": "Si quelqu’un ne juge pas selon la lumière de ce qu’Allah a révélé, comment appelle-t-on cette personne ?",
+        "ar": "إذا لم يحكم شخصٌ بما أنزل الله، فبِمَ يُوصَف هذا الشخص؟"
+      },
+      "options": {
+        "en": [
+          "A good man",
+          "A prophet",
+          "An unbeliever",
+          "A rabbi"
+        ],
+         "es": [
+    "Un buen hombre",
+    "Un profeta",
+    "Un incrédulo",
+    "Un rabino"
+  ],
+  "fr": [
+    "Un homme bon",
+    "Un prophète",
+    "Un mécréant",
+    "Un rabbin"
+  ],
+  "ar": [
+    "رجل صالح",
+    "نبي",
+    "كافر",
+    "حاخام"
+  ]
+      },
+      "correct": 2
+    }
+
+
+,
+    {
+      "type": "heading",
+      "en": "WHERE DID PROPHET DAOUD (PBUH) GET THE ZABUR FROM?",
+      "es": "¿DE DÓNDE RECIBIÓ EL PROFETA DAOUD (PBUH) EL ZABUR?",
+      "fr": "D’OÙ LE PROPHÈTE DAOUD (PSL) A-T-IL REÇU LE ZABUR ?",
+      "ar": "مِنْ أَيْنَ تَلَقَّى النَّبِيُّ دَاوُود (عليه السلام) الزَّبُور؟"
+    },
+    {
+      "type": "verse",
+      "reference": "Surat Al-Isra 17:55",
+      "en": "And it is your Lord that knoweth best all beings that are in the heavens and on earth: We did bestow on some prophets more (and other) gifts than on others: and We gave to David (the gift of) the Psalms.",
+      "es": "Y tu Señor conoce mejor que nadie a todos los seres que están en los cielos y en la tierra. A algunos profetas les concedimos más dones que a otros; y a David le dimos los Salmos.",
+      "fr": "Et ton Seigneur connaît mieux que quiconque tous les êtres qui sont dans les cieux et sur la terre. Nous avons accordé à certains prophètes plus de dons qu’à d’autres ; et Nous avons donné à David les Psaumes.",
+      "ar": "وَرَبُّكَ أَعْلَمُ بِمَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۗ وَلَقَدْ فَضَّلْنَا بَعْضَ النَّبِيِّينَ عَلَىٰ بَعْضٍ ۖ وَآتَيْنَا دَاوُودَ زَبُورًا"
+    },
+    {
+      "type": "paragraph",
+      "en": "The Qur'an also confirms that Allah revealed the Zabur (the Psalms) to Prophet Daoud (David) (An-Nisa 4:163; Al-Isra 17:55); and it is \"a blessed book sent down to him\" (Saad 38:29). Because he was one of Ibrahim's (pbuh) rightly-guided descendants (Al-'Anam 6:84), Allah gave him the Scripture, wisdom and prophecy. Commentator Yusuf Ali, a translator of the Qur'an into English, comments, \"David was given the Zabur, the Psalter or Psalms, intended (then) to be sung for the worship of Allah and the celebration of Allah's praise.\"",
+      "es": "El Corán también confirma que Allah reveló el Zabur (los Salmos) al Profeta Daoud (David) (An-Nisa 4:163; Al-Isra 17:55); y que es \"un libro bendito que le fue enviado\" (Saad 38:29). Como él era uno de los descendientes rectamente guiados de Ibrahim (pbuh) (Al-'Anam 6:84), Allah le concedió la Escritura, la sabiduría y la profecía. El comentarista Yusuf Ali, traductor del Corán al inglés, comenta: \"A David se le dio el Zabur, el Salterio o los Salmos, destinados (en aquel entonces) a ser cantados para la adoración de Allah y la celebración de Su alabanza.\"",
+      "fr": "Le Coran confirme également qu’Allah a révélé le Zabur (les Psaumes) au prophète Daoud (David) (An-Nisa 4:163 ; Al-Isra 17:55) ; et qu’il s’agit d’« un livre béni qui lui a été révélé » (Saad 38:29). Puisqu’il faisait partie des descendants bien guidés d’Ibrahim (psl) (Al-'Anam 6:84), Allah lui accorda l’Écriture, la sagesse et la prophétie. Le commentateur Yusuf Ali, traducteur du Coran en anglais, précise : « David reçut le Zabur, le Psautier ou les Psaumes, destinés (à l’époque) à être chantés pour l’adoration d’Allah et la célébration de Sa louange. »",
+      "ar": "ويؤكد القرآن أيضًا أن الله أنزل الزبور (المزامير) على النبي داود (عليه السلام) (النساء 4:163؛ الإسراء 17:55)، وأنه «كتاب مبارك أُنزل عليه» (ص 38:29). وبما أنه كان من ذرية إبراهيم (عليه السلام) المهتدين (الأنعام 6:84)، فقد آتاه الله الكتاب والحكمة والنبوة. ويعلّق المفسر يوسف علي، مترجم القرآن إلى الإنجليزية، قائلاً: «أُعطي داود الزبور، أي المزامير، وكانت تُنشد آنذاك لعبادة الله والاحتفاء بتسبيحه»."
+    },
+    {
+      "type": "question",
+      "id": 4,
+      "question": {
+        "en": "What gift did Allah bestow upon Prophet Daoud (pbuh)?",
+        "es": "¿Qué don le concedió Allah al Profeta Daoud (pbuh)?",
+  "fr": "Quel don Allah a-t-Il accordé au prophète Daoud (psl) ?",
+  "ar": "ما العطية التي منحها الله للنبي داود (عليه السلام)؟"
+      },
+      "options": {
+        "en": [
+          "A special son.",
+          "The Kingdom of Egypt.",
+          "The Zabur (Psalms)."
+        ],
+        "es": [
+    "Un hijo especial.",
+    "El Reino de Egipto.",
+    "El Zabur (los Salmos)."
+  ],
+  "fr": [
+    "Un fils spécial.",
+    "Le Royaume d’Égypte.",
+    "Le Zabur (les Psaumes)."
+  ],
+  "ar": [
+    "ابن مميّز.",
+    "مملكة مصر.",
+    "الزبور (المزامير)."
+  ]    
+      },
+      "correct": 2
+    },
+
+    {
+      "type": "heading",
+      "en": "WHERE DID ISA AL-MASIH (PBUH) GET THE INJEEL FROM?",
+       "es": "¿DE DÓNDE RECIBIÓ ISA AL-MASIH (PBUH) EL INJEEL?",
+  "fr": "D’OÙ ISA AL-MASIH (PSL) A-T-IL REÇU L’INJEEL ?",
+  "ar": "مِنْ أَيْنَ تَلَقَّى عِيسَى الْمَسِيح (عليه السلام) الإِنْجِيل؟"
+    },
+    {
+      "type": "verse",
+      "reference": "Surat Al-Maidah 5:46",
+      "en": "And in their footsteps We sent Isa (pbuh) the son of Mary, confirming the Law that had come before him: We sent him the Gospel: therein was guidance and light, and confirmation of the Law that had come before him: a guidance and an admonition to those who fear Allah.",
+       "es": "Y después de ellos enviamos a Isa (pbuh), hijo de Maryam, confirmando la Ley que había venido antes de él. Le enviamos el Evangelio, en el cual había guía y luz, y confirmación de la Ley que había venido antes de él, como guía y amonestación para quienes temen a Allah.",
+  "fr": "Et Nous avons envoyé après eux Isa (psl), fils de Maryam, confirmant la Loi qui l’avait précédé. Nous lui avons donné l’Évangile, dans lequel il y avait une guidance et une lumière, confirmant la Loi qui l’avait précédé, comme une guidance et une exhortation pour ceux qui craignent Allah.",
+  "ar": "وَقَفَّيْنَا عَلَىٰ آثَارِهِم بِعِيسَى ابْنِ مَرْيَمَ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ مِنَ التَّوْرَاةِ ۖ وَآتَيْنَاهُ الْإِنْجِيلَ فِيهِ هُدًى وَنُورٌ وَمُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ مِنَ التَّوْرَاةِ وَهُدًى وَمَوْعِظَةً لِلْمُتَّقِينَ"
+    },
+    {
+      "type": "paragraph",
+      "en": "The Qur'an emphatically declares that the Injeel was revealed by Allah. Isa al-Masih (pbuh) did not personally write down the Injeel, just like Prophet Muhammad (pbuh) did not write down the Qur'an. He did not need to do that for it to be an authentic revelation given to him, just as Prophet Muhammad (pbuh) did not have to write the Qur'an in order for it to be the revelation given to him.",
+      "es": "El Corán declara de manera enfática que el Injeel fue revelado por Allah. Isa al-Masih (pbuh) no escribió personalmente el Injeel, de la misma manera que el Profeta Muhammad (pbuh) no escribió el Corán. No era necesario que lo hiciera para que fuera una revelación auténtica que le fuera concedida, así como el Profeta Muhammad (pbuh) no tuvo que escribir el Corán para que este fuera la revelación que le fue dada.",
+  "fr": "Le Coran affirme avec insistance que l’Injeel a été révélé par Allah. Isa al-Masih (psl) n’a pas écrit lui-même l’Injeel, tout comme le prophète Muhammad (psl) n’a pas écrit le Coran. Il n’était pas nécessaire qu’il le fasse pour que ce soit une révélation authentique qui lui soit accordée, de la même manière que le prophète Muhammad (psl) n’a pas eu besoin d’écrire le Coran pour qu’il soit la révélation qui lui a été donnée.",
+  "ar": "يؤكد القرآن بشكل قاطع أن الإنجيل أُنزل من عند الله. ولم يكتب عيسى المسيح (عليه السلام) الإنجيل بنفسه، تمامًا كما أن النبي محمد (عليه الصلاة والسلام) لم يكتب القرآن. ولم يكن ذلك ضروريًا لكي تكون وحياً حقيقياً أُعطي له، كما أن النبي محمد لم يكن بحاجة إلى كتابة القرآن لكي يكون هو الوحي الذي أُوحي إليه."
+    },
+    {
+      "type": "paragraph",
+      "en": "Disciples of Isa al-Masih (peace be upon them all) who heard his words penned them down simply as the history of what happened and the transcription of the words that he spoke to them as instruction.",
+      "es": "Los discípulos de Isa al-Masih (la paz sea con todos ellos), que escucharon sus palabras, las escribieron simplemente como la historia de lo que ocurrió y como la transcripción de las palabras que él les habló como enseñanza.",
+  "fr": "Les disciples d’Isa al-Masih (que la paix soit sur eux tous), qui entendirent ses paroles, les consignèrent simplement comme l’histoire de ce qui s’est passé et comme la transcription des paroles qu’il leur adressa en guise d’enseignement.",
+  "ar": "وقام تلاميذ عيسى المسيح (عليهم السلام جميعًا)، الذين سمعوا كلماته، بتدوينها على أنها مجرد تسجيل لما حدث، ونقلٍ للكلمات التي قالها لهم على سبيل التعليم."
+    },
+    {
+      "type": "question",
+      "id": 5,
+      "question": {
+        "en": "According to the Qur'an in Surat Al-Maidah 5:46, why was Isa al-Masih (pbuh) sent?",
+        "es": "Según el Corán en la Sura Al-Maidah 5:46, ¿por qué fue enviado Isa al-Masih (pbuh)?",
+  "fr": "Selon le Coran dans la sourate Al-Maïdah 5:46, pourquoi Isa al-Masih (psl) a-t-il été envoyé ?",
+  "ar": "وفقًا للقرآن في سورة المائدة 5:46، لماذا أُرسل عيسى المسيح (عليه السلام)؟"
+      },
+      "options": {
+        "en": [
+          "To destroy the previous scriptures (the Tawrat and Zabur).",
+          "To change the previous scriptures (the Tawrat and Zabur).",
+          "To confirm the previous scriptures (the Tawrat and Zabur)."
+        ],
+         "es": [
+    "Para destruir las Escrituras anteriores (la Tawrat y el Zabur).",
+    "Para cambiar las Escrituras anteriores (la Tawrat y el Zabur).",
+    "Para confirmar las Escrituras anteriores (la Tawrat y el Zabur)."
+  ],
+  "fr": [
+    "Pour détruire les Écritures précédentes (la Tawrat et le Zabur).",
+    "Pour modifier les Écritures précédentes (la Tawrat et le Zabur).",
+    "Pour confirmer les Écritures précédentes (la Tawrat et le Zabur)."
+  ],
+  "ar": [
+    "لتدمير الكتب السابقة (التوراة والزبور).",
+    "لتغيير الكتب السابقة (التوراة والزبور).",
+    "لتأكيد الكتب السابقة (التوراة والزبور)."
+  ]
+      },
+      "correct": 2
+    },
+    {
+      "type": "question",
+      "id": 6,
+      "question": {
+        "en": "What was the relationship between the revelation that Isa al-Masih (pbuh) brought and the previous revelations?",
+        "es": "¿Cuál fue la relación entre la revelación que trajo Isa al-Masih (pbuh) y las revelaciones anteriores?",
+  "fr": "Quelle était la relation entre la révélation apportée par Isa al-Masih (psl) et les révélations précédentes ?",
+  "ar": "ما العلاقة بين الوحي الذي جاء به عيسى المسيح (عليه السلام) والوحي السابق؟"
+      },
+      "options": {
+        "en": [
+          "His revelation confirmed (agreed perfectly) with the previous revelations.",
+          "His revelation canceled the previous revelations.",
+          "His revelation was historically inaccurate but contained nice stories."
+        ],
+        "es": [
+    "Su revelación confirmó (coincidió perfectamente) con las revelaciones anteriores.",
+    "Su revelación anuló las revelaciones anteriores.",
+    "Su revelación fue históricamente inexacta, pero contenía historias bonitas."
+  ],
+  "fr": [
+    "Sa révélation a confirmé (a parfaitement concordé avec) les révélations précédentes.",
+    "Sa révélation a annulé les révélations précédentes.",
+    "Sa révélation était historiquement inexacte mais contenait de belles histoires."
+  ],
+  "ar": [
+    "وحيه أكد (وتوافق تمامًا مع) الوحيات السابقة.",
+    "وحيه ألغى الوحيات السابقة.",
+    "وحيه كان غير دقيق تاريخيًا لكنه احتوى على قصص جميلة."
+  ]
+      },
+      "correct": 0
+    }
+,
+    {
+      "type": "heading",
+      "en": "WHAT IS THE ISLAMIC BELIEF CONCERNING THE FOUR HOLY BOOKS OF ALLAH?",
+      "es": "¿CUÁL ES LA CREENCIA ISLÁMICA ACERCA DE LOS CUATRO LIBROS SAGRADOS DE ALLAH?",
+  "fr": "QUELLE EST LA CROYANCE ISLAMIQUE CONCERNANT LES QUATRE LIVRES SAINTS D’ALLAH ?",
+  "ar": "مَا هِيَ الْعَقِيدَةُ الْإِسْلَامِيَّةُ حَوْلَ الْكُتُبِ الْأَرْبَعَةِ الْمُقَدَّسَةِ لِلَّه؟"
+    },
+    {
+      "type": "paragraph",
+      "en": "Belief in the Holy Books (heavenly books) that Allah sent down is a fundamental pillar of Islam. Notice that this fundamental pillar is called \"al-kutub\" and not \"al-kitaab.\" We must ask ourselves why Islam titles one of its fundamental beliefs as \"the books\" (plural) instead of a singular \"book.\" These four holy books are the Tawrat, the Zabur, the Injeel and the Qur'an.",
+      "es": "Creer en los Libros Sagrados (libros celestiales) que Allah ha revelado es un pilar fundamental del Islam. Obsérvese que este pilar fundamental se llama \"al-kutub\" y no \"al-kitaab\". Debemos preguntarnos por qué el Islam denomina a una de sus creencias fundamentales como \"los libros\" (en plural) en lugar de un solo \"libro\". Estos cuatro libros sagrados son la Tawrat, el Zabur, el Injeel y el Corán.",
+  "fr": "La croyance dans les Livres saints (livres célestes) qu’Allah a révélés est un pilier fondamental de l’islam. Remarquons que ce pilier fondamental est appelé « al-kutub » et non « al-kitaab ». Nous devons nous demander pourquoi l’islam désigne l’une de ses croyances fondamentales comme « les livres » (au pluriel) plutôt qu’un seul « livre ». Ces quatre livres saints sont la Tawrat, le Zabur, l’Injeel et le Coran.",
+  "ar": "الإيمان بالكتب المقدسة (الكتب السماوية) التي أنزلها الله هو ركن أساسي من أركان الإسلام. لاحِظ أن هذا الركن يُسمّى «الكتب» وليس «الكتاب». وعلينا أن نتساءل: لماذا يسمّي الإسلام إحدى معتقداته الأساسية «الكتب» بصيغة الجمع، وليس «كتابًا» بصيغة المفرد؟ وهذه الكتب الأربعة المقدسة هي: التوراة والزبور والإنجيل والقرآن."
+    },
+    {
+      "type": "paragraph",
+      "en": "The Tawrat is the Old Testament or the Law of Prophet Musa (pbuh). The Zabur is the Psalms of Prophet Daoud (pbuh). The Injeel is the New Testament or the Gospel of Isa al-Masih (pbuh). In order to be a true Muslim believer, one has to believe in all the Holy books (the Scriptures of Allah) and this belief is well supported in the Qur'an.",
+      "es": "La Tawrat es el Antiguo Testamento o la Ley del Profeta Musa (pbuh). El Zabur son los Salmos del Profeta Daoud (pbuh). El Injeel es el Nuevo Testamento o el Evangelio de Isa al-Masih (pbuh). Para ser un verdadero creyente musulmán, es necesario creer en todos los Libros Sagrados (las Escrituras de Allah), y esta creencia está firmemente respaldada en el Corán.",
+      "fr": "La Tawrat est l’Ancien Testament ou la Loi du Prophète Musa (psl). Le Zabur est le Livre des Psaumes du Prophète Daoud (psl). L’Injeel est le Nouveau Testament ou l’Évangile d’Isa al-Masih (psl). Pour être un véritable croyant musulman, il faut croire en tous les Livres saints (les Écritures d’Allah), et cette croyance est solidement appuyée dans le Coran.",
+      "ar": "التوراة هي العهد القديم أو شريعة النبي موسى (عليه السلام). والزبور هو كتاب المزامير للنبي داود (عليه السلام). والإنجيل هو العهد الجديد أو بشارة عيسى المسيح (عليه السلام). ولكي يكون الإنسان مسلمًا مؤمنًا حقًا، يجب عليه أن يؤمن بجميع الكتب المقدسة (كتب الله)، وهذه العقيدة مدعومة بوضوح في القرآن."
+    },
+    {
+      "type": "question",
+      "id": 7,
+      "question": {
+        "en": "Among the beliefs of Islam, please mark the one that is NOT a belief:",
+        "es": "Entre las creencias del Islam, por favor marca la que NO es una creencia:",
+  "fr": "Parmi les croyances de l’islam, veuillez indiquer celle qui N’EST PAS une croyance :",
+  "ar": "من بين معتقدات الإسلام، حدِّد ما ليس معتقدًا:"
+      },
+      "options": {
+        "en": [
+          "Belief in the Tawrat.",
+          "Belief in money.",
+          "Belief in the Injeel."
+        ],
+        "es": [
+    "Creer en la Tawrat.",
+    "Creer en el dinero.",
+    "Creer en el Injeel."
+  ],
+  "fr": [
+    "Croire en la Tawrat.",
+    "Croire en l’argent.",
+    "Croire en l’Injeel."
+  ],
+  "ar": [
+    "الإيمان بالتوراة.",
+    "الإيمان بالمال.",
+    "الإيمان بالإنجيل."
+  ]
+      },
+      "correct": 1
+    },
+    {
+      "type": "paragraph",
+      "en": "Even though this is a major belief of Islam, we must ask the question, \"Who told the believers not to read the earlier Scriptures but to read (or recite) the Qur'an only?\" A few common reasons are presented for not reading these previous Scriptures. First and foremost, an allegation is made that the previous Scriptures (the Bible) were corrupted (changed), therefore one does not need to read them. Secondly, the allegation is made that the Qur'an came as a better revelation than the previous revelations; therefore one should follow the newer one. A more recent argument has been that \"Allah revealed the Old Testament (the Tawrat), then the New Testament (the Injeel), and finally the Last Testament (the Qur'an), therefore the previous Scriptures should not be read.\"",
+      "es": "Aunque esta es una creencia fundamental del Islam, debemos hacernos la pregunta: \"¿Quién dijo a los creyentes que no leyeran las Escrituras anteriores y que solo leyeran (o recitaran) el Corán?\" Se presentan varias razones comunes para no leer estas Escrituras anteriores. En primer lugar, se hace la acusación de que las Escrituras anteriores (la Biblia) fueron corrompidas (cambiadas), por lo tanto no es necesario leerlas. En segundo lugar, se afirma que el Corán vino como una revelación mejor que las anteriores; por lo tanto, se debería seguir la más reciente. Un argumento más reciente ha sido que \"Allah reveló el Antiguo Testamento (la Tawrat), luego el Nuevo Testamento (el Injeel), y finalmente el Último Testamento (el Corán), por lo tanto las Escrituras anteriores no deberían leerse.\"",
+  "fr": "Bien que cela soit une croyance majeure de l’islam, nous devons nous poser la question : « Qui a dit aux croyants de ne pas lire les Écritures précédentes, mais de lire (ou réciter) uniquement le Coran ? » Plusieurs raisons courantes sont avancées pour ne pas lire ces Écritures antérieures. Tout d’abord, on affirme que les Écritures précédentes (la Bible) ont été corrompues (modifiées), et qu’il n’est donc pas nécessaire de les lire. Deuxièmement, on prétend que le Coran est venu comme une révélation meilleure que les révélations précédentes ; il faudrait donc suivre la plus récente. Un argument plus récent est que « Allah a révélé l’Ancien Testament (la Tawrat), puis le Nouveau Testament (l’Injeel), et enfin le Dernier Testament (le Coran) ; par conséquent, les Écritures précédentes ne devraient pas être lues ».",
+  "ar": "على الرغم من أن هذا يُعدّ اعتقادًا أساسيًا في الإسلام، إلا أننا يجب أن نطرح السؤال التالي: «من الذي قال للمؤمنين ألا يقرأوا الكتب السابقة، بل أن يقرأوا (أو يتلوا) القرآن فقط؟» تُطرح عدة أسباب شائعة لعدم قراءة تلك الكتب السابقة. أولاً وقبل كل شيء، يُدَّعى أن الكتب السابقة (الكتاب المقدس) قد حُرِّفت (تغيّرت)، وبالتالي لا حاجة لقراءتها. ثانيًا، يُقال إن القرآن جاء بوصفه وحيًا أفضل من الوحيات السابقة؛ ولذلك ينبغي اتباع الأحدث. أما الحجة الأحدث فهي أن «الله أنزل العهد القديم (التوراة)، ثم العهد الجديد (الإنجيل)، وأخيرًا العهد الأخير (القرآن)، ولذلك لا ينبغي قراءة الكتب السابقة»."
+    },
+    {
+      "type": "question",
+      "id": 8,
+      "question": {
+        "en": "Why do some scholars say Muslim believers should not read the previous scriptures (Bible)?",
+        "es": "¿Por qué algunos eruditos dicen que los creyentes musulmanes no deberían leer las Escrituras anteriores (la Biblia)?",
+  "fr": "Pourquoi certains savants disent-ils que les croyants musulmans ne devraient pas lire les Écritures précédentes (la Bible) ?",
+  "ar": "لماذا يقول بعض العلماء إن المؤمنين المسلمين لا ينبغي لهم قراءة الكتب السابقة (الكتاب المقدس)؟"
+      },
+      "options": {
+        "en": [
+          "Because Prophet Muhammad (pbuh) said \"do not read it\".",
+          "The Qur'an states that \"do not read it\".",
+          "Because newer revelation disqualifies the older."
+        ],
+        "es": [
+    "Porque el Profeta Muhammad (pbuh) dijo \"no lo lean\".",
+    "El Corán afirma que \"no lo lean\".",
+    "Porque una revelación más reciente invalida a la anterior."
+  ],
+  "fr": [
+    "Parce que le Prophète Muhammad (psl) a dit « ne le lisez pas ».",
+    "Le Coran déclare « ne le lisez pas ».",
+    "Parce qu’une révélation plus récente invalide l’ancienne."
+  ],
+  "ar": [
+    "لأن النبي محمد (صلى الله عليه وسلم) قال « لا تقرؤوه ».",
+    "القرآن يقول « لا تقرؤوه ».",
+    "لأن الوحي الأحدث يُبطل الوحي السابق."
+  ]
+      },
+      "correct": 2
+    },
+    {
+      "type": "paragraph",
+      "en": "Obviously, since so much has been said to disqualify the previous Scriptures (Allah's revelation), reading them is not only discouraged but in certain places, some believers think that even touching the Bible will bring severe consequences or even punishment from Allah. How can we understand these arguments in light of the verses we have just read from the Qur'an?",
+      "es": "Obviamente, dado que se ha dicho tanto para desacreditar las Escrituras anteriores (la revelación de Allah), leerlas no solo es desalentado, sino que en algunos lugares algunos creyentes piensan que incluso tocar la Biblia traerá consecuencias graves o incluso castigo por parte de Allah. ¿Cómo podemos entender estos argumentos a la luz de los versículos que acabamos de leer del Corán?",
+  "fr": "Évidemment, puisque tant de choses ont été dites pour disqualifier les Écritures précédentes (la révélation d’Allah), leur lecture est non seulement découragée, mais dans certains endroits, certains croyants pensent même que toucher la Bible entraînera de graves conséquences ou même une punition d’Allah. Comment pouvons-nous comprendre ces arguments à la lumière des versets que nous venons de lire dans le Coran ?",
+  "ar": "من الواضح أنه بما أن الكثير قد قيل للتشكيك في الكتب السابقة (وحي الله)، فإن قراءتها لا تُثبَّط فقط، بل إن بعض المؤمنين في بعض الأماكن يظنون أن مجرد لمس الكتاب المقدس قد يجلب عواقب خطيرة أو حتى عقابًا من الله. فكيف يمكننا فهم هذه الادعاءات في ضوء الآيات التي قرأناها للتو من القرآن؟"
+    },
+    {
+      "type": "paragraph",
+      "en": "In our next study, we will continue investigating to see what the Qur'an says about reading the previous scriptures.",
+      "es": "En nuestro próximo estudio, continuaremos investigando para ver qué dice el Corán acerca de la lectura de las Escrituras anteriores.",
+  "fr": "Dans notre prochaine étude, nous continuerons à examiner ce que dit le Coran concernant la lecture des Écritures précédentes.",
+  "ar": "في دراستنا القادمة، سنواصل البحث لنرى ماذا يقول القرآن عن قراءة الكتب السابقة."
+    }
+ ]
+}
+
+  

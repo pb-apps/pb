@@ -1,0 +1,623 @@
+{
+  "id": "study3",
+  "meta": {
+    "title": {
+      "en": "3 - The Dead Sea Scrolls",
+        "es": "3 – Los Rollos del Mar Muerto",
+  "fr": "3 – Les manuscrits de la mer Morte",
+  "ar": "٣ – مخطوطات البحر الميت"
+    },
+    "coverImage": "./images/study3-header.jpeg"
+  },
+  "blocks": [
+    { "type": "image", "src": "./images/study3-header.jpeg" },
+
+    { "type": "paragraph", "en": "IN 1947 ON A DRY PLATEAU IN THE WEST BANK, a Bedouin shepherd named Muhammed edh-Dhib was searching for a lost goat. About 1.5 kilometers from the northwestern shore of the Dead Sea, and some distance from Jerusalem, he noticed a strange looking cave where he found broken clay jars. In panic he ran from the place, afraid that desert spirits might inhabit the cave.",
+  "es": "En 1947, en una meseta árida de Cisjordania, un pastor beduino llamado Muhammed edh-Dhib buscaba una cabra perdida. A unos 1,5 kilómetros de la orilla noroccidental del Mar Muerto, y a cierta distancia de Jerusalén, notó una cueva de aspecto extraño donde encontró vasijas de barro rotas. Preso del pánico, huyó del lugar, temiendo que espíritus del desierto habitaran la cueva.",
+  "fr": "En 1947, sur un plateau aride de Cisjordanie, un berger bédouin nommé Muhammed edh-Dhib cherchait une chèvre perdue. À environ 1,5 kilomètre de la rive nord-ouest de la mer Morte, et à une certaine distance de Jérusalem, il remarqua une grotte à l’aspect étrange où il trouva des jarres en argile brisées. Pris de panique, il s’enfuit de l’endroit, craignant que des esprits du désert n’habitent la grotte.",
+  "ar": "في عام 1947، وعلى هضبة جافة في الضفة الغربية، كان راعٍ بدوي يُدعى محمد الذئب يبحث عن عنزة ضائعة. وعلى بُعد نحو كيلومتر ونصف من الساحل الشمالي الغربي للبحر الميت، وعلى مسافة من القدس، لاحظ كهفًا غريب الشكل وجد بداخله جرارًا فخارية مكسورة. فهرب مذعورًا من المكان، خوفًا من أن تكون أرواح الصحراء تسكن ذلك الكهف."
+  },
+
+    { "type": "paragraph", "en": "Later, after telling an older friend about his discovery, they went back together to investigate. The boys discovered a number of parchment scrolls. Removing them from their clay jars, the boys took the scrolls back to the family encampment. The scrolls remained in the camp for some time before finally being sold at a marketplace for less than $50 each. In time, however, archaeologists managed to obtain the scrolls and realized that the shepherd boys had uncovered an incredible treasure-these scrolls were authentic copies of the Tawrat and Zabur from approximately 250 BC-the oldest copies of the Bible on record!",
+  "es": "Más tarde, después de contarle su descubrimiento a un amigo mayor, regresaron juntos para investigar. Los muchachos encontraron varios rollos de pergamino. Tras sacarlos de las vasijas de barro, llevaron los rollos al campamento familiar. Allí permanecieron durante algún tiempo hasta que finalmente fueron vendidos en un mercado por menos de cincuenta dólares cada uno. Con el tiempo, sin embargo, los arqueólogos lograron obtener los rollos y comprendieron que los jóvenes pastores habían descubierto un tesoro extraordinario: se trataba de copias auténticas de la Tawrat y el Zabur que databan aproximadamente del año 250 a. C., ¡las copias más antiguas de la Biblia conocidas hasta hoy!",
+  "fr": "Plus tard, après avoir parlé de sa découverte à un ami plus âgé, ils retournèrent ensemble pour examiner le lieu. Les garçons découvrirent plusieurs rouleaux de parchemin. Après les avoir retirés de leurs jarres en argile, ils les emportèrent au campement familial. Les rouleaux y restèrent pendant un certain temps avant d’être finalement vendus sur un marché pour moins de cinquante dollars chacun. Avec le temps, cependant, des archéologues parvinrent à se procurer ces rouleaux et réalisèrent que les jeunes bergers avaient mis au jour un trésor extraordinaire : il s’agissait de copies authentiques de la Tawrat et du Zabur datant d’environ 250 av. J.-C., les plus anciennes copies de la Bible connues à ce jour.",
+  "ar": "لاحقًا، وبعد أن أخبر صديقًا أكبر سنًّا باكتشافه، عاد الاثنان معًا للتحقّق من الأمر. فاكتشف الصبيان عددًا من لفائف الرقّ. وبعد إخراجها من الجرار الفخارية، حملا اللفائف إلى مخيّم العائلة. وبقيت اللفائف هناك مدة من الزمن قبل أن تُباع في أحد الأسواق بأقل من خمسين دولارًا للّفافة الواحدة. ومع مرور الوقت، تمكّن علماء الآثار من الحصول على هذه اللفائف، وأدركوا أن الرعاة الصغار قد اكتشفوا كنزًا مذهلًا: فقد كانت هذه اللفائف نُسخًا أصلية من التوراة والزبور تعود إلى نحو عام 250 قبل الميلاد، وهي أقدم نُسخ للكتاب المقدّس معروفة حتى اليوم."
+  },
+    { "type": "paragraph", "en": "Previously, scholars had wondered how many errors had crept into the scriptures due to miniscule errors by scribes after all, if the Bible had been hand copied for 2000 years, surely there would be some mistakes, right? And how could we be absolutely sure that no one had deliberately changed the words?",
+  "es": "Anteriormente, los estudiosos se preguntaban cuántos errores podrían haberse introducido en las Escrituras debido a pequeños fallos cometidos por los escribas. Después de todo, si la Biblia fue copiada a mano durante casi dos mil años, ¿no sería lógico pensar que se habrían cometido algunos errores? Y ¿cómo podía alguien estar completamente seguro de que nadie había cambiado deliberadamente las palabras?",
+  "fr": "Auparavant, les spécialistes se demandaient combien d’erreurs avaient pu s’introduire dans les Écritures à cause de petites fautes commises par les scribes. Après tout, si la Bible avait été copiée à la main pendant près de deux mille ans, il semblait logique de penser que certaines erreurs s’y seraient glissées. Et comment pouvait-on être absolument certain que personne n’avait délibérément modifié les mots ?",
+  "ar": "في السابق، كان العلماء يتساءلون عن عدد الأخطاء التي ربما تسلّلت إلى الكتب المقدّسة بسبب هفوات بسيطة ارتكبها النُسّاخ. ففي نهاية المطاف، إذا كانت الكتاب المقدّس قد نُسخ يدويًا على مدى ما يقرب من ألفي عام، أفلا يُتوقَّع حدوث بعض الأخطاء؟ وكيف يمكن التأكّد بشكلٍ قاطع من أن أحدًا لم يغيّر الكلمات عمدًا؟"
+  },
+    { "type": "paragraph", "en": "What the experts discovered in these ancient scrolls-which came to be known as the Dead Sea Scrolls-was that these writings matched the ones we have today! These scrolls came from several hundred years before the time of Isa al-Masih (pbuh) and his companions. If the Bible we have today matches the Bible from his time, what implications does that have for the authenticity of the Previous Revelations?",
+    "es": "Lo que los expertos descubrieron en estos antiguos rollos —que más tarde llegaron a conocerse como los Rollos del Mar Muerto— fue que estos escritos coinciden con las Escrituras que tenemos hoy. Estos rollos datan de varios siglos antes de la época de Isa al-Masih (pbuh) y de sus compañeros. Si la Biblia que tenemos hoy coincide con la Biblia de su tiempo, ¿qué implicaciones tiene esto para la autenticidad de las revelaciones anteriores?",
+  "fr": "Ce que les experts ont découvert dans ces anciens rouleaux — connus plus tard sous le nom de manuscrits de la mer Morte —, c’est que ces écrits correspondent aux Écritures que nous possédons aujourd’hui. Ces rouleaux datent de plusieurs siècles avant l’époque d’Isa al-Masih (pbuh) et de ses compagnons. Si la Bible que nous avons aujourd’hui correspond à celle de son époque, qu’est-ce que cela implique quant à l’authenticité des révélations antérieures ?",
+  "ar": "ما اكتشفه الخبراء في هذه المخطوطات القديمة — التي عُرفت لاحقًا بمخطوطات البحر الميت — هو أن هذه النصوص تتطابق مع الكتب المقدّسة التي بين أيدينا اليوم. وتعود هذه المخطوطات إلى عدة قرون قبل زمن عيسى المسيح عليه السلام وأصحابه. فإذا كانت الكتاب المقدّس التي نملكها اليوم تتطابق مع تلك التي كانت موجودة في زمنه، فما الذي يدلّ عليه ذلك بخصوص أصالة الوحي السابق؟"
+
+  },
+
+    { "type": "heading", "en": "THE CERTAINTY OF ALLAH'S UNCHANGEABLE WORDS",
+   "es": "La certeza de las palabras inmutables de Allah",
+  "fr": "La certitude des paroles immuables d’Allah",
+  "ar": "يقين كلمات الله غير القابلة للتغيير"
+  },
+    {
+      "type": "paragraph",
+      "en": "We have seen in previous studies that the Qur'an does not state that the Bible is corrupted, nor that the Qur'an has come to replace the Bible rather, the Qur'an has come to confirm and to guard the Bible. Since the Bible, according to the Qur'an, is the Word of Allah, then Allah Himself must guard His own Word. That is why in the following verses it rightly states that no one can change Allah's Word.",
+       "es": "Hemos visto en estudios anteriores que el Corán no afirma que la Biblia esté corrompida, ni que el Corán haya venido a reemplazarla. Más bien, el Corán vino para confirmar y proteger la Biblia. Puesto que la Biblia, según el Corán, es la Palabra de Allah, entonces Allah mismo debe ser el guardián de Su propia Palabra. Por eso, en los siguientes versículos se afirma correctamente que nadie puede cambiar la Palabra de Allah.",
+  "fr": "Nous avons vu dans les études précédentes que le Coran n’affirme pas que la Bible soit corrompue, ni qu’il soit venu la remplacer. Au contraire, le Coran est venu confirmer et préserver la Bible. Puisque la Bible, selon le Coran, est la Parole d’Allah, alors Allah Lui-même est le gardien de Sa propre Parole. C’est pourquoi les versets suivants déclarent à juste titre que personne ne peut changer la Parole d’Allah.",
+  "ar": "لقد رأينا في الدراسات السابقة أن القرآن لا يصرّح بأن الكتاب المقدّس مُحرَّف، ولا أنه جاء ليحلّ محلّه، بل جاء القرآن ليؤكّد الكتاب المقدّس ويحفظه. وبما أن الكتاب المقدّس، بحسب القرآن، هو كلمة الله، فإن الله نفسه هو الحافظ لكلمته. ولهذا تؤكّد الآيات التالية بحقّ أن لا أحد يستطيع أن يغيّر كلمة الله."
+
+    },
+    { "type": "verse", "reference": "Surat Al-Anam 6:34", "en": "Rejected were the messengers before thee: with patience and constancy they bore their rejection and their wrongs, until Our aid did reach them: there is none that can alter the words (and decrees) of Allah. Already hast thou received some account of those messengers.",
+  "es": "Antes de ti, los mensajeros fueron rechazados, pero soportaron con paciencia y constancia el rechazo y el daño hasta que les llegó Nuestra ayuda. Y no hay nadie que pueda cambiar las palabras de Allah. Ciertamente, ya has recibido relatos de aquellos mensajeros.",
+  "fr": "Des messagers ont été rejetés avant toi, mais ils ont supporté avec patience et persévérance le rejet et les torts jusqu’à ce que Notre secours leur parvienne. Et nul ne peut changer les paroles d’Allah. Tu as déjà reçu des récits concernant ces messagers.",
+  "ar": "لقد كُذِّبَ الرُّسُلُ من قبلك، فصبروا على ما كُذِّبوا وأوذوا حتى أتاهم نصرُنا، ولا مُبدِّلَ لكلماتِ الله. ولقد جاءك من نبأ المرسلين."
+  },
+    { "type": "verse", "reference": "Surat Al-Anam 6:115", "en": "The word of thy Lord doth find its fulfillment in truth and in justice: None can change His words: for He is the one who heareth and knoweth all.",
+  "es": "La Palabra de tu Señor se ha cumplido con verdad y con justicia. Nadie puede cambiar Sus palabras. Él es Quien todo lo oye y todo lo sabe.",
+  "fr": "La Parole de ton Seigneur s’est accomplie en toute vérité et en toute justice. Nul ne peut changer Ses paroles. Il est l’Audient, l’Omniscient.",
+  "ar": "وَتَمَّتْ كَلِمَةُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَا مُبَدِّلَ لِكَلِمَاتِهِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ."
+
+  },
+    { "type": "verse", "reference": "Surat Yunus 10:64", "en": "For them are good tidings in the worldly life and in the Hereafter. No change is there in the words of Allah. That is what is the great attainment",
+  "es": "Para ellos hay buenas noticias en la vida presente y en la Otra Vida. No hay cambio en las palabras de Allah. Ese es el gran triunfo.",
+  "fr": "Pour eux, il y a une bonne annonce dans la vie d’ici-bas et dans l’Au-delà. Il n’y a aucun changement dans les paroles d’Allah. Voilà le succès suprême.",
+  "ar": "لَهُمُ الْبُشْرَىٰ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۚ لَا تَبْدِيلَ لِكَلِمَاتِ اللَّهِ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ."
+  },
+
+    { "type": "paragraph", "en": "These three verses invalidate any claim that Allah’s Word can be changed. Moreover, the verse above (Surat Yunus 10:64) not only declares that “there is no change in the Words of Allah,” but also states that “this is the great attainment.” In other words, this is a great victory for Allah: His greatest achievement is not only to reveal His Word, but also to protect it from any change.",
+  "es": "Estos tres versículos invalidan cualquier afirmación de que la Palabra de Allah pueda ser cambiada. Además, el versículo citado arriba (sura Yunus 10:64) no solo declara que «no hay cambio en las palabras de Allah», sino que añade que «esto es el gran triunfo». En otras palabras, se trata de una gran victoria de Allah: Su mayor logro no es solo revelar Su Palabra, sino también protegerla de cualquier cambio.",
+  "fr": "Ces trois versets invalident toute affirmation selon laquelle la Parole d’Allah pourrait être modifiée. De plus, le verset cité ci-dessus (sourate Yunus 10:64) ne se contente pas d’affirmer qu’« il n’y a aucun changement dans les paroles d’Allah », mais ajoute que « c’est là le grand succès ». Autrement dit, il s’agit d’une grande victoire pour Allah : Son plus grand accomplissement n’est pas seulement de révéler Sa Parole, mais aussi de la protéger de tout changement.",
+  "ar": "تُبطل هذه الآيات الثلاث أيّ ادعاء بأن كلمة الله يمكن أن تتغيّر. بل إن الآية المذكورة أعلاه (سورة يونس ١٠:٦٤) لا تكتفي بالتصريح بأنه «لا تبديل لكلمات الله»، بل تضيف أن «ذلك هو الفوز العظيم». وبعبارة أخرى، فإن هذا يُعدّ نصرًا عظيمًا لله؛ فأعظم إنجاز له ليس فقط إنزال كلمته، بل أيضًا حفظها من أيّ تغيير."
+  },
+    { "type": "paragraph", "en": "For Allah, this is His great attainment or great accomplishment. So if any one brings an allegation that the Bible is corrupted, it is surely their view but not the Qur'anic view. They question the power of Allah by suggesting that the Bible (Allah's revelation) is corrupt, and thus implying that He is weak or incapable of protecting His own Word. The Qur'an confirms that the Previous Scriptures were revealed by Allah; the Qur'an also validates that up to the time of Prophet Muhammad (pbuh), the Previous Scriptures had not been corrupted. Therefore, believers are advised to read the Qur'an and also read the Bible (Previous Scriptures).",
+  "es": "Para Allah, este es Su gran logro o gran realización. Por lo tanto, si alguien afirma que la Biblia está corrompida, esa es solo su opinión personal y no la visión coránica. Tal afirmación pone en duda el poder de Allah al sugerir que la Biblia —revelación de Allah— ha sido corrompida, implicando así que Él sería débil o incapaz de proteger Su propia Palabra. El Corán confirma que las Escrituras anteriores fueron reveladas por Allah, y también afirma que hasta la época del profeta Muhammad (pbuh) dichas Escrituras no habían sido corrompidas. Por ello, se aconseja a los creyentes que lean el Corán y también la Biblia (las Escrituras anteriores).",
+  "fr": "Pour Allah, il s’agit là de Son grand accomplissement. Ainsi, lorsque quelqu’un prétend que la Bible est corrompue, il ne s’agit que de son opinion personnelle et non du point de vue coranique. Une telle affirmation remet en question la puissance d’Allah en suggérant que la Bible — révélation d’Allah — aurait été altérée, ce qui implique qu’Il serait faible ou incapable de protéger Sa propre Parole. Le Coran confirme que les Écritures antérieures ont été révélées par Allah et affirme également que jusqu’à l’époque du prophète Muhammad (pbuh), ces Écritures n’avaient pas été corrompues. Par conséquent, les croyants sont encouragés à lire le Coran ainsi que la Bible (les Écritures antérieures).",
+  "ar": "وبالنسبة إلى الله، فإن هذا يُعدّ إنجازه العظيم. لذلك، إذا زعم أحدٌ أن الكتاب المقدّس محرَّف، فذلك رأيه الشخصي وليس الرأي القرآني. إن مثل هذا الادعاء يشكّك في قدرة الله، إذ يوحي بأن الكتاب المقدّس — وهو وحي الله — قد فسد، مما يعني ضمنيًا أن الله ضعيف أو غير قادر على حفظ كلمته. ويؤكّد القرآن أن الكتب السابقة قد أُنزِلَت من عند الله، كما يثبت أنها حتى زمن النبي محمد ﷺ لم تكن قد تعرّضت للتحريف. ولذلك، يُنصَح المؤمنون بقراءة القرآن، وكذلك قراءة الكتاب المقدّس (الكتب السابقة)."
+  },
+
+    { "type": "question", "id": 1,
+      "question": { "en": "Which of the following is impossible to do?",
+    "es": "¿Cuál de las siguientes cosas es imposible de hacer?",
+  "fr": "Laquelle des actions suivantes est impossible à accomplir ?",
+  "ar": "أيٌّ مما يلي يستحيل القيام به؟"
+    },
+      "options": { "en": ["Ignore Allah's ways.", "Change Allah's words.", "Ignore Allah's prophets."],
+    "es": [
+    "Ignorar los caminos de Allah.",
+    "Cambiar las palabras de Allah.",
+    "Ignorar a los profetas de Allah."
+  ],
+  "fr": [
+    "Ignorer les voies d’Allah.",
+    "Changer les paroles d’Allah.",
+    "Ignorer les prophètes d’Allah."
+  ],
+  "ar": [
+    "تجاهل طرق الله.",
+    "تغيير كلمات الله.",
+    "تجاهل أنبياء الله."
+  ]
+    },
+      "correct": 1
+    },
+
+    { "type": "question", "id": 2,
+      "question": { "en": "How easy does the Qur'an say it is for people to change Allah's word (the Holy Books)?",
+     "es": "¿Qué tan fácil dice el Corán que es para las personas cambiar la Palabra de Allah (los Libros sagrados)?",
+  "fr": "Selon le Coran, à quel point est-il facile pour les gens de changer la Parole d’Allah (les Livres saints) ?",
+  "ar": "إلى أيّ مدى يقول القرآن إن تغيير كلمة الله (الكتب المقدّسة) أمرٌ سهلٌ على الناس؟"
+    },
+      "options": { "en": ["It is a simple thing.", "It is impossible.", "You can do it if you have enough knowledge."],
+    "es": [
+    "Es algo sencillo.",
+    "Es imposible.",
+    "Se puede hacer si se tiene suficiente conocimiento."
+  ],
+  "fr": [
+    "C’est une chose simple.",
+    "C’est impossible.",
+    "On peut le faire si l’on a suffisamment de connaissances."
+  ],
+  "ar": [
+    "إنه أمر بسيط.",
+    "إنه مستحيل.",
+    "يمكن القيام به إذا توفّر قدرٌ كافٍ من المعرفة."
+  ]
+    },
+      "correct": 1
+    },
+
+    { "type": "question", "id": 3,
+      "question": { "en": "Where does the idea that the Bible is corrupted come from?",
+    "es": "¿De dónde proviene la idea de que la Biblia está corrompida?",
+  "fr": "D’où vient l’idée selon laquelle la Bible serait corrompue ?",
+  "ar": "من أين جاءت فكرة أن الكتاب المقدّس مُحرَّف؟"
+    },
+      "options": { "en": ["The Bible.", "The Qur'an.", "Opinions of some people and scholars."],
+    "es": [
+    "La Biblia.",
+    "El Corán.",
+    "Las opiniones de algunas personas y estudiosos."
+  ],
+  "fr": [
+    "La Bible.",
+    "Le Coran.",
+    "Les opinions de certaines personnes et de certains spécialistes."
+  ],
+  "ar": [
+    "الكتاب المقدّس.",
+    "القرآن.",
+    "آراء بعض الناس والعلماء."
+  ]
+    },
+      "correct": 2
+    },
+
+    { "type": "heading", "en": "THE POSSIBILITY OF CORRUPTION OF THE BIBLE AFTER THE REVELATION OF THE QUR'AN",
+  "es": "La posibilidad de la corrupción de la Biblia después de la revelación del Corán",
+  "fr": "La possibilité de la corruption de la Bible après la révélation du Coran",
+  "ar": "إمكانية تحريف الكتاب المقدّس بعد نزول القرآن"
+  },
+
+    { "type": "paragraph", "en": "The Dead Sea Scrolls, mentioned at the beginning of this study, assure us that the Bible we have today is authentic. The Dead Sea Scrolls existed before Prophet Muhammad (pbuh), and they are the same texts that can be found in today's Bible.",
+  "es": "Los Rollos del Mar Muerto, mencionados al inicio de este estudio, nos aseguran que la Biblia que tenemos hoy es auténtica. Estos rollos existían antes de la época del profeta Muhammad (pbuh) y contienen los mismos textos que se encuentran en la Biblia actual.",
+  "fr": "Les manuscrits de la mer Morte, mentionnés au début de cette étude, nous assurent que la Bible que nous possédons aujourd’hui est authentique. Ces manuscrits existaient avant l’époque du prophète Muhammad (pbuh) et contiennent les mêmes textes que ceux que l’on trouve dans la Bible actuelle.",
+  "ar": "إن مخطوطات البحر الميت، التي ذُكرت في بداية هذه الدراسة، تؤكّد لنا أن الكتاب المقدّس الذي بين أيدينا اليوم كتابٌ أصيل. فقد وُجدت هذه المخطوطات قبل زمن النبي محمد ﷺ، وهي تحتوي على النصوص نفسها الموجودة في الكتاب المقدّس المعاصر."
+  },
+    { "type": "paragraph", "en": "Additionally, we know from the Qur'an that the Bible:",
+  "es": "Además, sabemos por el Corán que la Biblia:",
+  "fr": "De plus, nous savons d’après le Coran que la Bible :",
+  "ar": "وبالإضافة إلى ذلك، نعلم من القرآن أن الكتاب المقدّس:"
+  },
+    { "type": "paragraph", "en": "1. Was in the possession of Yahya, Maryam, and Isa al-Masih (peace be upon them all). Surah 3:48; 19:12; 66:12. ",
+   "es": "1. Estaba en posesión de Yahya, Maryam e Isa al-Masih (la paz sea con todos ellos). Sura 3:48; 19:12; 66:12.",
+  "fr": "1. Était en possession de Yahya, Maryam et Isa al-Masih (que la paix soit sur eux tous). Sourate 3:48 ; 19:12 ; 66:12.",
+  "ar": "١. كان بحوزة يحيى ومريم وعيسى المسيح (عليهم السلام جميعًا). سورة ٣:٤٨؛ ١٩:١٢؛ ٦٦:١٢."
+  },
+    { "type": "paragraph", "en": "2. Was with or in the possession of the Jews in the time of Prophet Muhammad (pbuh). Surah 2:41, 89, 91, 101, 140; 3:81; 4:47; 5:43; 16:43-44;21:7 ",
+   "es": "2. Estaba con los judíos, o en posesión de ellos, en la época del profeta Muhammad (pbuh). Sura 2:41, 89, 91, 101, 140; 3:81; 4:47; 5:43; 16:43–44; 21:7.",
+  "fr": "2. Était auprès des Juifs, ou en leur possession, à l’époque du prophète Muhammad (pbuh). Sourate 2:41, 89, 91, 101, 140 ; 3:81 ; 4:47 ; 5:43 ; 16:43–44 ; 21:7.",
+  "ar": "٢. كان لدى اليهود أو في حوزتهم في زمن النبي محمد ﷺ. سورة ٢:٤١، ٨٩، ٩١، ١٠١، ١٤٠؛ ٣:٨١؛ ٤:٤٧؛ ٥:٤٣؛ ١٦:٤٣–٤٤؛ ٢١:٧."
+  },
+    { "type": "paragraph", "en": "3. Was heard by them. Surah 2:75",
+    "es": "3. Fue escuchada por ellos. Sura 2:75.",
+  "fr": "3. Était entendue par eux. Sourate 2:75.",
+  "ar": "٣. سمعوها. سورة ٢:٧٥."
+  },
+    { "type": "paragraph", "en": "4. Was believed in by them. Surah 2:85, 91, 121; 11:17. ",
+   "es": "4. Era creída por ellos. Sura 2:85, 91, 121; 11:17.",
+  "fr": "4. Était crue par eux. Sourate 2:85, 91, 121 ; 11:17.",
+  "ar": "٤. آمنوا بها. سورة ٢:٨٥، ٩١، ١٢١؛ ١١:١٧."
+  },
+    { "type": "paragraph", "en": "5. Was read by them and the Christians. Surah 10:94",
+  "es": "5. Era leída por ellos y por los cristianos. Sura 10:94.",
+  "fr": "5. Était lue par eux et par les chrétiens. Sourate 10:94.",
+  "ar": "٥. كانوا يقرؤونها هم والمسيحيون. سورة ١٠:٩٤."
+  },
+    { "type": "paragraph", "en": "6. Was studied by them and the Christians. Surah 3:79; 6:156; 7:169.",
+  "es": "6. Era estudiada por ellos y por los cristianos. Sura 3:79; 6:156; 7:169.",
+  "fr": "6. Était étudiée par eux et par les chrétiens. Sourate 3:79 ; 6:156 ; 7:169.",
+  "ar": "٦. كانوا يدرسونها هم والمسيحيون. سورة ٣:٧٩؛ ٦:١٥٦؛ ٧:١٦٩."
+  },
+    { "type": "paragraph", "en": "7. Was recited by them and the Christians. Surah 3:93, 113; 2:44, 113.",
+   "es": "7. Era recitada por ellos y por los cristianos. Sura 3:93, 113; 2:44, 113.",
+  "fr": "7. Était récitée par eux et par les chrétiens. Sourate 3:93, 113 ; 2:44, 113.",
+  "ar": "٧. كانوا يتلونها هم والمسيحيون. سورة ٣:٩٣، ١١٣؛ ٢:٤٤، ١١٣."
+  },
+    { "type": "paragraph", "en": "8. Was available to Prophet Muhammad (pbuh). Surah 3:93; 28:47-49.",
+  "es": "8. Estaba disponible para el profeta Muhammad (pbuh). Sura 3:93; 28:47–49.",
+  "fr": "8. Était disponible pour le prophète Muhammad (pbuh). Sourate 3:93 ; 28:47–49.",
+  "ar": "٨. كانت متاحة للنبي محمد ﷺ. سورة ٣:٩٣؛ ٢٨:٤٧–٤٩."
+  },
+    { "type": "paragraph", "en": "9. Was available to anyone in Prophet Muhammad's (pbuh) time and could be called upon to determine truth in theological disputes. Surah 3:23, 93; 7:157; 53:36-38.",
+    "es": "9. Estaba disponible para cualquier persona en la época del profeta Muhammad (pbuh) y podía ser consultada para determinar la verdad en disputas teológicas. Sura 3:23, 93; 7:157; 53:36–38.",
+  "fr": "9. Était accessible à toute personne à l’époque du prophète Muhammad (pbuh) et pouvait être consultée pour déterminer la vérité dans les différends théologiques. Sourate 3:23, 93 ; 7:157 ; 53:36–38.",
+  "ar": "٩. كانت متاحة لأيّ شخص في زمن النبي محمد ﷺ، وكان يُرجَع إليها لتحديد الحقّ في الخلافات العقائدية. سورة ٣:٢٣، ٩٣؛ ٧:١٥٧؛ ٥٣:٣٦–٣٨."
+  },
+    {
+      "type": "paragraph",
+      "en": "From these statements, we know that the Scriptures were circulated and widely available through history, including to the Prophet Muhammad (pbuh). He was not speaking about something that existed in only one or two scrolls. Rather, there were thousands of copies in existence during that time. Any attempt to deliberately change the contents of the Scriptures would have involved collecting all existing copies, burning them all, and producing a new, erroneous one-an impossible task.",
+      "es": "A partir de estas afirmaciones, sabemos que las Escrituras circularon y estuvieron ampliamente disponibles a lo largo de la historia, incluso en la época del profeta Muhammad (pbuh). No se estaba hablando de algo que existiera solo en uno o dos rollos, sino de miles de copias que circulaban en ese tiempo. Cualquier intento de cambiar deliberadamente el contenido de las Escrituras habría requerido reunir todas las copias existentes, destruirlas y producir una nueva versión alterada, una tarea imposible.",
+  "fr": "À partir de ces affirmations, nous savons que les Écritures ont circulé et ont été largement disponibles tout au long de l’histoire, y compris à l’époque du prophète Muhammad (pbuh). Il ne s’agissait pas de quelques rouleaux isolés, mais de milliers de copies en circulation à cette époque. Toute tentative de modifier délibérément le contenu des Écritures aurait nécessité de rassembler toutes les copies existantes, de les détruire et d’en produire une nouvelle version altérée — une tâche impossible.",
+  "ar": "ومن خلال هذه التصريحات، نعلم أن الكتب المقدّسة كانت متداولة ومتاحة على نطاق واسع عبر التاريخ، بما في ذلك زمن النبي محمد ﷺ. فلم يكن الحديث عن نصٍّ موجود في لفافتين أو ثلاث، بل عن آلاف النسخ المنتشرة آنذاك. وأي محاولة متعمَّدة لتغيير محتوى الكتب المقدّسة كانت ستتطلّب جمع جميع النسخ الموجودة وإتلافها ثم إنتاج نسخة جديدة محرَّفة، وهو أمر مستحيل."
+    },
+
+    { "type": "question", "id": 4,
+      "question": { "en": "Based on the above verses of the Qur'an, it is once again clear that:",
+     "es": "Basándonos en los versículos del Corán citados anteriormente, queda una vez más claro que:",
+  "fr": "À la lumière des versets du Coran cités ci-dessus, il apparaît une fois de plus clairement que :",
+  "ar": "وبناءً على الآيات القرآنية المذكورة أعلاه، يتّضح مرةً أخرى أن:"
+    },
+      "options": { "en": ["The Qur'an confirmed the Bible that was in in existence at the time of Prophet Muhammad (pbuh).", "No one had the Bible anymore; it was lost. ", "The scrolls of the Bible were purposely burnt."],
+    "es": [
+    "El Corán confirmó la Biblia que existía en la época del profeta Muhammad (pbuh).",
+    "Nadie tenía ya la Biblia; se había perdido.",
+    "Los rollos de la Biblia fueron quemados deliberadamente."
+  ],
+  "fr": [
+    "Le Coran a confirmé la Bible qui existait à l’époque du prophète Muhammad (pbuh).",
+    "Plus personne ne possédait la Bible ; elle avait été perdue.",
+    "Les rouleaux de la Bible ont été brûlés intentionnellement."
+  ],
+  "ar": [
+    "أكّد القرآن الكتاب المقدّس الذي كان موجودًا في زمن النبي محمد ﷺ.",
+    "لم يعد أحد يمتلك الكتاب المقدّس؛ فقد فُقِد.",
+    "أُحرِقَت لفائف الكتاب المقدّس عمدًا."
+  ]
+    },
+      "correct": 0
+    },
+
+    { "type": "question", "id": 5,
+      "question": { "en": "Where were the Dead Sea Scrolls discovered?",
+    "es": "¿Dónde fueron descubiertos los Rollos del Mar Muerto?",
+  "fr": "Où les manuscrits de la mer Morte ont-ils été découverts ?",
+  "ar": "أين تمّ اكتشاف مخطوطات البحر الميت؟"
+    },
+      "options": { "en": ["Rome", "Medina", "The West Bank."],
+    "es": [
+    "Roma",
+    "Medina",
+    "Cisjordania"
+  ],
+  "fr": [
+    "Rome",
+    "Médine",
+    "La Cisjordanie"
+  ],
+  "ar": [
+    "روما",
+    "المدينة المنوّرة",
+    "الضفة الغربية"
+  ]
+    },
+      "correct": 2
+    },
+
+    { "type": "question", "id": 6,
+      "question": { "en": "Of the following, who was not in possession of the Previous Revelations?",
+     "es": "¿Quién de los siguientes no estaba en posesión de las revelaciones anteriores?",
+  "fr": "Qui, parmi les personnes suivantes, n’était pas en possession des révélations antérieures ?",
+  "ar": "أيٌّ مما يلي لم يكن بحوزته الوحي السابق؟"
+    },
+      "options": { "en": ["Prophet Muhammad (pbuh).", "Mary, Yahya, and Isa al-Masih (pbuh). ", "Adam (pbuh)."],
+     "es": [
+    "El profeta Muhammad (pbuh).",
+    "María, Yahya e Isa al-Masih (pbuh).",
+    "Adán (pbuh)."
+  ],
+  "fr": [
+    "Le prophète Muhammad (pbuh).",
+    "Maryam, Yahya et Isa al-Masih (pbuh).",
+    "Adam (pbuh)."
+  ],
+  "ar": [
+    "النبي محمد ﷺ.",
+    "مريم ويحيى وعيسى المسيح ﷺ.",
+    "آدم ﷺ."
+  ]
+    },
+      "correct": 2
+    },
+
+    { "type": "heading", "en": "QUR'ANIC STATEMENTS ON THE CESSATION OF READING THE PREVIOUS SCRIPTURES",
+  "es": "Declaraciones coránicas sobre el cese de la lectura de las Escrituras anteriores",
+  "fr": "Déclarations coraniques sur la cessation de la lecture des Écritures antérieures",
+  "ar": "التصريحات القرآنية حول التوقّف عن قراءة الكتب السابقة"
+  },
+
+    { "type": "verse", "reference": "Surat Al-Maidah 5:47", "en": "Let the people of the Gospel judge by what Allah hath revealed therein. If any do fail to judge by (the light of) what Allah hath revealed, they are (no better than) those who rebel.",
+   "es": "Que la gente del Evangelio juzgue conforme a lo que Allah ha revelado en él. Y quienes no juzgan según lo que Allah ha revelado, esos son los rebeldes.",
+  "fr": "Que les gens de l’Évangile jugent selon ce qu’Allah y a révélé. Et ceux qui ne jugent pas d’après ce qu’Allah a révélé sont des rebelles.",
+  "ar": "وَلْيَحْكُمْ أَهْلُ الْإِنْجِيلِ بِمَا أَنْزَلَ اللَّهُ فِيهِ ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْفَاسِقُونَ."
+  },
+
+    { "type": "question", "id": 7,
+      "question": { "en": "According to the verse in Surat Maidah 5:47, what does the Qur'an tell the people of the gospel to judge by:",
+    "es": "Según el versículo de la sura Al-Máida 5:47, ¿por qué les dice el Corán a la gente del Evangelio que juzguen?",
+  "fr": "Selon le verset de la sourate Al-Mâ’ida 5:47, selon quoi le Coran dit-il aux gens de l’Évangile de juger ?",
+  "ar": "وفقًا لآية سورة المائدة ٥:٤٧، بماذا يأمر القرآن أهل الإنجيل أن يحكموا؟"
+    },
+      "options": { "en": ["The light they have received (in the Gospel/Injeel).", "The opinions of their own scholars instead of Allah's revelation.", "Western capitalist law."],
+    "es": [
+    "La luz que han recibido (en el Evangelio/Inyil).",
+    "Las opiniones de sus propios eruditos en lugar de la revelación de Allah.",
+    "La ley capitalista occidental."
+  ],
+  "fr": [
+    "La lumière qu’ils ont reçue (dans l’Évangile/Injil).",
+    "Les opinions de leurs propres savants au lieu de la révélation d’Allah.",
+    "La loi capitaliste occidentale."
+  ],
+  "ar": [
+    "النور الذي تلقّوه (في الإنجيل).",
+    "آراء علمائهم بدلًا من وحي الله.",
+    "القانون الرأسمالي الغربي."
+  ]
+    },
+      "correct": 0
+    },
+
+    { "type": "question", "id": 8,
+      "question": { "en": "If the people of the Gospel do not judge by the light revealed in the Gospel, what does the Qur'an call such a person?",
+    "es": "Si la gente del Evangelio no juzga conforme a la luz revelada en el Evangelio, ¿cómo llama el Corán a tal persona?",
+  "fr": "Si les gens de l’Évangile ne jugent pas selon la lumière révélée dans l’Évangile, comment le Coran appelle-t-il une telle personne ?",
+  "ar": "إذا لم يحكم أهل الإنجيل بالنور الذي أُنزِل في الإنجيل، فبماذا يصف القرآن مثل هذا الشخص؟"
+    },
+      "options": { "en": ["A person ready to go to heaven.", "A true believer.", "A rebel."],
+     "es": [
+    "Una persona lista para ir al cielo.",
+    "Un verdadero creyente.",
+    "Un rebelde."
+  ],
+  "fr": [
+    "Une personne prête à aller au paradis.",
+    "Un véritable croyant.",
+    "Un rebelle."
+  ],
+  "ar": [
+    "شخص مستعد لدخول الجنة.",
+    "مؤمن حقيقي.",
+    "فاسق."
+  ]
+    },
+      "correct": 2
+    },
+
+    { "type": "question", "id": 9,
+      "question": { "en": "According to the Qur'an, any of the People of the Gospel who do not judge by the light that is the revealed in the Injeel are called rebels. So, if someone says that the Injeel has been corrupted, is that per son speaking according to the Qur'an or not?",
+    "es": "Según el Corán, cualquier persona de la gente del Evangelio que no juzgue conforme a la luz revelada en el Inyil es llamada rebelde. Por lo tanto, si alguien afirma que el Inyil ha sido corrompido, ¿está esa persona hablando de acuerdo con el Corán o no?",
+  "fr": "Selon le Coran, toute personne parmi les gens de l’Évangile qui ne juge pas selon la lumière révélée dans l’Injil est qualifiée de rebelle. Par conséquent, si quelqu’un affirme que l’Injil a été corrompu, cette personne parle-t-elle conformément au Coran ou non ?",
+  "ar": "بحسب القرآن، فإن أيّ شخص من أهل الإنجيل لا يحكم بالنور الذي أُنزِل في الإنجيل يُوصَف بأنه متمرّد. لذلك، إذا ادّعى شخص أن الإنجيل قد تعرّض للتحريف، فهل يتحدّث هذا الشخص وفقًا للقرآن أم لا؟"
+
+    },
+      "options": { "en": ["Yes", "No"],
+    "es": ["Sí", "No"],
+  "fr": ["Oui", "Non"],
+  "ar": ["نعم", "لا"]
+    },
+      "correct": 1
+    },
+
+    { "type": "paragraph", "en": "If the Qur’an had been revealed in order to replace the Bible because it was corrupted, then it would no longer instruct the People of the Book to judge by what Allah had revealed to them. This indicates that copies of the Tawrat, the Zabur, and the Injil (the Bible) were available at the time the Qur’an was revealed in the seventh century, and that these Holy Books still accurately conveyed Allah’s message. This is evident since Allah commands that the People of the Gospel (Christians) be judged by them. The verse cited above clearly shows that if the People of the Gospel do not follow what is written in their Scriptures, they are considered rebels. Even after the revelation of the Qur’an, it affirms within its own pages that the Bible remains valid and should continue to be used as the authentic Word of Allah.",
+  "es": "Si el Corán hubiera sido revelado para reemplazar la Biblia porque estuviera corrompida, entonces ya no permitiría que la Gente del Libro juzgara conforme a lo que Allah les había revelado. Esto indica que, cuando el Corán fue revelado en el siglo VII, existían copias de la Tawrat, el Zabur y el Inyil (la Biblia), y que estos Libros sagrados seguían transmitiendo fielmente el mensaje de Allah. Esto queda claro, ya que Allah ordena que la gente del Evangelio (los cristianos) sea juzgada conforme a ellos. El versículo citado anteriormente muestra con claridad que, si la gente del Evangelio no sigue lo que está escrito en sus Escrituras, son considerados rebeldes. Incluso después de la revelación del Corán, éste afirma en sus propias páginas que la Biblia sigue siendo válida y debe continuar siendo utilizada como la Palabra auténtica de Allah.",
+  "fr": "Si le Coran avait été révélé pour remplacer la Bible parce qu’elle aurait été corrompue, il n’aurait plus permis aux Gens du Livre de juger selon ce qu’Allah leur avait révélé. Cela indique qu’au moment de la révélation du Coran, au VIIᵉ siècle, des copies de la Tawrat, du Zabur et de l’Injil (la Bible) existaient, et que ces Livres saints transmettaient encore fidèlement le message d’Allah. Cela est évident puisque Allah ordonne que les gens de l’Évangile (les chrétiens) soient jugés selon ces Écritures. Le verset mentionné ci-dessus montre clairement que, si les gens de l’Évangile ne suivent pas ce qui est écrit dans leurs Écritures, ils sont considérés comme des rebelles. Même après la révélation du Coran, celui-ci affirme dans ses propres pages que la Bible demeure valide et qu’elle doit continuer à être utilisée comme la Parole authentique d’Allah.",
+  "ar": "لو كان القرآن قد نزل ليحلّ محلّ الكتاب المقدّس بسبب تحريفه، لما سمح بعد ذلك لأهل الكتاب أن يحكموا بما أنزل الله إليهم. وهذا يدلّ على أن نُسخًا من التوراة والزبور والإنجيل (الكتاب المقدّس) كانت موجودة عند نزول القرآن في القرن السابع، وأن هذه الكتب المقدّسة كانت لا تزال تعبّر بدقّة عن رسالة الله. ويتّضح ذلك لأن الله يأمر بأن يُحكم على أهل الإنجيل (المسيحيين) بما ورد في كتبهم. وتُبيّن الآية المذكورة أعلاه بوضوح أنه إذا لم يلتزم أهل الإنجيل بما في كتبهم المقدّسة فإنهم يُعدّون متمرّدين. وحتى بعد نزول القرآن، يؤكّد في آياته أن الكتاب المقدّس ما زال صالحًا، وينبغي الاستمرار في اعتباره كلمة الله الأصيلة."
+  },
+    { "type": "verse", "reference": "Surat Al-Maidah 5:68", "en": "Say: 'O People of the Book! Ye have no ground to stand upon unless ye stand fast by the Law, the Gospel, and all the revelation that has come to you from your Lord. It is the revelation that cometh to thee from thy Lord, that increaseth in most of them their obstinate rebellion and blasphemy. But sorrow thou not over (these) people without Faith.'",
+  "es": "Di: «¡Oh Gente del Libro! No tenéis base firme alguna a menos que os mantengáis fieles a la Ley, al Evangelio y a toda la revelación que os ha llegado de vuestro Señor». Sin embargo, lo que te ha sido revelado por tu Señor aumenta en muchos de ellos la rebeldía y la incredulidad. No te entristezcas, pues, por la gente que no cree.",
+  "fr": "Dis : « Ô gens du Livre ! Vous n’avez aucun fondement solide si vous ne vous conformez pas à la Loi, à l’Évangile et à toute la révélation qui vous est venue de votre Seigneur ». Mais ce qui t’a été révélé de la part de ton Seigneur augmente chez beaucoup d’entre eux la rébellion et la mécréance. Ne t’afflige donc pas pour les gens qui ne croient pas.",
+  "ar": "قُلْ: يَا أَهْلَ الْكِتَابِ لَسْتُمْ عَلَىٰ شَيْءٍ حَتَّىٰ تُقِيمُوا التَّوْرَاةَ وَالْإِنْجِيلَ وَمَا أُنزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ. وَلَيَزِيدَنَّ كَثِيرًا مِنْهُمْ مَا أُنزِلَ إِلَيْكَ مِنْ رَبِّكَ طُغْيَانًا وَكُفْرًا. فَلَا تَأْسَ عَلَى الْقَوْمِ الْكَافِرِينَ."
+  },
+
+    { "type": "question", "id": 10,
+      "question": { "en": "Though the previous verse in Surat Maidah 5:47 was for the people of the Injeel (the New Testament), which people are addressed in Surat Al-Maidah 5:68?",
+    "es": "Aunque el versículo anterior de la sura Al-Máida 5:47 se dirigía a la gente del Inyil (el Nuevo Testamento), ¿a qué grupo de personas se dirige la sura Al-Máida 5:68?",
+  "fr": "Bien que le verset précédent de la sourate Al-Mâ’ida 5:47 s’adresse aux gens de l’Injil (le Nouveau Testament), à quel groupe de personnes la sourate Al-Mâ’ida 5:68 s’adresse-t-elle ?",
+  "ar": "مع أن الآية السابقة في سورة المائدة ٥:٤٧ كانت موجّهة إلى أهل الإنجيل (العهد الجديد)، فإلى أيّ فئة من الناس تُوجَّه آية سورة المائدة ٥:٦٨؟"
+    },
+      "options": { "en": ["The People of the Book (Jews and Christians).", "The Jews only.", "The Muslim believers.", "None of the above."],
+    "es": [
+    "La Gente del Libro (judíos y cristianos).",
+    "Solo los judíos.",
+    "Los creyentes musulmanes.",
+    "Ninguna de las anteriores."
+  ],
+  "fr": [
+    "Les Gens du Livre (Juifs et Chrétiens).",
+    "Les Juifs uniquement.",
+    "Les croyants musulmans.",
+    "Aucune des réponses ci-dessus."
+  ],
+  "ar": [
+    "أهل الكتاب (اليهود والنصارى).",
+    "اليهود فقط.",
+    "المؤمنون المسلمون.",
+    "لا شيء مما سبق."
+  ]
+    },
+      "correct": 0
+    },
+
+    { "type": "paragraph", "en": "The Qur'an reprimands the People of the Book for not trusting or standing behind what has been revealed to them. Based on this verse, what the People of the Book (those reading the Tawrat, Zabur and the Injeel) were to be judged by was the Scripture that they already possessed. If the claim that the Bible is invalid were true, then the Qur'an would never have said such a thing.",
+  "es": "El Corán reprende a la Gente del Libro por no confiar ni mantenerse firmes en lo que les fue revelado. Según este versículo, la Gente del Libro —quienes leen la Tawrat, el Zabur y el Inyil— debía ser juzgada conforme a las Escrituras que ya poseían. Si fuera cierta la afirmación de que la Biblia es inválida, el Corán nunca habría dicho algo así.",
+  "fr": "Le Coran réprimande les Gens du Livre pour ne pas faire confiance ou ne pas s’attacher fermement à ce qui leur a été révélé. Selon ce verset, les Gens du Livre — ceux qui lisent la Tawrat, le Zabur et l’Injil — devaient être jugés d’après les Écritures qu’ils possédaient déjà. Si l’affirmation selon laquelle la Bible serait invalide était vraie, le Coran n’aurait jamais tenu de tels propos.",
+  "ar": "يُوبِّخ القرآن أهل الكتاب لعدم ثقتهم أو تمسّكهم بما أُنزِل إليهم. وبناءً على هذه الآية، كان من المفترض أن يُحكَم على أهل الكتاب — الذين يقرؤون التوراة والزبور والإنجيل — بحسب الكتب المقدّسة التي كانت بحوزتهم أصلًا. ولو كان الادعاء بأن الكتاب المقدّس غير صالح صحيحًا، لما قال القرآن مثل هذا الكلام."
+  },
+    { "type": "paragraph", "en": "The real allegation is not that the Bible was changed, but rather that the People of the Book were not following it. This allegation actually up lifts the authenticity of the Bible. A clarification of this is given in the following verse:",
+  "es": "La verdadera acusación no es que la Biblia haya sido cambiada, sino que la Gente del Libro no la estaba siguiendo. Esta acusación, en realidad, refuerza la autenticidad de la Biblia. Una aclaración de esto se presenta en el siguiente versículo:",
+  "fr": "La véritable accusation n’est pas que la Bible ait été modifiée, mais que les Gens du Livre ne la suivaient pas. Cette accusation, en réalité, renforce l’authenticité de la Bible. Une clarification de cela est donnée dans le verset suivant :",
+  "ar": "إن الادعاء الحقيقي ليس أن الكتاب المقدّس قد تغيّر، بل إن أهل الكتاب لم يكونوا يتّبعونه. وهذا الادعاء في الواقع يعزّز أصالة الكتاب المقدّس. ويأتي توضيح ذلك في الآية التالية:"
+  },
+    { "type": "verse", "reference": "Surat Al-Baqarah 2:44", "en": "Do ye enjoin right conduct on the people, and forget (to practise it) yourselves, and yet ye study the Scripture? Will ye not understand?",
+  "es": "¿Ordenáis a la gente que haga el bien mientras vosotros mismos lo olvidáis, aun cuando estudiáis la Escritura? ¿Acaso no razonáis?",
+  "fr": "Ordonnez-vous aux gens de faire le bien tout en l’oubliant vous-mêmes, alors que vous étudiez l’Écriture ? Ne comprenez-vous donc pas ?",
+  "ar": "أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ أَنْفُسَكُمْ وَأَنْتُمْ تَتْلُونَ الْكِتَابَ ۚ أَفَلَا تَعْقِلُونَ؟"
+  },
+    { "type": "paragraph", "en": "The accusation states clearly that the Jews are studying the Scriptures that Allah has revealed to them, and are asking other people to follow its teaching, but are forgetting to practice these teachings themselves. The verse is not condemning them for reading their Scriptures but accusing them of not practicing what these Scriptures teach.",
+  "es": "La acusación afirma claramente que los judíos están estudiando las Escrituras que Allah les reveló y exhortando a otros a seguir sus enseñanzas, pero olvidando practicarlas ellos mismos. El versículo no los condena por leer sus Escrituras, sino que los acusa de no vivir conforme a lo que dichas Escrituras enseñan.",
+  "fr": "L’accusation indique clairement que les Juifs étudient les Écritures qu’Allah leur a révélées et exhortent les autres à en suivre les enseignements, tout en oubliant de les mettre eux-mêmes en pratique. Le verset ne les condamne pas pour la lecture de leurs Écritures, mais les accuse de ne pas vivre selon ce que ces Écritures enseignent.",
+  "ar": "يوضّح الاتهام بجلاء أن اليهود يدرسون الكتب المقدّسة التي أنزلها الله عليهم، ويدعون الآخرين إلى اتّباع تعاليمها، لكنهم ينسون تطبيق هذه التعاليم على أنفسهم. فالآية لا تُدينهم لقراءتهم كتبهم المقدّسة، بل تتّهمهم بعدم العمل بما تعلّمه هذه الكتب."
+  },
+
+    { "type": "question", "id": 11,
+      "question": { "en": "According to the verse in Surat Al-Baqarah 2:44, what is the problem?",
+    "es": "Según el versículo de la sura Al-Báqarah 2:44, ¿cuál es el problema?",
+  "fr": "Selon le verset de la sourate Al-Baqara 2:44, quel est le problème ?",
+  "ar": "وفقًا لآية سورة البقرة ٢:٤٤، ما هي المشكلة؟"
+    },
+      "options": { "en": ["The Scriptures are not valid anymore.", "They tell others to follow the Scriptures but do not follow it themselves."],
+    "es": [
+    "Las Escrituras ya no son válidas.",
+    "Dicen a otros que sigan las Escrituras, pero ellos mismos no las siguen."
+  ],
+  "fr": [
+    "Les Écritures ne sont plus valables.",
+    "Ils disent aux autres de suivre les Écritures, mais ne les suivent pas eux-mêmes."
+  ],
+  "ar": [
+    "الكتب المقدّسة لم تعد صالحة.",
+    "يأمرون الآخرين باتّباع الكتب المقدّسة لكنهم لا يلتزمون بها بأنفسهم."
+  ]
+    },
+      "correct": 1
+    },
+
+    { "type": "question", "id": 12,
+      "question": { "en": "Why did the People of the Book not live up to Allah's message?",
+    "es": "¿Por qué la Gente del Libro no vivió conforme al mensaje de Allah?",
+  "fr": "Pourquoi les Gens du Livre n’ont-ils pas vécu conformément au message d’Allah ?",
+  "ar": "لماذا لم يلتزم أهل الكتاب برسالة الله؟"
+    },
+      "options": { "en": ["The Book had been changed.", "They couldn't find the Book.", "They had the Book but were not obeying it."],
+    "es": [
+    "El Libro había sido cambiado.",
+    "No podían encontrar el Libro.",
+    "Tenían el Libro, pero no lo obedecían."
+  ],
+  "fr": [
+    "Le Livre avait été modifié.",
+    "Ils ne pouvaient pas trouver le Livre.",
+    "Ils avaient le Livre, mais ne lui obéissaient pas."
+  ],
+  "ar": [
+    "كان الكتاب قد تغيّر.",
+    "لم يتمكّنوا من العثور على الكتاب.",
+    "كان لديهم الكتاب لكنهم لم يطيعوه."
+  ]
+    },
+      "correct": 2
+    },
+
+    { "type": "question", "id": 13,
+      "question": {  "en": "What is supposed to replace or get rid of the Previous Revelations?",
+    "es": "¿Qué se supone que debe reemplazar o eliminar las revelaciones anteriores?",
+  "fr": "Qu’est-ce qui est censé remplacer ou supprimer les révélations antérieures ?",
+  "ar": "ما الذي يُفترَض أن يحلّ محلّ الوحي السابق أو يُلغيه؟"
+    },
+      "options": { "en": ["The scholar's ideas.", "Scientific discoveries.", "Nothing."],
+    "es": [
+    "Las ideas de los eruditos.",
+    "Los descubrimientos científicos.",
+    "Nada."
+  ],
+  "fr": [
+    "Les idées des érudits.",
+    "Les découvertes scientifiques.",
+    "Rien."
+  ],
+  "ar": [
+    "آراء العلماء.",
+    "الاكتشافات العلمية.",
+    "لا شيء."
+  ]
+    },
+      "correct": 2
+    },
+
+    { "type": "heading", "en": "QUR'ANIC INSTRUCTIONS REGARDING MUSLIM BELIEVERS PASSING JUDGMENT",
+  "es": "Instrucciones coránicas sobre cómo los creyentes musulmanes deben emitir juicios",
+  "fr": "Instructions coraniques concernant la manière dont les croyants musulmans doivent porter un jugement",
+  "ar": "التعليمات القرآنية المتعلقة بإصدار الأحكام من قِبَل المؤمنين المسلمين"
+  },
+
+    { "type": "verse", "reference": "Surat Al-Ankabut 29:46", "en": "And dispute ye not with the People of the Book, except with means better (than mere disputation), unless it be with those of them who inflict wrong (and injury): but say, We believe in the revelation which has come down to us and in that which came down to you; Our God and your God is one; and it is to Him we bow (in submission).",
+  "es": "No discutáis con la Gente del Libro sino de la mejor manera, excepto con aquellos que cometen injusticia. Decid: Creemos en lo que nos ha sido revelado y en lo que os ha sido revelado. Nuestro Dios y vuestro Dios es Uno, y a Él nos sometemos.",
+  "fr": "Ne discutez avec les Gens du Livre que de la meilleure manière, sauf avec ceux qui commettent l’injustice. Dites : Nous croyons en ce qui nous a été révélé et en ce qui vous a été révélé. Notre Dieu et votre Dieu est Un, et c’est à Lui que nous nous soumettons.",
+  "ar": "وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ ۖ وَقُولُوا آمَنَّا بِالَّذِي أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ ۖ وَإِلَٰهُنَا وَإِلَٰهُكُمْ وَاحِدٌ ۖ وَنَحْنُ لَهُ مُسْلِمُونَ."
+  },
+
+    { "type": "paragraph", "en": "Not only are the Previous Revelations valid for the People of the Book but also, as we have explored, the Previous Scriptures are also valid for Muslim believers. This is why Muslim believers are instructed to follow the teachings of the Bible (the Previous Scriptures) as well. Yet there are many believers and some scholars who try to dispute or argue with the People of the Book. The Qur'an does not want Muslim believers to do that but instead to treat them with love and respect, as a good believer is supposed to do.",
+  "es": "No solo las revelaciones anteriores son válidas para la Gente del Libro, sino que, como hemos visto, las Escrituras anteriores también son válidas para los creyentes musulmanes. Por esta razón, se instruye a los creyentes musulmanes a seguir también las enseñanzas de la Biblia (las Escrituras anteriores). Sin embargo, muchos creyentes e incluso algunos eruditos intentan discutir o polemizar con la Gente del Libro. El Corán no desea que los creyentes musulmanes actúen así, sino que los exhorta a tratarlos con amor y respeto, como corresponde a un verdadero creyente.",
+  "fr": "Les révélations antérieures ne sont pas seulement valables pour les Gens du Livre ; comme nous l’avons vu, les Écritures antérieures sont également valables pour les croyants musulmans. C’est pourquoi les croyants musulmans sont invités à suivre aussi les enseignements de la Bible (les Écritures antérieures). Pourtant, de nombreux croyants et même certains savants cherchent à débattre ou à polémiquer avec les Gens du Livre. Le Coran n’encourage pas les croyants musulmans à agir ainsi, mais leur demande au contraire de les traiter avec amour et respect, comme il convient à un véritable croyant.",
+  "ar": "ليست الكتب السابقة صالحة لأهل الكتاب فقط، بل كما رأينا، فإن الكتب المقدّسة السابقة صالحة أيضًا للمؤمنين المسلمين. ولهذا السبب، يُؤمَر المؤمنون المسلمون باتّباع تعاليم الكتاب المقدّس (الكتب السابقة) كذلك. ومع ذلك، يحاول كثير من المؤمنين، بل وبعض العلماء، الجدال أو الخصومة مع أهل الكتاب. والقرآن لا يريد من المؤمنين المسلمين أن يفعلوا ذلك، بل يوجّههم إلى معاملتهم بالمحبّة والاحترام، كما يليق بالمؤمن الحقيقي."
+  },
+
+    { "type": "question", "id": 14,
+      "question": { "en": "Muslims were urged to tell the People of the Book that 'our book is better than yours.'",
+    "es": "Se instó a los musulmanes a decirle a la Gente del Libro que «nuestro libro es mejor que el suyo».",
+  "fr": "Les musulmans ont été encouragés à dire aux Gens du Livre que « notre Livre est meilleur que le vôtre ».",
+  "ar": "حُثَّ المسلمون على أن يقولوا لأهل الكتاب: «كتابنا أفضل من كتابكم»."
+    },
+      "options": { "en": ["True.", "False."],
+    "es": ["Verdadero.", "Falso."],
+  "fr": ["Vrai.", "Faux."],
+  "ar": ["صحيح.", "خطأ."]
+    },
+      "correct": 1
+    },
+
+    { "type": "question", "id": 15,
+      "question": { "en": "Should Muslim believers dispute with the People of the Book?",
+    "es": "¿Deben los creyentes musulmanes disputar con la Gente del Libro?",
+  "fr": "Les croyants musulmans doivent-ils entrer en dispute avec les Gens du Livre ?",
+  "ar": "هل ينبغي على المؤمنين المسلمين أن يجادلوا أهل الكتاب؟"
+    },
+      "options": { "en": ["Yes.", "No."],
+    "es": ["Sí.", "No."],
+  "fr": ["Oui.", "Non."],
+  "ar": ["نعم.", "لا."]
+    },
+      "correct": 1
+    },
+
+    { "type": "question", "id": 16,
+      "question": { "en": "With whom are they permitted to enter dispute with?",
+    "es": "¿Con quiénes se les permite entablar disputa?",
+  "fr": "Avec qui leur est-il permis d’entrer en dispute ?",
+  "ar": "مع من يُسمَح لهم بالدخول في جدال؟"
+    },
+      "options": { "en": ["True People of the Book.", "The kind and merciful People of the Book.", "Those who inflict injury to Muslims."],
+     "es": [
+    "La verdadera Gente del Libro.",
+    "La Gente del Libro amable y misericordiosa.",
+    "Aquellos que causan daño a los musulmanes."
+  ],
+  "fr": [
+    "Les véritables Gens du Livre.",
+    "Les Gens du Livre bienveillants et miséricordieux.",
+    "Ceux qui portent atteinte aux musulmans."
+  ],
+  "ar": [
+    "أهل الكتاب الحقيقيون.",
+    "أهل الكتاب اللطفاء والرّحماء.",
+    "الذين يُلحقون الأذى بالمسلمين."
+  ]
+    },
+      "correct": 2
+    },
+
+    { "type": "question", "id": 17,
+      "question": { "en": "Instead of quarreling with the People of the Book (Jews and Christians), what should a Muslims believer actually say?",
+    "es": "En lugar de discutir con la Gente del Libro (judíos y cristianos), ¿qué debería decir realmente un creyente musulmán?",
+  "fr": "Au lieu de se quereller avec les Gens du Livre (Juifs et Chrétiens), que devrait réellement dire un croyant musulman ?",
+  "ar": "بدلًا من الجدال مع أهل الكتاب (اليهود والنصارى)، ماذا ينبغي للمؤمن المسلم أن يقول فعلًا؟"
+    },
+      "options": { "en": ["We believe in our revelation (the Qur'an) but do not believe in your revelation and our God is better than your God.", "We believe in the Qur'an but also in the revelation sent to you; our God and your God is one.", "We don't believe anything that others have believed."],
+     "es": [
+    "Creemos en nuestra revelación (el Corán), pero no creemos en vuestra revelación, y nuestro Dios es mejor que vuestro Dios.",
+    "Creemos en el Corán y también en la revelación que os fue enviada; nuestro Dios y vuestro Dios es uno.",
+    "No creemos en nada de lo que otros han creído."
+  ],
+  "fr": [
+    "Nous croyons en notre révélation (le Coran), mais nous ne croyons pas en la vôtre, et notre Dieu est meilleur que le vôtre.",
+    "Nous croyons au Coran et aussi à la révélation qui vous a été envoyée ; notre Dieu et votre Dieu est Un.",
+    "Nous ne croyons en rien de ce que les autres ont cru."
+  ],
+  "ar": [
+    "نؤمن بوحينا (القرآن) ولا نؤمن بوحيكم، وإلهنا أفضل من إلهكم.",
+    "نؤمن بالقرآن وبالوحي الذي أُنزِل إليكم أيضًا؛ وإلهنا وإلهكم واحد.",
+    "لا نؤمن بشيء مما آمن به الآخرون."
+  ]
+    },
+      "correct": 1
+    },
+
+    { "type": "paragraph", "en": "Our next lesson will continue looking at this topic of 'has the Bible been changed?' Next, we will see specific examples of accusations made against the Bible, who made them, and what the words of the Bible say.",
+  "es": "Nuestra próxima lección continuará examinando la cuestión de «¿ha sido cambiada la Biblia?». A continuación, analizaremos acusaciones específicas que se han hecho contra la Biblia, quiénes las formularon y qué dicen las propias palabras de la Biblia al respecto.",
+  "fr": "Notre prochaine leçon poursuivra l’examen de la question : « La Bible a-t-elle été modifiée ? ». Nous analyserons ensuite des accusations précises portées contre la Bible, qui les a formulées et ce que la Bible elle-même en dit.",
+  "ar": "سَتُوَاصِلُ دَرْسُنَا الْقَادِمُ النَّظَرَ فِي مَوْضُوعِ «هَلْ تَمَّ تَغْيِيرُ الْكِتَابِ الْمُقَدَّسِ؟». وسنستعرض بعد ذلك اتهاماتٍ محدّدة وُجِّهت إلى الكتاب المقدّس، ومن الذين أطلقوها، وماذا تقول نصوص الكتاب المقدّس نفسها ردًّا على ذلك."
+  }
+  ]
+}

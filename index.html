@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+  <link rel="manifest" href="./manifest.json">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#2e7d32">
+
+
+  
+  <meta charset="UTF-8" />
+  <title>PWA P&B</title>
+  <style>
+    body {
+      font-family: "Segoe UI Emoji", "Apple Color Emoji", system-ui, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+
+     p {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+    blockquote {
+      background: #f2f2f2;
+      padding: 10px;
+      border-left: 4px solid #999;
+      margin: 15px 0;
+    }
+    h2 {
+      margin-top: 30px;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 8px;
+      margin: 15px 0;
+    }
+    .quiz {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 2px solid #ddd;
+    }
+
+  #content {
+  max-width: 800px;
+  margin: auto;
+}
+
+#content p {
+  text-align: justify;
+  line-height: 1.7;
+  font-size: 17px;
+  color: #222;
+}
+
+#content h2 {
+  margin-top: 32px;
+  color: #2c3e50;
+}
+
+blockquote {
+  background: #f0f4f8;
+  padding: 12px 16px;
+  border-left: 4px solid #3498db;
+  margin: 16px 0;
+}
+
+.study-image {
+  width: 100%;
+  max-height: 250px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+
+button {
+  padding: 8px 14px;
+  margin: 6px 4px;
+  border-radius: 6px;
+  border: none;
+  background: #3498db;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button:hover {
+  background: #2980b9;
+}
+
+
+/* Título */ 
+
+.home-header h1 {
+  font-family: 'Anton', sans-serif;
+  font-size: 42px;
+  letter-spacing: 3px;
+  margin: 0;
+}
+
+.home-images {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  height: 180px;
+  
+}
+
+.home-images img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin-top: 0;
+  border-radius: 0;
+}
+
+
+/* HOME */
+
+
+
+.home-header {
+  background: #f7d046;
+  padding: 20px 20px;
+  text-align: center;
+}
+
+.home-header h1 {
+  margin: 0;
+  font-size: 32px;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.home-header p {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+/* GRID */
+
+.home-grid {
+  background: #0fa3a3;
+  display: grid;
+  grid-template-columns: repeat(3, 200px);
+  justify-content: center;
+  gap: 16px;
+  padding: 20px;
+  
+}
+
+.lesson-card {
+  background: #f7d046;
+  border-radius: 14px;
+  padding: 8px 6px;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+  transition: transform 0.15s;
+  min-height: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.lesson-card:hover {
+  transform: scale(1.03);
+}
+
+.lesson-title {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.lesson-sub {
+  font-size: 12px;
+  margin-top: 4px;
+  opacity: 0.4;
+}
+
+.home-header select {
+  margin-top: 15px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: none;
+  font-size: 14px;
+}
+
+#langSelector {
+  font-size: 16px;
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: none;
+  margin-top: 10px;
+}
+
+/* para móviles */
+
+@media (max-width: 600px) {
+  .study-card {
+    max-width: 90%;
+  }
+
+  button {
+    width: 100%;
+    font-size: 14px;
+  }
+}
+
+
+/* Mejorar efectos respuesta */
+
+.feedback-correct {
+  color: #2e7d32;
+  font-weight: bold;
+  animation: pop 0.3s ease;
+}
+
+.feedback-wrong {
+  color: #c62828;
+  font-weight: bold;
+}
+
+@keyframes pop {
+  0% { transform: scale(0.95); }
+  100% { transform: scale(1); }
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+
+.study-card {
+  width: 100%;
+  max-width: 280px;
+  box-sizing: border-box;
+}
+
+
+
+  </style>
+</head>
+<body>
+
+  <div id="menu"></div>
+
+   
+  <h1 id="title"></h1>
+  
+
+  <div id="content"></div>
+
+  <script src="./main.js"></script>
+
+ 
+<script>
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker
+      .register("./service-worker.js")
+      .then(() => console.log("Service Worker registrado"))
+      .catch(err => console.error("SW error", err));
+  });
+}
+</script>
+
+
+
+
+</body>
+</html>
+

@@ -1,0 +1,488 @@
+{
+  "id": "study4",
+  "meta": {
+    "title": {
+      "en": "4 - Enemies of the Book",
+      "es": "4 – Enemigos del Libro",
+  "fr": "4 – Les ennemis du Livre",
+  "ar": "٤ – أعداء الكتاب"
+    },
+    "coverImage": "./images/study4-header.jpeg"
+  },
+  "blocks": [
+    { "type": "image", "src": "./images/study4-header.jpeg" },
+
+    { "type": "paragraph", "en": "THE PREVIOUS REVELATIONS have had many enemies over the years. T About 300 years before the rise of Islam, the Roman Emperor Diocletian commanded all copies of the Bible to be destroyed. Any person who refused to give up his copy would be burned at the stake. Furthermore, anyone who even knew about someone else's copy--but neglected to in form against them would also be killed. Two years after issuing this com mand-and after burning many, many Bibles-Diocletian bragged, I have completely exterminated the Holy Bible from the face of the earth!",
+   "es": "Las revelaciones anteriores han tenido muchos enemigos a lo largo de la historia. Aproximadamente trescientos años antes del surgimiento del islam, el emperador romano Diocleciano ordenó que todas las copias de la Biblia fueran destruidas. Cualquier persona que se negara a entregar su ejemplar era quemada en la hoguera. Además, cualquiera que supiera de la existencia de la Biblia de otra persona y no la denunciara también era ejecutado. Dos años después de emitir este decreto —y tras quemar innumerables Biblias— Diocleciano se jactó diciendo: «He exterminado completamente la Santa Biblia de la faz de la tierra».",
+  "fr": "Les révélations antérieures ont eu de nombreux ennemis au cours de l’histoire. Environ trois cents ans avant l’avènement de l’islam, l’empereur romain Dioclétien ordonna la destruction de toutes les copies de la Bible. Toute personne refusant de remettre son exemplaire était brûlée vive. De plus, quiconque connaissait l’existence de la Bible d’un autre et ne la dénonçait pas était également mis à mort. Deux ans après avoir promulgué ce décret — et après avoir brûlé d’innombrables Bibles — Dioclétien se vanta en déclarant : « J’ai complètement exterminé la Sainte Bible de la surface de la terre. »",
+  "ar": "لقد واجهتُ الكتب السماوية السابقة أعداءً كُثُرًا عبر التاريخ. فقبل ظهور الإسلام بنحو ثلاثمائة عام، أصدر الإمبراطور الروماني دقلديانوس أمرًا بتدمير جميع نُسَخ الكتاب المقدّس. وكان كل من يرفض تسليم نسخته يُحرق حيًّا. بل إن أي شخص كان يعلم بوجود نسخة لدى غيره ولم يُبلِغ عنها كان يُقتل أيضًا. وبعد عامين من إصدار هذا الأمر — وبعد إحراق عدد هائل من نُسَخ الكتاب المقدّس — تباهى دقلديانوس قائلًا: «لقد قضيتُ تمامًا على الكتاب المقدّس من على وجه الأرض»."
+  },
+    { "type": "paragraph", "en": "The next Roman emperor was Constantine, who became a believer. He ordered that the Bible be made available to the people. Despite Diocletian thinking he had completely obliterated all the available copies, within a few hours 50 Bibles were submitted to the emperor. The former emperor, thinking that he could wipe out the words of Allah, had failed.",
+   "es": "El siguiente emperador romano fue Constantino, quien se convirtió en creyente. Él ordenó que la Biblia estuviera disponible para el pueblo. Aunque Diocleciano pensaba que había destruido por completo todas las copias existentes, en cuestión de pocas horas se presentaron cincuenta Biblias al emperador. El antiguo emperador, que creyó poder borrar las palabras de Allah, había fracasado claramente.",
+  "fr": "L’empereur romain suivant fut Constantin, qui devint croyant. Il ordonna que la Bible soit rendue accessible au peuple. Bien que Dioclétien ait cru avoir détruit toutes les copies existantes, en l’espace de quelques heures, cinquante Bibles furent présentées à l’empereur. L’ancien empereur, qui pensait pouvoir effacer les paroles d’Allah, avait manifestement échoué.",
+  "ar": "وكان الإمبراطور الروماني التالي هو قسطنطين، الذي أصبح مؤمنًا، فأمر بأن تُتاح الكتاب المقدّس للناس. وعلى الرغم من أن دقلديانوس ظنّ أنه قد قضى تمامًا على جميع النُسَخ الموجودة، إلا أنه خلال ساعات قليلة قُدِّمت خمسون نسخة من الكتاب المقدّس إلى الإمبراطور. لقد فشل الإمبراطور السابق، الذي ظنّ أنه يستطيع محو كلمات الله."
+  },
+    { "type": "paragraph", "en": "There have been many other instances when attempts were made to destroy the Previous Scriptures. Another memorable case occurred during the French Revolution when thousands of Bibles were burned in an at tempt to completely exterminate these revelations.",
+  "es": "Ha habido muchas otras ocasiones en las que se intentó destruir las Escrituras anteriores. Otro caso memorable ocurrió durante la Revolución Francesa, cuando miles de Biblias fueron quemadas en un intento de erradicar por completo estas revelaciones.",
+  "fr": "Il y a eu de nombreuses autres tentatives visant à détruire les Écritures antérieures. Un autre exemple marquant s’est produit pendant la Révolution française, lorsque des milliers de Bibles furent brûlées dans le but d’éradiquer complètement ces révélations.",
+  "ar": "لقد وقعت محاولات عديدة أخرى لتدمير الكتب المقدّسة السابقة. ومن الأمثلة البارزة على ذلك ما حدث خلال الثورة الفرنسية، حيث أُحرِقَت آلاف نُسَخ الكتاب المقدّس في محاولة للقضاء التام على هذه revelations."
+  },
+    { "type": "paragraph", "en": "And many who were unable to destroy the Bible physically have at tempted to change the interpretation of it. This study will look at some of the attempts to tamper with Previous Revelations, and what Allah has done about it.",
+  "es": "Muchos que no pudieron destruir físicamente la Biblia intentaron, en cambio, cambiar su interpretación. Este estudio analizará algunos de los intentos de manipular las revelaciones anteriores y lo que Allah ha hecho al respecto.",
+  "fr": "Nombreux sont ceux qui, n’ayant pas pu détruire physiquement la Bible, ont tenté d’en modifier l’interprétation. Cette étude examinera certaines des tentatives visant à altérer les révélations antérieures, ainsi que la réponse d’Allah face à celles-ci.",
+  "ar": "وكثيرون ممن لم يتمكّنوا من تدمير الكتاب المقدّس جسديًا حاولوا بدلًا من ذلك تحريف تفسيره. وستتناول هذه الدراسة بعض المحاولات التي بُذلت للتلاعب بالوحي السابق، وما الذي فعله الله حيال ذلك."
+  },
+
+  
+    { "type": "heading", "en": "THE IMPOSSIBILITY OF JEWS AND CHRISTIANS CHANGING THE SCRIPTURES",
+  "es": "La imposibilidad de que judíos y cristianos cambien las Escrituras",
+  "fr": "L’impossibilité pour les Juifs et les Chrétiens de modifier les Écritures",
+  "ar": "استحالة قيام اليهود والنصارى بتغيير الكتب المقدّسة"
+  },
+
+    { "type": "paragraph", "en": "The Qur'an confirms the authenticity of the written text of the Taw rat. Zabur, and Injeel (the Bible) and concurs with the fact that earlier Scriptures were never changed or tampered with. However, could such a change have even been possible considering the fact that the Jews and Christians had fundamental disagreements?",
+  "es": "El Corán afirma la autenticidad del texto escrito de la Tawrat, el Zabur y el Inyil (la Biblia), y concuerda en que las Escrituras anteriores nunca fueron cambiadas ni manipuladas. Sin embargo, ¿habría sido siquiera posible un cambio así, considerando los desacuerdos fundamentales que existían entre judíos y cristianos?",
+  "fr": "Le Coran affirme l’authenticité des textes écrits de la Tawrat, du Zabur et de l’Injil (la Bible), et reconnaît que les Écritures antérieures n’ont jamais été modifiées ni falsifiées. Cependant, un tel changement aurait-il seulement été possible, compte tenu des désaccords fondamentaux qui existaient entre Juifs et Chrétiens ?",
+  "ar": "يؤكّد القرآن أصالة النصوص المكتوبة للتوراة والزبور والإنجيل (الكتاب المقدّس)، ويتّفق على أن الكتب السابقة لم تتعرّض للتغيير أو التحريف. ومع ذلك، هل كان من الممكن أصلًا حدوث مثل هذا التغيير، في ظلّ الخلافات الجوهرية التي كانت قائمة بين اليهود والنصارى؟"
+  },
+    { "type": "paragraph", "en": "For the Jews, the Old Testament (Tawrat and Zabur) was very holy and therefore if Christians ever tried to tamper with it, the Jews would hold fast to their unaltered versions of the Scriptures. Moreover, there were many copies already in circulation all over the world (and had been for thou sands of years) and every copy would have to be recalled and changed, which was impossible.",
+  "es": "Para los judíos, el Antiguo Testamento (la Tawrat y el Zabur) era sagrado. Por lo tanto, si los cristianos alguna vez hubieran intentado manipularlo, los judíos habrían conservado firmemente sus versiones inalteradas de las Escrituras. Además, ya existían muchas copias en circulación por todo el mundo —y desde hacía miles de años—, por lo que habría sido necesario retirar y modificar cada una de ellas, algo imposible.",
+  "fr": "Pour les Juifs, l’Ancien Testament (la Tawrat et le Zabur) était sacré. Ainsi, si les chrétiens avaient tenté de le falsifier, les Juifs auraient conservé avec fermeté leurs versions intactes des Écritures. De plus, de nombreuses copies circulaient déjà dans le monde entier — et ce depuis des milliers d’années —, ce qui aurait nécessité de récupérer et de modifier chaque exemplaire, une tâche impossible.",
+  "ar": "بالنسبة لليهود، كان العهد القديم (التوراة والزبور) مقدّسًا. ولذلك، لو حاول المسيحيون يومًا العبث به، لتمسّك اليهود بنُسخهم غير المحرّفة من الكتب المقدّسة. وفوق ذلك، كانت هناك بالفعل نُسخ كثيرة متداولة في أنحاء العالم — ومنذ آلاف السنين — وكان من المستحيل سحب كل نسخة وتغييرها."
+  },
+    { "type": "paragraph", "en": "We do not have any historical record of such a monumental task ever having been attempted. If the Jews tried to tamper with the New Testament (the Injeel), Christians would never have permitted it since the Injeel was very sacred to them and they would still have in their possession unaltered versions of the Injeel. Moreover, there were thousands of manuscripts of the Injeel already in circulation before the Qur'an was revealed (which have sur vived even until today and are in many museums of the world).",
+  "es": "No existe ningún registro histórico de que una tarea tan monumental haya sido intentada alguna vez. Si los judíos hubieran intentado manipular el Nuevo Testamento (el Inyil), los cristianos nunca lo habrían permitido, ya que el Inyil era sagrado para ellos y aún conservarían copias inalteradas. Además, miles de manuscritos del Inyil ya circulaban antes de que el Corán fuera revelado, muchos de los cuales han sobrevivido hasta hoy y se encuentran en museos de todo el mundo.",
+  "fr": "Il n’existe aucun témoignage historique indiquant qu’une tâche d’une telle ampleur ait jamais été tentée. Si les Juifs avaient essayé d’altérer le Nouveau Testament (l’Injil), les chrétiens ne l’auraient jamais permis, puisque l’Injil était sacré pour eux et qu’ils auraient conservé des copies intactes. De plus, des milliers de manuscrits de l’Injil circulaient déjà avant la révélation du Coran — dont beaucoup ont survécu jusqu’à aujourd’hui et sont conservés dans des musées du monde entier.",
+  "ar": "لا يوجد أي سجلّ تاريخي يدلّ على أن محاولة بهذا الحجم قد أُنجزت يومًا ما. ولو حاول اليهود العبث بالعهد الجديد (الإنجيل)، لما سمح المسيحيون بذلك أبدًا، لأن الإنجيل كان مقدّسًا لديهم، ولظلّت بحوزتهم نُسخ غير محرّفة منه. علاوة على ذلك، كانت آلاف مخطوطات الإنجيل متداولة قبل نزول القرآن، وقد بقي كثير منها محفوظًا حتى يومنا هذا في متاحف عديدة حول العالم."
+  },
+    { "type": "paragraph", "en": "The fact is that at no point in history was there ever a Jewish-Christian plot to tamper with the Previous Scriptures. Nor did the Jews and the Chris tians agree to change their texts at any point, since they considered their Scriptures to be very holy-the Revelation of Allah. Even if they had wanted to, they would not have been able to do it, since thousands of manuscripts of written Scriptures were in the hands of believers all over the world.",
+  "es": "El hecho es que en ningún momento de la historia existió una conspiración judío-cristiana para manipular las Escrituras anteriores. Tampoco judíos y cristianos acordaron jamás cambiar sus textos, ya que consideraban sus Escrituras sagradas: la revelación de Allah. Incluso si lo hubieran deseado, no habrían podido hacerlo, pues miles de manuscritos de las Escrituras estaban en manos de creyentes en todo el mundo.",
+  "fr": "Le fait est qu’à aucun moment de l’histoire il n’a existé de complot judéo-chrétien visant à falsifier les Écritures antérieures. De plus, Juifs et Chrétiens ne se sont jamais accordés pour modifier leurs textes, puisqu’ils considéraient leurs Écritures comme sacrées — la révélation d’Allah. Même s’ils l’avaient voulu, ils n’auraient pas pu le faire, car des milliers de manuscrits des Écritures étaient entre les mains de croyants à travers le monde.",
+  "ar": "والحقيقة هي أنه لم يوجد في أيّ وقت من التاريخ مؤامرة يهودية–مسيحية للتلاعب بالكتب المقدّسة السابقة. كما أن اليهود والنصارى لم يتّفقوا قطّ على تغيير نصوصهم، لأنهم كانوا يعتبرون كتبهم المقدّسة وحيًا من عند الله. وحتى لو أرادوا ذلك، لما استطاعوا، لأن آلاف المخطوطات من الكتب المقدّسة كانت في أيدي المؤمنين في أنحاء العالم."
+  },
+
+    { "type": "question", "id": 1,
+      "question": { "en": "Has there ever been a time in history when Jews and Christians  plotted together to change the Scriptures?",
+    "es": "¿Ha habido alguna vez en la historia un momento en el que judíos y cristianos conspiraran juntos para cambiar las Escrituras?",
+  "fr": "Y a-t-il déjà eu dans l’histoire un moment où Juifs et Chrétiens ont conspiré ensemble pour modifier les Écritures ?",
+  "ar": "هل وُجد في أيّ وقت من التاريخ تآمرٌ مشترك بين اليهود والنصارى لتغيير الكتب المقدّسة؟"
+    },
+      "options": { "en": ["Yes (if so, when?).", "No."],
+     "es": [
+    "Sí (si es así, ¿cuándo?).",
+    "No."
+  ],
+  "fr": [
+    "Oui (si oui, quand ?).",
+    "Non."
+  ],
+  "ar": [
+    "نعم (إن كان كذلك، فمتى؟).",
+    "لا."
+  ]
+    },
+      "correct": 1
+    },
+
+    { "type": "question", "id": 2,
+      "question": { "en": "Why would changing the Scriptures be such a difficult thing?",
+     "es": "¿Por qué cambiar las Escrituras sería algo tan difícil?",
+  "fr": "Pourquoi le fait de modifier les Écritures serait-il une tâche si difficile ?",
+  "ar": "لماذا يُعَدّ تغيير الكتب المقدّسة أمرًا في غاية الصعوبة؟"
+    },
+      "options": { "en": ["It was locked up in one place and no one could reach it.", "They lost all the Bibles.", "There were thousands of copies and it was impossible to find and change every one."],
+    "es": [
+    "Estaba guardada en un solo lugar y nadie podía acceder a ella.",
+    "Se perdieron todas las Biblias.",
+    "Había miles de copias y era imposible encontrar y cambiar cada una."
+  ],
+  "fr": [
+    "Elle était enfermée en un seul endroit et personne ne pouvait y accéder.",
+    "Toutes les Bibles avaient été perdues.",
+    "Il existait des milliers de copies, et il était impossible de toutes les retrouver et de les modifier."
+  ],
+  "ar": [
+    "كانت محفوظة في مكان واحد ولا يستطيع أحد الوصول إليها.",
+    "فُقِدَت جميع نُسَخ الكتاب المقدّس.",
+    "كانت هناك آلاف النُسَخ، وكان من المستحيل العثور على كل واحدة منها وتغييرها."
+  ]
+    },
+      "correct": 2
+    },
+
+    { "type": "paragraph", "en": "The interesting point is, as stated earlier, the Qur'an does not even accuse the People of the Book (the Jews and the Christians) of changing the previous Scriptures; it accuses them of not following what the Scriptures (Tawrat, Zabur, and Injeel) were teaching.",
+  "es": "El punto importante, como se señaló anteriormente, es que el Corán ni siquiera acusa a la Gente del Libro (judíos y cristianos) de haber cambiado las Escrituras anteriores; más bien, los acusa de no seguir lo que enseñan las Escrituras —la Tawrat, el Zabur y el Inyil—.",
+  "fr": "Le point important, comme indiqué précédemment, est que le Coran n’accuse même pas les Gens du Livre (Juifs et Chrétiens) d’avoir modifié les Écritures antérieures ; il les accuse plutôt de ne pas suivre ce que ces Écritures — la Tawrat, le Zabur et l’Injil — enseignent.",
+  "ar": "والنقطة المهمّة، كما ذُكِرَ سابقًا، هي أن القرآن لا يتّهم أهل الكتاب (اليهود والنصارى) بتغيير الكتب المقدّسة السابقة، بل يتّهمهم بعدم الالتزام بما تعلّمه هذه الكتب — التوراة والزبور والإنجيل."
+  },
+    { "type": "paragraph", "en": "The allegation that the text of the Bible was changed does not exist in the Qur'an. Instead, the Qur'an uplifts the Previous Scriptures and condemns those who misinterpret their meaning. Even though such confirmation exists in the Qur'an, there are yet some scholars who claim that the Qur'an actually teaches that the Bible was corrupted or changed and, hence, the need for the revelation of the Qur'an. Such a view is not the Qur'an's teachings but is based on people's philosophy and assumptions and not on evidence from within the Qur'an.",
+   "es": "La afirmación de que el texto de la Biblia fue cambiado no existe en el Corán. Por el contrario, el Corán eleva las Escrituras anteriores y condena a quienes distorsionan su significado. A pesar de esta clara confirmación en el Corán, todavía hay algunos eruditos que afirman que el Corán enseña que la Biblia fue corrompida o alterada y que, por esa razón, fue necesaria la revelación del Corán. Tal postura no refleja las enseñanzas del Corán, sino que se basa en filosofías y suposiciones humanas, y no en pruebas procedentes del propio Corán.",
+  "fr": "L’affirmation selon laquelle le texte de la Bible aurait été modifié ne se trouve pas dans le Coran. Au contraire, le Coran valorise les Écritures antérieures et condamne ceux qui en déforment le sens. Malgré cette confirmation claire dans le Coran, certains savants affirment encore que le Coran enseignerait que la Bible a été corrompue ou altérée, et que c’est pour cette raison que le Coran aurait été révélé. Une telle position ne reflète pas les enseignements du Coran, mais repose plutôt sur des philosophies et des suppositions humaines, et non sur des preuves tirées du Coran lui-même.",
+  "ar": "إن الادعاء بأن نصّ الكتاب المقدّس قد تغيّر لا وجود له في القرآن. بل على العكس، فإن القرآن يرفع من شأن الكتب السابقة ويُدين الذين يحرّفون معانيها. وعلى الرغم من هذا التأكيد الواضح في القرآن، لا يزال بعض العلماء يزعمون أن القرآن يعلّم بأن الكتاب المقدّس قد حُرِّف أو غُيِّر، وأن ذلك هو سبب نزول القرآن. غير أن هذا الرأي لا يمثّل تعاليم القرآن، بل يقوم على فلسفات وافتراضات بشرية، وليس على أدلّة مستمدة من القرآن نفسه."
+  },
+
+    { "type": "question", "id": 3,
+      "question": { "en": "How would the theological differences between Jews and Chris tians help to preserve the original texts?",
+    "es": "¿Cómo ayudarían las diferencias teológicas entre judíos y cristianos a preservar los textos originales?",
+  "fr": "Comment les différences théologiques entre Juifs et Chrétiens contribueraient-elles à préserver les textes originaux ?",
+  "ar": "كيف تُسهم الخلافات اللاهوتية بين اليهود والنصارى في حفظ النصوص الأصلية؟"
+    },
+      "options": { "en": ["Each would have been loyally guarding their text from being tampered with by the other group.", "Because the Christians and Jews had different beliefs, therefore, they never talked with each other or shared what their Holy Books contained. ", "There were so many theological differences between the Jews and Christians that they all decided to lock their Scriptures in a museum."],
+    "es": [
+    "Cada uno habría estado protegiendo fielmente su texto para evitar que el otro grupo lo manipulase.",
+    "Debido a que cristianos y judíos tenían creencias diferentes, nunca hablaban entre sí ni compartían el contenido de sus Libros sagrados.",
+    "Había tantas diferencias teológicas entre judíos y cristianos que todos decidieron encerrar sus Escrituras en un museo."
+  ],
+  "fr": [
+    "Chacun aurait protégé fidèlement son texte afin d’empêcher l’autre groupe de le falsifier.",
+    "Parce que les chrétiens et les juifs avaient des croyances différentes, ils ne se parlaient jamais et ne partageaient pas le contenu de leurs Livres saints.",
+    "Il y avait tellement de différences théologiques entre les juifs et les chrétiens qu’ils ont tous décidé d’enfermer leurs Écritures dans un musée."
+  ],
+  "ar": [
+    "كان كلّ طرفٍ يحرس نصّه بإخلاص لمنع الطرف الآخر من العبث به.",
+    "لأن اليهود والنصارى كانت لديهم معتقدات مختلفة، لم يكونوا يتحدّثون مع بعضهم أو يتشاركون محتوى كتبهم المقدّسة.",
+    "كانت الخلافات اللاهوتية بين اليهود والنصارى كثيرة لدرجة أنهم قرروا جميعًا حبس كتبهم المقدّسة في متحف."
+  ]
+    },
+      "correct": 0
+    },
+
+    { "type": "heading", "en": "WHAT QUR'ANIC VERSES ACTUALLY SAY ABOUT PREVIOUS SCRIPTURES",
+  "es": "Lo que los versículos del Corán realmente dicen sobre las Escrituras anteriores",
+  "fr": "Ce que les versets coraniques disent réellement au sujet des Écritures antérieures",
+  "ar": "ما الذي تقوله آيات القرآن حقًّا عن الكتب المقدّسة السابقة"
+  },
+
+    { "type": "paragraph", "en": "Usually six verses are presented from the Qur'an as evidence that the Previous Scriptures (the Bible) were corrupted: Surat Al-'Imran 3:78; Surat Al-Baqarah 2:75, 2:78-79; Surat An-Nisa 4:46; Surat Al-Maidah 5:13, 5:41.",
+   "es": "Por lo general, se presentan seis versículos del Corán como evidencia de que las Escrituras anteriores (la Biblia) fueron corrompidas: sura Al-Imrán 3:78; sura Al-Báqarah 2:75 y 2:78-79; sura An-Nisá 4:46; y sura Al-Máida 5:13 y 5:41.",
+  "fr": "En général, six versets du Coran sont présentés comme preuve que les Écritures antérieures (la Bible) auraient été corrompues : sourate Âl-‘Imrân 3:78 ; sourate Al-Baqarah 2:75 et 2:78-79 ; sourate An-Nisâ’ 4:46 ; et sourate Al-Mâ’ida 5:13 et 5:41.",
+  "ar": "عادةً ما تُعرَض ستّ آيات من القرآن كدليل على أن الكتب المقدّسة السابقة (الكتاب المقدّس) قد تعرّضت للتحريف، وهي: سورة آل عمران ٣:٧٨؛ سورة البقرة ٢:٧٥ و٢:٧٨–٧٩؛ سورة النساء ٤:٤٦؛ وسورة المائدة ٥:١٣ و٥:٤١."
+  },
+    {
+      "type": "paragraph",
+      "en": "These verses are presented below:",
+       "es": "Estos versículos se presentan a continuación:",
+  "fr": "Ces versets sont présentés ci-dessous :",
+  "ar": "وتُعرض هذه الآيات فيما يلي:"
+        },
+
+    { "type": "verse", "reference": "Verse 1: Surat Al-'Imran 3:78", "en": "Among them is a group of those who distort the Book with their tongues, so that you would think that it is from the Book, when it is not from the Book. They say, it is from Allah, when it is not from Allah, and they knowingly tell lies about Allah.",
+         "es": "Entre ellos hay un grupo que distorsiona el Libro con sus lenguas, para que penséis que procede del Libro cuando no procede del Libro. Dicen: «Esto viene de Allah», cuando no viene de Allah, y conscientemente dicen mentiras contra Allah.",
+  "fr": "Parmi eux se trouve un groupe qui altère le Livre avec leurs langues, afin que vous pensiez que cela vient du Livre, alors que cela ne vient pas du Livre. Ils disent : « Cela vient d’Allah », alors que cela ne vient pas d’Allah, et ils profèrent sciemment des mensonges contre Allah.",
+  "ar": "وَإِنَّ مِنْهُمْ لَفَرِيقًا يَلْوُونَ أَلْسِنَتَهُمْ بِالْكِتَابِ لِتَحْسَبُوهُ مِنَ الْكِتَابِ وَمَا هُوَ مِنَ الْكِتَابِ ۖ وَيَقُولُونَ هُوَ مِنْ عِنْدِ اللَّهِ وَمَا هُوَ مِنْ عِنْدِ اللَّهِ ۖ وَيَقُولُونَ عَلَى اللَّهِ الْكَذِبَ وَهُمْ يَعْلَمُونَ."
+  },
+    { "type": "paragraph", "en": "What does this verse really say? That some people 'distort' the Book with their tongues. That is, they change the meaning. This does not mean that they changed the actual text of the Book but that they were sly to deceive people regarding the true contents of the Book. This was oral twisting knowingly telling lies. This does NOT affect the text of the Book itself.",
+  "es": "¿Qué dice realmente este versículo? Afirma que algunas personas “distorsionan” el Libro con sus lenguas; es decir, cambian su significado. Esto no significa que hayan alterado el texto mismo del Libro, sino que actuaban con astucia para engañar a las personas acerca de su verdadero contenido. Esta distorsión fue oral, mediante mentiras dichas conscientemente. Esto no afecta al texto escrito del Libro en sí.",
+  "fr": "Que dit réellement ce verset ? Il affirme que certaines personnes « déforment » le Livre avec leurs langues, c’est-à-dire qu’elles en changent le sens. Cela ne signifie pas qu’elles aient modifié le texte même du Livre, mais qu’elles trompaient les gens en les induisant en erreur quant à son véritable message. Cette déformation était orale, par des mensonges délibérés. Elle n’affecte pas le texte écrit du Livre lui-même.",
+  "ar": "ماذا تقول هذه الآية في حقيقتها؟ إنها تبيّن أن بعض الناس «يحرّفون» الكتاب بألسنتهم، أي يغيّرون معناه. وهذا لا يعني أنهم غيّروا نصّ الكتاب نفسه، بل كانوا يخادعون الناس بتحريف المعنى الحقيقي للكتاب. وكان هذا التحريف شفهيًا، من خلال الكذب المتعمَّد. وهذا لا يؤثّر على النصّ المكتوب للكتاب ذاته."
+  },
+
+    { "type": "question", "id": 4,
+      "question": { "en": "In Surat Al-Imran 3:78, how many people are accused of distorting the Book with their tongues?",
+    "es": "En la sura Al-Imrán 3:78, ¿a cuántas personas se acusa de distorsionar el Libro con sus lenguas?",
+  "fr": "Dans la sourate Âl-‘Imrân 3:78, combien de personnes sont accusées de déformer le Livre avec leurs langues ?",
+  "ar": "في سورة آل عمران ٣:٧٨، كم عدد الأشخاص الذين يُتَّهَمون بتحريف الكتاب بألسنتهم؟"
+    },
+      "options": { "en": ["None.", "All.", "Some."],
+    "es": ["Ninguno.", "Todos.", "Algunos."],
+  "fr": ["Aucun.", "Tous.", "Certains."],
+  "ar": ["لا أحد.", "الجميع.", "بعضهم."]
+    },
+      "correct": 2
+    },
+
+    { "type": "question", "id": 5,
+      "question": { "en": "How did they distort the Book?",
+       "es": "¿Cómo distorsionaron el Libro?",
+  "fr": "Comment ont-ils déformé le Livre ?",
+  "ar": "كيف قاموا بتحريف الكتاب؟"
+    },
+      "options": { "en": ["By tearing the pages from the Book.", "By distorting the written text.", "By their tongues telling something different than what was written."],
+     "es": [
+    "Arrancando páginas del Libro.",
+    "Distorsionando el texto escrito.",
+    "Con sus lenguas, diciendo algo distinto de lo que estaba escrito."
+  ],
+  "fr": [
+    "En déchirant les pages du Livre.",
+    "En altérant le texte écrit.",
+    "Avec leurs langues, en disant quelque chose de différent de ce qui était écrit."
+  ],
+  "ar": [
+    "بتمزيق صفحات الكتاب.",
+    "بتحريف النص المكتوب.",
+    "بألسنتهم، بقول شيءٍ مخالف لما هو مكتوب."
+  ]
+    },
+      "correct": 2
+    },
+
+    { "type": "question", "id": 6,
+      "question": { "en": "If some people distort with their tongues by reciting the text differently, does that change the written text?",
+    "es": "Si algunas personas distorsionan con sus lenguas recitando el texto de manera diferente, ¿eso cambia el texto escrito?",
+  "fr": "Si certaines personnes déforment avec leurs langues en récitant le texte différemment, cela change-t-il le texte écrit ?",
+  "ar": "إذا قام بعض الناس بالتحريف بألسنتهم من خلال تلاوة النص بطريقة مختلفة، فهل يغيّر ذلك النص المكتوب؟"
+    },
+      "options": { "en": ["Yes.", "No, not at all."],
+    "es": ["Sí.", "No, en absoluto."],
+  "fr": ["Oui.", "Non, pas du tout."],
+  "ar": ["نعم.", "لا، إطلاقًا."]
+    },
+      "correct": 1
+    },
+
+    { "type": "paragraph", "en": "What does this verse really say? What the Jews corrupted in this verse is what they heard and understood, not the Book itself. They heard the word of Allah and then knowingly altered it after they had understood it. Here, the altering occurs within their understanding, not within the text itself.",
+  "es": "¿Qué dice realmente este versículo? Lo que los judíos corrompieron en este pasaje fue lo que oyeron y comprendieron, no el Libro en sí. Escucharon la palabra de Allah y luego la alteraron conscientemente después de haberla entendido. Aquí, la alteración ocurre en su comprensión, no en el texto mismo.",
+  "fr": "Que dit réellement ce verset ? Ce que les Juifs ont corrompu dans ce passage, c’est ce qu’ils ont entendu et compris, et non le Livre lui-même. Ils ont entendu la parole d’Allah, puis l’ont volontairement altérée après l’avoir comprise. Ici, l’altération se situe dans leur compréhension, et non dans le texte lui-même.",
+  "ar": "ماذا تقول هذه الآية في حقيقتها؟ إن ما أفسده اليهود في هذه الآية هو ما سمعوه وفهموه، وليس الكتاب نفسه. فقد سمعوا كلمة الله ثم غيّروها عن علم بعد أن فهموها. وهنا يقع التغيير في الفهم، لا في النص ذاته."
+  },
+
+    { "type": "verse", "reference": "Verse 2: Surat Al-Baqarah 2:75", "en": "Do you hope that they will be true to you when some of them heard the word of Allah and then knowingly altered it after they understood it?",
+  "es": "¿Acaso esperáis que sean sinceros con vosotros, cuando algunos de ellos oyeron la palabra de Allah y luego la alteraron conscientemente después de haberla comprendido?",
+  "fr": "Espérez-vous donc qu’ils soient sincères envers vous, alors que certains d’entre eux ont entendu la parole d’Allah puis l’ont volontairement altérée après l’avoir comprise ?",
+  "ar": "أَفَتَطْمَعُونَ أَنْ يُؤْمِنُوا لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِنْهُمْ يَسْمَعُونَ كَلَامَ اللَّهِ ثُمَّ يُحَرِّفُونَهُ مِنْ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ؟"
+  },
+
+    { "type": "question", "id": 7,
+      "question": { "en": "According to this verse, what did 'some' people do with the Pre vious Revelations?",
+    "es": "Según este versículo, ¿qué hicieron algunas personas con las revelaciones anteriores?",
+  "fr": "Selon ce verset, qu’ont fait certaines personnes des révélations antérieures ?",
+  "ar": "وفقًا لهذه الآية، ماذا فعل بعض الناس بالوحي السابق؟"
+    },
+      "options": { "en": ["They changed some words while copying new manuscripts.", "They brought all the Bible together and changed it.", "They altered the words of Allah in their understanding."],
+     "es": [
+    "Cambiaron algunas palabras al copiar nuevos manuscritos.",
+    "Reunieron todas las Biblias y las cambiaron.",
+    "Alteraron las palabras de Allah en su entendimiento."
+  ],
+  "fr": [
+    "Ils ont changé certains mots en copiant de nouveaux manuscrits.",
+    "Ils ont rassemblé toutes les Bibles et les ont modifiées.",
+    "Ils ont altéré les paroles d’Allah dans leur compréhension."
+  ],
+  "ar": [
+    "غيّروا بعض الكلمات أثناء نسخ مخطوطات جديدة.",
+    "جمعوا جميع نُسَخ الكتاب المقدّس وقاموا بتغييرها.",
+    "حرّفوا كلام الله في فهمهم."
+  ]
+    },
+      "correct": 2
+    },
+
+    { "type": "verse", "reference": "Verse 3: Surat An-Nisa 4:46", "en": "Some Jews distort the words out of their context and say: We heard and disobeyed; hear without hearing and listen to us. They distort with their tongues and slander religion. If they had said: We heard and obeyed; hear and look at us, it would have been better and more upright for them. Allah has cursed them for their unbelief, for they only believe a little.",
+  "es": "Algunos judíos distorsionan las palabras sacándolas de su contexto y dicen: «Oímos y desobedecemos», y «oye sin oír», y «escúchanos», torciendo sus lenguas y difamando la religión. Si hubieran dicho: «Oímos y obedecemos», y «óyenos», y «míranos», habría sido mejor y más recto para ellos. Pero Allah los ha maldecido por su incredulidad, por lo que creen muy poco.",
+  "fr": "Certains Juifs déforment les paroles en les sortant de leur contexte et disent : « Nous entendons et nous désobéissons », et : « Écoute sans entendre », et : « Écoute-nous », en tordant leurs langues et en calomniant la religion. S’ils avaient dit : « Nous entendons et nous obéissons », et : « Écoute-nous », et : « Regarde-nous », cela aurait été meilleur et plus droit pour eux. Mais Allah les a maudits pour leur mécréance ; ainsi, ils ne croient que très peu.",
+  "ar": "مِنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِهِ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَاسْمَعْ غَيْرَ مُسْمَعٍ وَرَاعِنَا لَيًّا بِأَلْسِنَتِهِمْ وَطَعْنًا فِي الدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا سَمِعْنَا وَأَطَعْنَا وَاسْمَعْ وَانْظُرْنَا لَكَانَ خَيْرًا لَهُمْ وَأَقْوَمَ ۚ وَلَٰكِنْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا."
+  },
+    { "type": "paragraph", "en": "What does this verse really say? The Jews in this verse take the words out of their context and say another meaning with their tongues. These Jews distort with their tongues and slander what is said in the Scriptures.",
+  "es": "¿Qué dice realmente este versículo? Los judíos mencionados en este pasaje sacan las palabras de su contexto adecuado y expresan otro significado con sus lenguas. Distorsionan mediante el habla y difaman lo que dicen las Escrituras.",
+  "fr": "Que dit réellement ce verset ? Les Juifs mentionnés dans ce passage sortent les paroles de leur contexte approprié et leur donnent un autre sens par leurs langues. Ils déforment par la parole et calomnient ce qui est énoncé dans les Écritures.",
+  "ar": "ماذا تقول هذه الآية في حقيقتها؟ إن اليهود المذكورين في هذه الآية يقتطعون الكلمات من سياقها الصحيح ويعطونها معنى آخر بألسنتهم. إنهم يحرّفون بالكلام ويشوّهون ما ورد في الكتب المقدّسة."
+  },
+
+    { "type": "question", "id": 8,
+      "question": { "en": "This verse accuses the Jews of what?",
+    "es": "¿De qué acusa este versículo a los judíos?",
+  "fr": "De quoi ce verset accuse-t-il les Juifs ?",
+  "ar": "بماذا تتهم هذه الآية اليهود؟"
+    },
+      "options": { "en": ["Using black ink to cover part of what is written in the Injeel.", "Distorting verses out of context in order to make them seem to say something different. ", "Deciding in a meeting to change everything that Prophet Musa (pbuh) wrote."],
+    "es": [
+    "Usar tinta negra para cubrir parte de lo que está escrito en el Inyil.",
+    "Distorsionar los versículos sacándolos de su contexto para hacerlos parecer que dicen algo diferente.",
+    "Decidir en una reunión cambiar todo lo que escribió el profeta Musa (pbuh)."
+  ],
+  "fr": [
+    "Utiliser de l’encre noire pour couvrir une partie de ce qui est écrit dans l’Injil.",
+    "Déformer les versets en les sortant de leur contexte afin de leur faire dire autre chose.",
+    "Décider lors d’une réunion de changer tout ce que le prophète Moussa (pbuh) a écrit."
+  ],
+  "ar": [
+    "استخدام الحبر الأسود لتغطية جزء مما هو مكتوب في الإنجيل.",
+    "تحريف الآيات بإخراجها من سياقها لجعلها تبدو وكأنها تقول شيئًا آخر.",
+    "اتخاذ قرار في اجتماع بتغيير كل ما كتبه النبي موسى (عليه السلام)."
+  ]
+    },
+      "correct": 1
+    },
+
+    { "type": "verse", "reference": "Verse 4: Surat Al-Maidah 5:13", "en": "Because they broke their covenant, we cursed them and hardened their hearts. They twist the words from their context, and have forgotten part of what they were reminded of. You will constantly discover new treacheries from most of them. Pardon them and forgive them, for Allah loves those who do good.",
+  "es": "Por haber quebrantado su pacto, los maldijimos y endurecimos sus corazones. Ellos tergiversan las palabras sacándolas de su contexto y han olvidado parte de aquello con lo que fueron exhortados. Constantemente descubrirás traiciones por parte de la mayoría de ellos. Pero perdónalos y dispénsales, pues Allah ama a quienes hacen el bien.",
+  "fr": "Parce qu’ils ont rompu leur alliance, Nous les avons maudits et avons endurci leurs cœurs. Ils détournent les paroles de leur contexte et ont oublié une partie de ce qui leur avait été rappelé. Tu ne cesseras de découvrir des trahisons de la part de la plupart d’entre eux. Mais pardonne-leur et excuse-les, car Allah aime ceux qui font le bien.",
+  "ar": "فَبِمَا نَقْضِهِمْ مِيثَاقَهُمْ لَعَنَّاهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَاسِيَةً ۖ يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِهِ وَنَسُوا حَظًّا مِمَّا ذُكِّرُوا بِهِ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَائِنَةٍ مِنْهُمْ إِلَّا قَلِيلًا مِنْهُمْ ۖ فَاعْفُ عَنْهُمْ وَاصْفَحْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ"
+
+  },
+    { "type": "paragraph", "en": "What does this verse really say? Here we see that the Jews twisted the words, which corrupted the meaning but were not corrupting the Book itself. Here Allah said that the Jews take the words without regard for their context and forget a part of what Allah reminded them of.",
+  "es": "¿Qué dice realmente este versículo? Aquí vemos que los judíos torcieron las palabras, lo cual corrompió el significado, pero no el Libro en sí. Allah declara que tomaron las palabras sin respetar su contexto adecuado y olvidaron parte de aquello que Allah les había recordado.",
+  "fr": "Que dit réellement ce verset ? Nous voyons ici que les Juifs ont tordu les paroles, ce qui a corrompu le sens, mais non le Livre lui-même. Allah affirme qu’ils ont pris les mots sans tenir compte de leur contexte approprié et qu’ils ont oublié une partie de ce qui leur avait été rappelé par Allah.",
+  "ar": "ماذا تقول هذه الآية في حقيقتها؟ نرى هنا أن اليهود حرّفوا الكلمات، مما أفسد المعنى، لكنهم لم يحرّفوا الكتاب نفسه. ويبيّن الله أنهم أخذوا الكلمات دون اعتبار لسياقها الصحيح ونسوا جزءًا مما ذكّرهم الله به."
+  },
+
+    { "type": "question", "id": 9,
+      "question": { "en": "When the Jews twisted the meaning, what did they disregard?",
+      "es": "Cuando los judíos torcieron el significado, ¿qué fue lo que ignoraron?",
+  "fr": "Lorsque les Juifs ont déformé le sens, qu’ont-ils ignoré ?",
+  "ar": "عندما حرّف اليهود المعنى، ماذا تجاهلوا؟"
+    },
+      "options": { "en": ["The author.", "The angels.", "The context."],
+    "es": ["El autor.", "Los ángeles.", "El contexto."],
+  "fr": ["L’auteur.", "Les anges.", "Le contexte."],
+  "ar": ["المؤلف.", "الملائكة.", "السياق."]
+    },
+      "correct": 2
+    },
+
+    { "type": "verse", "reference": "Verse 5: Surat Al-Maidah 5:41", "en": "O messenger, don't be sad about those among the Jews who have said with their mouths, 'We have believed; and who have not believed in their hearts, but hasten to disbelief, listening to a lie, and listening to another people. They have come to you twisting words out of their con texts, saying, 'You have been given this, so take it. You have not been giv en it, so beware. Whoever Allah wants to tempt, you will not be able to get anything from Allah for him. Those whose hearts Allah does not want to purify will have shame in this world and in the hereafter great torture.",
+  "es": "¡Oh Mensajero! No te entristezcas por aquellos entre los judíos que dicen con sus bocas: «Creemos», mientras sus corazones no creen, y que se apresuran hacia la incredulidad; escuchan la falsedad y escuchan a otras personas que no han venido a ti. Ellos tergiversan las palabras sacándolas de su contexto y dicen: «Si se os da esto, tomadlo; pero si no se os da, tened cuidado». A quien Allah quiera poner a prueba, tú no podrás ayudarle en nada frente a Allah. Aquellos cuyos corazones Allah no quiere purificar tendrán deshonra en este mundo y un castigo severo en la otra vida.",
+  "fr": "Ô Messager, ne t’attriste pas à cause de ceux parmi les Juifs qui disent de leurs bouches : « Nous croyons », alors que leurs cœurs ne croient pas, et qui se précipitent vers la mécréance ; ils prêtent l’oreille au mensonge et écoutent d’autres gens qui ne sont pas venus à toi. Ils détournent les paroles de leur contexte et disent : « Si on vous donne ceci, prenez-le ; mais si on ne vous le donne pas, prenez garde ». Quiconque Allah veut éprouver, tu ne pourras rien faire pour lui contre Allah. Ceux dont Allah ne veut pas purifier les cœurs auront l’humiliation en ce monde et un châtiment terrible dans l’au-delà.",
+  "ar": "يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنْكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْرِ مِنَ الَّذِينَ قَالُوا آمَنَّا بِأَفْوَاهِهِمْ وَلَمْ تُؤْمِنْ قُلُوبُهُمْ وَمِنَ الَّذِينَ هَادُوا ۛ سَمَّاعُونَ لِلْكَذِبِ سَمَّاعُونَ لِقَوْمٍ آخَرِينَ لَمْ يَأْتُوكَ ۖ يُحَرِّفُونَ الْكَلِمَ مِنْ بَعْدِ مَوَاضِعِهِ ۖ يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِنْ لَمْ تُؤْتَوْهُ فَاحْذَرُوا ۚ وَمَنْ يُرِدِ اللَّهُ فِتْنَتَهُ فَلَنْ تَمْلِكَ لَهُ مِنَ اللَّهِ شَيْئًا ۚ أُولَٰئِكَ الَّذِينَ لَمْ يُرِدِ اللَّهُ أَنْ يُطَهِّرَ قُلُوبَهُمْ ۖ لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ"
+  },
+    { "type": "paragraph", "en": "What does this verse really say? Here also we see that the Jews said some thing with their mouths, and they listened to lies and then changed the meaning of the Book, by taking it out of its context and changing its meaning.",
+  "es": "¿Qué dice realmente este versículo? Aquí nuevamente vemos que los judíos decían algo con sus bocas, escuchaban mentiras y luego alteraban el significado del Libro al sacarlo de su contexto adecuado y cambiar su sentido.",
+  "fr": "Que dit réellement ce verset ? Ici encore, nous voyons que les Juifs disaient quelque chose avec leurs bouches, écoutaient des mensonges, puis modifiaient le sens du Livre en le sortant de son contexte approprié et en en changeant le sens.",
+  "ar": "ماذا تقول هذه الآية في حقيقتها؟ نرى هنا أيضًا أن اليهود قالوا شيئًا بأفواههم، واستمعوا إلى الأكاذيب، ثم غيّروا معنى الكتاب بإخراجه من سياقه الصحيح وتحريف معناه."
+  },
+
+    { "type": "question", "id": 10,
+      "question": { "en": "In this verse how were Jews accused of twisting words?",
+    "es": "En este versículo, ¿de qué manera se acusa a los judíos de torcer las palabras?",
+  "fr": "Dans ce verset, de quelle manière les Juifs sont-ils accusés de déformer les paroles ?",
+  "ar": "في هذه الآية، كيف اتُّهِم اليهود بتحريف الكلمات؟"
+    },
+      "options": { "en": ["By changing words in the written text. ", "By saying something else with their mouths.", "By bringing together a meeting to change the Bible."],
+    "es": [
+    "Cambiando palabras en el texto escrito.",
+    "Diciendo otra cosa con sus bocas.",
+    "Convocando una reunión para cambiar la Biblia."
+  ],
+  "fr": [
+    "En changeant des mots dans le texte écrit.",
+    "En disant autre chose avec leurs bouches.",
+    "En organisant une réunion pour modifier la Bible."
+  ],
+  "ar": [
+    "بتغيير الكلمات في النص المكتوب.",
+    "بقول شيء آخر بأفواههم.",
+    "بعقد اجتماع لتغيير الكتاب المقدّس."
+  ]
+    },
+      "correct": 1
+    },
+
+    { "type": "verse", "reference": "Verse 6: Surat Al-Baqarah 2:78-79", "en": "And among them are unlettered ones who do not know the Scripture except in wishful thinking, but they are only assuming. So woe to those who write the 'scripture' with their own hands, then say, 'This is from Allah' in order to exchange it for a small price. Woe to them for what their hands have written and woe to them for what they earn.",
+  "es": "Entre ellos hay personas iletradas que no conocen la Escritura sino por conjeturas y suposiciones. ¡Ay de aquellos que escriben el “libro” con sus propias manos y luego dicen: «Esto viene de Allah», para obtener con ello un beneficio insignificante! ¡Ay de ellos por lo que escribieron sus manos y por lo que ganan!",
+  "fr": "Parmi eux se trouvent des gens illettrés qui ne connaissent de l’Écriture que des conjectures et des suppositions. Malheur donc à ceux qui écrivent le « livre » de leurs propres mains puis disent : « Ceci vient d’Allah », afin d’en tirer un gain dérisoire. Malheur à eux pour ce que leurs mains ont écrit, et malheur à eux pour ce qu’ils en tirent.",
+  "ar": "وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ الْكِتَابَ إِلَّا أَمَانِيَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ ۖ فَوَيْلٌ لِلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا قَلِيلًا ۖ فَوَيْلٌ لَهُمْ مِمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَهُمْ مِمَّا يَكْسِبُونَ"
+  },
+    { "type": "paragraph", "en": "What does this verse really say? Here we find a description of individuals who are described as 'unlettered.' The Arabic term is ummiyyun, which literally means 'they are illiterate.' They cannot read!",
+  "es": "¿Qué dice realmente este versículo? Aquí encontramos una descripción de personas calificadas como «iletradas». El término árabe utilizado es *ummiyyūn*, que literalmente significa que son analfabetas: no saben leer.",
+  "fr": "Que dit réellement ce verset ? Nous y trouvons la description de personnes qualifiées d’« illettrées ». Le terme arabe utilisé est *ummiyyūn*, qui signifie littéralement qu’elles sont analphabètes — elles ne savent pas lire.",
+  "ar": "ماذا تقول هذه الآية في حقيقتها؟ نجد هنا وصفًا لأشخاص يُوصَفون بأنهم «أمّيون». والمصطلح العربي المستخدم هو *أمّيون*، ويعني حرفيًا أنهم أميّون، أي لا يعرفون القراءة."
+  },
+    { "type": "paragraph", "en": "Beyond that, it's only with wishful thinking that they 'know' the Scriptures. Their ignorance of the Scriptures and their illiteracy make them ill prepared to copy the Previous Revelations but that is exactly what they try to do. They make handwritten copies of the revelations in order to gain financial income.",
+  "es": "Más allá de eso, solo “conocen” las Escrituras mediante suposiciones y deseos. Su ignorancia de las Escrituras y su analfabetismo los hacen incapaces de copiar las revelaciones anteriores, y sin embargo eso es exactamente lo que intentan hacer. Elaboran escritos a mano y los presentan como revelación para obtener beneficio económico.",
+  "fr": "Au-delà de cela, ils ne « connaissent » les Écritures que par des conjectures et des souhaits. Leur ignorance des Écritures et leur analphabétisme les rendent inaptes à copier les révélations antérieures, et pourtant c’est précisément ce qu’ils tentent de faire. Ils rédigent des écrits à la main et les présentent comme des révélations afin d’en tirer un gain financier.",
+  "ar": "وفوق ذلك، فإن معرفتهم بالكتب المقدّسة لا تتجاوز الأماني والتخمين. فجهلهم بالكتب المقدّسة وأميّتهم يجعلهم غير مؤهّلين لنسخ الوحي السابق، ومع ذلك فهذا بالضبط ما يحاولون فعله. يقومون بكتابة نصوص بأيديهم ويدّعون أنها وحي من أجل تحقيق مكاسب مالية."
+  },
+    { "type": "paragraph", "en": "In the 7th century, there would have been nothing strange about some one writing the Scriptures by hand; indeed, this was the standard mode of reproducing books and scrolls before the invention of the printing press in the 15th century. In other words, all available copies of the Previous Revelations were written by hand. The problem here is not the Scriptures being written by hand-the problem is when illiterate, religiously ignorant money makers attempt to pawn off fake copies! This may have brought some monetary income for these tricksters in 7th century Arabia-where many people were illiterate and often kept copies of the Scriptures as a way of displaying their religious devotion, even if they could not read them.",
+  "es": "En el siglo VII no había nada extraño en que las Escrituras se escribieran a mano; de hecho, ese era el modo habitual de reproducir libros y rollos antes de la invención de la imprenta en el siglo XV. En otras palabras, todas las copias disponibles de las revelaciones anteriores eran manuscritas. El problema, entonces, no era que las Escrituras se escribieran a mano; el problema surgía cuando personas analfabetas y religiosamente ignorantes, movidas por el lucro, intentaban hacer pasar copias falsas como auténticas. Esto pudo haber generado ingresos económicos para tales estafadores en la Arabia del siglo VII, donde muchas personas eran analfabetas y a menudo conservaban copias de las Escrituras como muestra de devoción religiosa, aunque no pudieran leerlas.",
+  "fr": "Au VIIe siècle, il n’y avait rien d’inhabituel à ce que les Écritures soient copiées à la main ; c’était même la manière normale de reproduire les livres et les rouleaux avant l’invention de l’imprimerie au XVe siècle. Autrement dit, toutes les copies existantes des révélations antérieures étaient manuscrites. Le problème n’était donc pas que les Écritures soient écrites à la main ; le problème apparaissait lorsque des personnes illettrées et religieusement ignorantes, motivées par le gain, tentaient de faire passer de fausses copies pour authentiques. Cela a pu procurer un revenu financier à de tels imposteurs dans l’Arabie du VIIe siècle, où beaucoup de gens étaient illettrés et conservaient souvent des copies des Écritures comme signe de dévotion religieuse, même s’ils ne pouvaient pas les lire.",
+  "ar": "في القرن السابع، لم يكن من الغريب أن تُكتَب الكتب المقدّسة يدويًا؛ بل كان ذلك هو الأسلوب المعتاد لنسخ الكتب واللفائف قبل اختراع الطباعة في القرن الخامس عشر. وبعبارة أخرى، كانت جميع النُسَخ المتاحة من الوحي السابق مكتوبة باليد. ولم تكن المشكلة في كون الكتب المقدّسة مكتوبة يدويًا، بل ظهرت المشكلة عندما حاول أشخاص أميّون وجهلة دينيًا، يسعون إلى الكسب المادي، تمرير نُسَخ مزوّرة على أنها أصلية. وقد يكون ذلك قد وفّر دخلًا ماليًا لهؤلاء المحتالين في الجزيرة العربية في القرن السابع، حيث كان كثير من الناس أميّين، وكانوا يحتفظون بنُسَخ من الكتب المقدّسة كدليل على تديّنهم، حتى وإن لم يكونوا قادرين على قراءتها."
+  },
+    { "type": "paragraph", "en": "However, this would be a harder trick to play on individuals who can actually read what is contained inside. A 5-year-old child might be able to convince a 4-year-old child that the messy marks he has made on a piece of paper are actually a story that he wrote. But an adult, looking at the same paper, will immediately know that it is nothing but incomprehensible scratches. In the same way, it is impossible for these illiterate men to have created anything more convincing than scratch marks.",
+  "es": "Sin embargo, este tipo de engaño sería mucho más difícil de llevar a cabo con personas que realmente pudieran leer lo que estaba escrito. Un niño de cinco años podría convencer a uno de cuatro de que los garabatos desordenados que hizo en una hoja son una historia real. Pero un adulto, al mirar el mismo papel, reconocerá de inmediato que no es más que un conjunto de trazos sin sentido. De la misma manera, habría sido imposible que estos hombres analfabetos produjeran algo más convincente que simples garabatos.",
+  "fr": "Cependant, ce genre de tromperie serait beaucoup plus difficile à réaliser auprès de personnes capables de lire réellement ce qui est écrit. Un enfant de cinq ans pourrait convaincre un enfant de quatre ans que les marques désordonnées qu’il a griffonnées sur une feuille constituent une véritable histoire. Mais un adulte, en regardant la même feuille, reconnaîtrait immédiatement qu’il ne s’agit que de gribouillages incompréhensibles. De la même manière, il aurait été impossible pour ces hommes illettrés de produire quoi que ce soit de plus convaincant que de simples griffonnages.",
+  "ar": "غير أن هذا النوع من الخداع سيكون أصعب بكثير مع الأشخاص القادرين فعليًا على قراءة ما كُتِب. فقد يستطيع طفل في الخامسة من عمره أن يقنع طفلًا في الرابعة بأن العلامات العشوائية التي رسمها على ورقة هي قصة حقيقية. لكنّ شخصًا بالغًا، عندما ينظر إلى الورقة نفسها، سيدرك فورًا أنها ليست سوى خربشات بلا معنى. وبالمثل، كان من المستحيل على هؤلاء الرجال الأميّين أن ينتجوا شيئًا أكثر إقناعًا من مجرد خربشات."
+  },
+
+    { "type": "question", "id": 11,
+      "question": { "en": "In the 7th century, all books and scrolls were produced in the same way. How was that?",
+    "es": "En el siglo VII, todos los libros y rollos se producían de la misma manera. ¿Cómo era eso?",
+  "fr": "Au VIIe siècle, tous les livres et les rouleaux étaient produits de la même manière. Comment cela se faisait-il ?",
+  "ar": "في القرن السابع، كانت جميع الكتب واللفائف تُنتَج بالطريقة نفسها. كيف كان ذلك؟"
+    },
+      "options": { "en": ["They were all handwritten.", "They were copied on a black and white electric printer. ", "They were impressed on paper with rubber stamps."],
+    "es": [
+    "Todos eran escritos a mano.",
+    "Se copiaban con una impresora eléctrica en blanco y negro.",
+    "Se estampaban en papel con sellos de goma."
+  ],
+  "fr": [
+    "Ils étaient tous écrits à la main.",
+    "Ils étaient copiés avec une imprimante électrique en noir et blanc.",
+    "Ils étaient imprimés sur papier à l’aide de tampons en caoutchouc."
+  ],
+  "ar": [
+    "كانت جميعها مكتوبة باليد.",
+    "كانت تُنسَخ بواسطة طابعة كهربائية بالأبيض والأسود.",
+    "كانت تُطبَع على الورق باستخدام أختام مطاطية."
+  ]
+    },
+      "correct": 0
+    },
+
+    { "type": "question", "id": 12,
+      "question": { "en": "According to this verse, who was it that made defective copies of the previous revelations?",
+    "es": "Según este versículo, ¿quiénes fueron los que hicieron copias defectuosas de las revelaciones anteriores?",
+  "fr": "Selon ce verset, qui sont ceux qui ont produit des copies défectueuses des révélations antérieures ?",
+  "ar": "وفقًا لهذه الآية، من الذين صنعوا نُسخًا معيبة من الوحي السابق؟"
+    },
+      "options": { "en": ["The rabbis and religious doctors", "Illiterate, religiously ignorant moneymakers", "Children"],
+     "es": [
+    "Los rabinos y doctores religiosos.",
+    "Personas analfabetas, ignorantes en lo religioso y movidas por el dinero.",
+    "Niños."
+  ],
+  "fr": [
+    "Les rabbins et les docteurs religieux.",
+    "Des personnes illettrées, religieusement ignorantes et motivées par l’argent.",
+    "Des enfants."
+  ],
+  "ar": [
+    "الحاخامات والعلماء الدينيون.",
+    "أشخاص أميّون، جهلة دينيًا، يسعون إلى الكسب المادي.",
+    "الأطفال."
+  ]
+    },
+      "correct": 1
+    },
+
+    { "type": "question", "id": 13,
+      "question": { "en": "How do we know that today's Bible is not from those defective copies?",
+     "es": "¿Cómo sabemos que la Biblia actual no proviene de esas copias defectuosas?",
+  "fr": "Comment savons-nous que la Bible d’aujourd’hui ne provient pas de ces copies défectueuses ?",
+  "ar": "كيف نعلم أن الكتاب المقدّس الموجود اليوم لا يعود إلى تلك النُسَخ المعيبة؟"
+    },
+      "options": { "en": ["Because their book factory went out of business.", "Because of the Dead Sea Scrolls, which were written hundreds of years before this happened and which match the Scriptures we have today.", "Because the moneymakers were caught and sent to jail."],
+     "es": [
+    "Porque su fábrica de libros cerró.",
+    "Por los Manuscritos del Mar Muerto, que fueron escritos cientos de años antes de estos hechos y que coinciden con las Escrituras que tenemos hoy.",
+    "Porque los que buscaban dinero fueron capturados y enviados a la cárcel."
+  ],
+  "fr": [
+    "Parce que leur usine de livres a fait faillite.",
+    "À cause des manuscrits de la mer Morte, qui ont été rédigés des centaines d’années avant ces événements et qui correspondent aux Écritures que nous possédons aujourd’hui.",
+    "Parce que les profiteurs ont été arrêtés et envoyés en prison."
+  ],
+  "ar": [
+    "لأن مصنع الكتب الخاص بهم أغلق.",
+    "بسبب مخطوطات البحر الميت، التي كُتبت قبل هذه الأحداث بمئات السنين، والتي تتطابق مع الكتب المقدّسة التي بين أيدينا اليوم.",
+    "لأن الساعين إلى الربح قُبِضَ عليهم وأُرسلوا إلى السجن."
+  ]
+    },
+      "correct": 1
+    },
+
+
+    { "type": "paragraph", "en": "In each of these verses above, we can see how some of the communities that possessed the Previous Revelations often did not handle their Scriptures very well. We can see how they were guilty of misinterpretation, oral distortion, forgetfulness, and taking the verses out of context. In one case, illiterate men even tried to sell nonsense as if it were authentic copies of the Previous Revelations! These many examples remind us of how mankind throughout history has tried to change the words of Allah. But yet, His words cannot be changed. The corruption could only happen in the minds and mouths of the people.",
+  "es": "En cada uno de los versículos analizados anteriormente, podemos ver cómo algunas comunidades que poseían las revelaciones anteriores a menudo no trataron correctamente sus Escrituras. Vemos que fueron culpables de mala interpretación, distorsión oral, olvido y de sacar los versículos de su contexto adecuado. En un caso, personas analfabetas incluso intentaron vender escritos sin sentido como si fueran copias auténticas de las revelaciones anteriores. Todos estos ejemplos nos recuerdan cómo la humanidad, a lo largo de la historia, ha intentado cambiar las palabras de Allah. Sin embargo, Sus palabras no pueden ser cambiadas. La corrupción solo pudo ocurrir en las mentes y en las bocas de las personas.",
+  "fr": "Dans chacun des versets examinés ci-dessus, nous pouvons voir comment certaines communautés qui possédaient les révélations antérieures n’ont souvent pas bien traité leurs Écritures. Nous constatons qu’elles se sont rendues coupables de mauvaise interprétation, de déformation orale, d’oubli et de sortie des versets de leur contexte approprié. Dans un cas, des personnes illettrées ont même tenté de vendre des écrits dénués de sens comme s’il s’agissait de copies authentiques des révélations antérieures. Tous ces exemples nous rappellent comment l’humanité, au cours de l’histoire, a tenté de modifier les paroles d’Allah. Pourtant, Ses paroles ne peuvent être changées. La corruption n’a pu se produire que dans les esprits et dans les paroles des hommes.",
+  "ar": "في كل الآيات التي تم تناولها أعلاه، نرى كيف أن بعض المجتمعات التي كانت تمتلك الوحي السابق لم تُحسن في كثير من الأحيان التعامل مع كتبها المقدّسة. ونرى أنهم وقعوا في سوء الفهم، والتحريف الشفهي، والنسيان، وإخراج الآيات من سياقها الصحيح. وفي إحدى الحالات، حاول أشخاص أميّون حتى بيع كتابات لا معنى لها على أنها نُسَخ أصلية من الوحي السابق. وتذكّرنا هذه الأمثلة الكثيرة بكيف حاول البشر عبر التاريخ تغيير كلمات الله. ومع ذلك، فإن كلماته لا يمكن تغييرها. فالتحريف لم يحدث إلا في عقول الناس وألسنتهم."
+  },
+    { "type": "paragraph", "en": "If the Previous Scriptures are still reliable revelations from Allah, why do we not see the People of the Book following them more closely? Some Christians claim for various reasons that some parts of these Scriptures are no longer valid. In our next lesson, we will see why they claim this, and if there are any People of the Book who actually adhere to what the Holy Books say.",
+  "es": "Si las Escrituras anteriores siguen siendo revelaciones fiables de Allah, ¿por qué no vemos a la Gente del Libro seguirlas más fielmente? Algunos cristianos afirman, por diversas razones, que ciertas partes de estas Escrituras ya no son válidas. En nuestra próxima lección, examinaremos por qué hacen estas afirmaciones y si existen personas de la Gente del Libro que realmente se adhieran a lo que enseñan los Libros Sagrados.",
+  "fr": "Si les Écritures antérieures sont toujours des révélations fiables d’Allah, pourquoi ne voyons-nous pas les Gens du Livre les suivre plus fidèlement ? Certains chrétiens affirment, pour diverses raisons, que certaines parties de ces Écritures ne sont plus valables. Dans notre prochaine leçon, nous examinerons pourquoi ils font ces affirmations et s’il existe des Gens du Livre qui adhèrent réellement à ce que les Livres saints enseignent.",
+  "ar": "إذا كانت الكتب المقدّسة السابقة لا تزال وحيًا موثوقًا من عند الله، فلماذا لا نرى أهل الكتاب يلتزمون بها التزامًا أوثق؟ يزعم بعض المسيحيين، لأسباب مختلفة، أن بعض أجزاء هذه الكتب لم تعد صالحة. وفي درسنا القادم، سنبحث سبب هذه الادعاءات، وما إذا كان هناك من أهل الكتاب من يلتزم فعلًا بما تعلّمه الكتب المقدّسة."
+  }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "id": "study2",
+  "meta": {
+    "title": {
+      "en": "2 - A Complete System",
+      "es": "2 - Un sistema completo",
+      "fr": "2 - Un système complet",
+      "ar": "٢ - نظام متكامل"
+    },
+    "coverImage": "./images/study2-header.jpeg"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "./images/study2-header.jpeg"
+    },
+    {
+      "type": "paragraph",
+      "en": "'Stop picking out the best part'! Have you ever heard these words? It seems to be a universal truth that children from every culture and every part of the world can usually be caught picking out their favorite foods from the dish set before them.",
+      "es": "¡«Deja de escoger la mejor parte»! ¿Alguna vez has escuchado estas palabras? Parece ser una verdad universal que los niños, de todas las culturas y de todas partes del mundo, suelen ser sorprendidos escogiendo sus alimentos favoritos del plato que tienen delante.",
+      "fr": "«Arrête de choisir la meilleure partie !» As-tu déjà entendu ces mots ? Il semble que ce soit une vérité universelle que les enfants, de toutes les cultures et de toutes les régions du monde, soient souvent surpris en train de choisir leurs aliments préférés dans le plat qui leur est présenté.",
+      "ar": "«توقف عن اختيار أفضل جزء!» هل سمعت هذه الكلمات من قبل؟ يبدو أنها حقيقة عالمية أن الأطفال، من جميع الثقافات ومن كل أنحاء العالم، غالبًا ما يُضبطون وهم يختارون أطعمتهم المفضلة من الطبق الموضوع أمامهم."
+    },
+    {
+      "type": "paragraph",
+      "en": "Perhaps they pick out the tomatoes from the salad, leaving the lettuce behind; or perhaps they pick out the pieces of meat from a macaroni dish and neglect the pasta; or one of the most flagrant childhood offenses of all-perhaps they pick the beautiful, tasty frosting off the top of the cake and leave the cake behind.",
+      "es": "Tal vez sacan los tomates de la ensalada y dejan la lechuga; o quizá extraen los trozos de carne de un plato de macarrones y descuidan la pasta; o uno de los actos infantiles más flagrantes de todos: tal vez quitan el hermoso y sabroso glaseado de la parte superior del pastel y dejan el pastel.",
+      "fr": "Peut-être retirent-ils les tomates de la salade en laissant la laitue ; ou peut-être choisissent-ils les morceaux de viande dans un plat de macaronis en négligeant les pâtes ; ou encore, l’une des infractions enfantines les plus flagrantes de toutes : ils enlèvent peut-être le beau et savoureux glaçage du dessus du gâteau et laissent le gâteau.",
+      "ar": "ربما يختارون الطماطم من السلطة ويتركون الخس؛ أو ربما ينتقون قطع اللحم من طبق المعكرونة ويهملون المعكرونة نفسها؛ أو إحدى أكثر المخالفات الطفولية فظاعة على الإطلاق: ربما يزيلون الكريمة الجميلة واللذيذة من أعلى الكعكة ويتركون الكعكة نفسها."
+    },
+    {
+      "type": "paragraph",
+      "en": "Yes, it seems that children all around the world will behave in the same way and that mothers must always remind their little ones: 'Stop picking out the best part!' She knows that her growing child needs the complete nutrition that comes from eating all parts of the meal.",
+      "es": "Sí, parece que los niños de todo el mundo se comportan de la misma manera y que las madres siempre deben recordarles a sus pequeños: «¡Deja de escoger la mejor parte!». Ella sabe que su hijo en crecimiento necesita la nutrición completa que proviene de comer todas las partes de la comida.",
+      "fr": "Oui, il semble que les enfants du monde entier se comportent de la même manière et que les mères doivent toujours rappeler à leurs petits : « Arrête de choisir la meilleure partie ! ». Elle sait que son enfant en pleine croissance a besoin de la nutrition complète qui vient du fait de manger toutes les parties du repas.",
+      "ar": "نعم، يبدو أن الأطفال في جميع أنحاء العالم يتصرفون بالطريقة نفسها، وأن الأمهات يجب أن يذكرن صغارهن دائمًا: «توقف عن اختيار أفضل جزء!». فهي تعلم أن طفلها في طور النمو يحتاج إلى التغذية الكاملة التي تأتي من تناول جميع أجزاء الوجبة."
+    },
+    {
+      "type": "paragraph",
+      "en": "Since the Qur'an confirms that the entire Scriptures (the four Holy Books) are given by Allah, then a full knowledge of truth and a complete moral system of right and wrong will only be understood by reading all of His revelation. This is necessary for understanding Allah's great plan for man. It is like eating the entire meal instead of picking out the best parts.",
+      "es": "Puesto que el Qur'an confirma que todas las Escrituras (los cuatro Libros Santos) han sido dadas por Allah, el conocimiento pleno de la verdad y un sistema moral completo de lo correcto y lo incorrecto solo pueden comprenderse leyendo toda Su revelación. Esto es necesario para entender el gran plan de Allah para la humanidad. Es como comer la comida completa en lugar de escoger solo las mejores partes.",
+      "fr": "Puisque le Qur'an confirme que toutes les Écritures (les quatre Livres saints) ont été données par Allah, la connaissance complète de la vérité et un système moral intégral du bien et du mal ne peuvent être compris qu’en lisant l’ensemble de Sa révélation. Cela est nécessaire pour comprendre le grand plan d’Allah pour l’humanité. C’est comme manger tout le repas au lieu de ne choisir que les meilleures parties.",
+      "ar": "وبما أن القرآن يؤكد أن جميع الكتب السماوية (الكتب الأربعة المقدسة) قد أنزلها الله، فإن المعرفة الكاملة بالحق والنظام الأخلاقي المتكامل بين الصواب والخطأ لا يمكن فهمهما إلا بقراءة جميع وحيه. وهذا ضروري لفهم خطة الله العظيمة للإنسان. إن ذلك يشبه تناول الوجبة كاملة بدلاً من اختيار أفضل أجزائها فقط."
+    },
+     {
+      "type": "paragraph",
+      "en": "The Qur'an, therefore, urges Muslims to believe in the revelation sent to them-and the revelation sent before their time-in order that the complete revelation of Allah is understood. In this way, complete spiritual nutrition can be ensured for all believers.",
+      "es": "El Qur'an, por lo tanto, exhorta a los musulmanes a creer en la revelación que les fue enviada y en la revelación enviada antes de su tiempo, para que la revelación completa de Allah sea comprendida. De este modo, puede asegurarse una nutrición espiritual completa para todos los creyentes.",
+      "fr": "Le Qur'an exhorte donc les musulmans à croire à la révélation qui leur a été envoyée, ainsi qu’à la révélation envoyée avant leur époque, afin que la révélation complète d’Allah soit comprise. De cette manière, une nutrition spirituelle complète peut être assurée à tous les croyants.",
+      "ar": "ولذلك يحثّ القرآن المسلمين على الإيمان بالوحي الذي أُنزل إليهم وبالوحي الذي أُنزل قبل زمانهم، لكي تُفهم رسالة الله الكاملة. وبهذه الطريقة يمكن ضمان تغذية روحية كاملة لجميع المؤمنين."
+    },
+
+    { "type": "heading", "en": "Does the Qur'an anywhere instruct the followers of Allah to believe in the previous Scriptures?",
+                          "es": "¿Instruye el Qur'an en algún lugar a los seguidores de Allah a creer en las Escrituras anteriores?",
+                          "fr": "Le Qur'an ordonne-t-il quelque part aux adorateurs d’Allah de croire aux Écritures antérieures ?",
+                          "ar": "هل يأمر القرآن في أي موضع أتباعَ الله بالإيمان بالكتب السماوية السابقة؟"
+  },
+    { "type": "verse", "reference": "Surat Al-Baqarah 2:2-4", "en": "This is the Book about which there is no doubt, a guidance for those conscious of Allah-Who believe in the unseen, establish prayer, and spend out of what We have provided for them, And who believe in the Revelation sent to thee, and sent before thy time, and (in their hearts) have the assurance of the Hereafter.",
+                                                              "es": "Este Libro es seguro y no contiene duda alguna. Es guía para quienes son conscientes de Allah: los que creen en lo invisible, establecen la oración, dan de lo que Allah les ha provisto, y creen en la revelación dada a Muhammad y en las revelaciones enviadas antes de él, teniendo plena certeza en la vida futura.",
+                                                              "fr": "Ce Livre est certain et sans aucun doute. Il est une guidance pour ceux qui sont conscients d’Allah : ceux qui croient en l’invisible, accomplissent la prière, donnent de ce qu’Allah leur a accordé, et croient à la révélation donnée à Muhammad ainsi qu’aux révélations envoyées avant lui, avec une pleine certitude en la vie future.",
+                                                              "ar": "هذا الكتاب يقيني ولا شك فيه، وهو هداية للمتقين: الذين يؤمنون بالغيب، ويقيمون الصلاة، وينفقون مما رزقهم الله، ويؤمنون بما أُنزل على محمد وما أُنزل من قبله، وهم على يقين بالآخرة."
+  },
+    
+    { "type": "question", "id": 1,
+      "question": { "en": "What is the true believer supposed to do?",
+    "es": "¿Qué se espera que haga el verdadero creyente?",
+  "fr": "Qu’est-ce que le véritable croyant est appelé à faire ?",
+  "ar": "ماذا يُنتظر من المؤمن الحقيقي أن يفعل؟"    
+    },
+      "options": { 
+        "en": ["Believe only in the Revelation that was sent to Muslims.", "Believe in whichever Revelation which they would like to believe in.", "Believe in the Revelation sent to them and the Revelation sent before their time."
+                ],
+                 "es": [
+    "Creer únicamente en la Revelación que fue enviada a los musulmanes.",
+    "Creer en la Revelación que cada uno prefiera.",
+    "Creer en la Revelación que les fue enviada y en la Revelación enviada antes de su tiempo."
+  ],
+  "fr": [
+    "Croire uniquement à la Révélation qui a été envoyée aux musulmans.",
+    "Croire à la Révélation que chacun choisit.",
+    "Croire à la Révélation qui leur a été envoyée ainsi qu’à celles envoyées avant leur époque."
+  ],
+  "ar": [
+    "الإيمان فقط بالوحي الذي أُنزِل على المسلمين.",
+    "الإيمان بأي وحي يختاره الإنسان.",
+    "الإيمان بالوحي الذي أُنزِل إليهم وبالوحي الذي أُنزِل من قبلهم."
+  ]              
+              },
+      "correct": 2
+    },
+
+{ "type": "question", "id": 2,
+      "question": { "en": "Which revelations were sent 'before their time'?",
+    "es": "¿Qué revelaciones fueron enviadas antes de su tiempo?",
+  "fr": "Quelles révélations ont été envoyées avant leur époque ?",
+  "ar": "ما هي الكتب أو الرسالات التي أُنزِلَت قبل زمنهم؟"
+ },
+      "options": { "en": ["The Injeel", "The Zabur", "The Tawrat", "All the above"],
+    "es": [
+    "El Inyil",
+    "El Zabur",
+    "La Tawrat",
+    "Todas las anteriores"
+  ],
+  "fr": [
+    "L’Injil",
+    "Le Zabur",
+    "La Tawrat",
+    "Toutes les réponses ci-dessus"
+  ],
+  "ar": [
+    "الإنجيل",
+    "الزبور",
+    "التوراة",
+    "جميع ما سبق"
+  ]
+    },
+      "correct": 3
+    },
+
+      { "type": "heading", "en": "What is the Qur'anic commentary on those who deny any of Allah's four holy books?",
+    "es": "¿Qué dice el Corán acerca de quienes niegan cualquiera de los cuatro libros sagrados de Allah?",
+  "fr": "Que dit le Coran au sujet de ceux qui nient l’un quelconque des quatre Livres sacrés d’Allah ?",
+  "ar": "ماذا يقول القرآن عن الذين يُنكرون أيًّا من كتب الله الأربعة المقدسة؟"
+    },
+    { "type": "verse", "reference": "Surat An-Nisa 4:136", 
+    "en": "O ye who believe! Believe in Allah and His Messenger, and the scripture which He hath sent to His Messenger and the scripture which He sent to those before (him). Any who denieth Allah, His angels, His Books, His Messengers, and the Day of Judgment, hath gone far, far astray.",
+  "es": "¡Oh creyentes! Creed en Allah y en Su Mensajero, y en la Escritura que Él ha revelado a Su Mensajero, y en las Escrituras que reveló anteriormente. Quien niegue a Allah, a Sus ángeles, a Sus Libros, a Sus Mensajeros y al Día del Juicio, ciertamente se ha extraviado profundamente.",
+  "fr": "Ô vous qui croyez ! Croyez en Allah et en Son Messager, ainsi qu’au Livre qu’Il a fait descendre sur Son Messager et aux Écritures révélées auparavant. Quiconque nie Allah, Ses anges, Ses Livres, Ses messagers et le Jour du Jugement s’est certes égaré profondément.",
+  "ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا آمِنُوا بِاللَّهِ وَرَسُولِهِ، وَبِالْكِتَابِ الَّذِي أَنْزَلَهُ عَلَىٰ رَسُولِهِ، وَالْكُتُبِ الَّتِي أَنْزَلَ مِنْ قَبْلُ. وَمَنْ يَكْفُرْ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الْآخِرِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا."
+    },
+    
+    { "type": "question", "id": 3,
+      "question": { "en": "Based on this verse, which of the following answers is true?",
+                    "es": "Según este versículo, ¿cuál de las siguientes afirmaciones es verdadera?",
+                  "fr": "D’après ce verset, laquelle des affirmations suivantes est vraie ?",
+                  "ar": "بناءً على هذه الآية، أيٌّ من العبارات التالية صحيحة؟"
+        },
+      "options": { "en": ["Believe only in the revelation sent to our prophet. ", "Believe in nobody's revelation.", "Believe in the Revelation sent to our Messenger and also believe in the Revelations sent before his time"],
+    "es": [
+    "Creer únicamente en la Revelación enviada a nuestro Profeta.",
+    "No creer en la revelación de nadie.",
+    "Creer en la Revelación enviada a nuestro Mensajero y también en las Revelaciones enviadas antes de su tiempo."
+  ],
+  "fr": [
+    "Croire uniquement à la Révélation envoyée à notre Prophète.",
+    "Ne croire à la révélation de personne.",
+    "Croire à la Révélation envoyée à notre Messager et aussi aux Révélations envoyées avant son époque."
+  ],
+  "ar": [
+    "الإيمان فقط بالوحي الذي أُنزِل على نبيّنا.",
+    "عدم الإيمان بوحي أيّ أحد.",
+    "الإيمان بالوحي الذي أُنزِل على رسولنا، وكذلك بالوحي الذي أُنزِل قبل زمنه."
+  ]    
+    },
+      "correct": 2
+    },
+
+    { "type": "question", "id": 4,
+      "question": { "en": "What does the Qur'an say in Surat An-Nisa 4:136 about the person who denies any of the beliefs (Allah, Angels, Books, Prophets, Last Day)?",
+    "es": "¿Qué dice el Corán en la sura An-Nisá (4:136) acerca de la persona que niega cualquiera de estas creencias: Allah, los ángeles, los Libros, los Mensajeros o el Último Día?",
+  "fr": "Que dit le Coran dans la sourate An-Nisâ (4:136) au sujet de la personne qui nie l’une de ces croyances : Allah, les anges, les Livres, les messagers ou le Jour dernier ?",
+  "ar": "ماذا يقول القرآن في سورة النساء (٤:١٣٦) عن الشخص الذي يُنكر أيًّا من هذه المعتقدات: الله، والملائكة، والكتب، والرسل، واليوم الآخر؟"
+        },
+      "options": { "en": ["Such a person is accepted by Allah.", "Such a person has gone far, far astray.", "Such a person is a successful individual."],
+    "es": [
+    "Tal persona es aceptada por Allah.",
+    "Tal persona se ha extraviado profundamente.",
+    "Tal persona es un individuo exitoso."
+  ],
+  "fr": [
+    "Une telle personne est acceptée par Allah.",
+    "Une telle personne s’est égarée profondément.",
+    "Une telle personne est une personne qui réussit."
+  ],
+  "ar": [
+    "مثل هذا الشخص مقبول عند الله.",
+    "مثل هذا الشخص قد ضلَّ ضلالًا بعيدًا.",
+    "مثل هذا الشخص شخصٌ ناجح."
+  ]
+    
+    },
+      "correct": 1
+    },
+
+    { "type": "question", "id": 5,
+      "question": { "en": "According to the true teachings, what is the person called who has gone far, far astray from Allah?",
+    "es": "Según las enseñanzas verdaderas, ¿cómo se llama a la persona que se ha extraviado profundamente de Allah?",
+  "fr": "Selon les enseignements véritables, comment appelle-t-on la personne qui s’est profondément égarée loin d’Allah ?",
+  "ar": "وفقًا للتعاليم الصحيحة، ماذا يُسمّى الشخص الذي ضلَّ ضلالًا بعيدًا عن الله؟"
+    },
+      "options": { "en": ["A prophet.", "A good person.", "An unbeliever (Kafir)."],
+     "es": [
+    "Un profeta.",
+    "Una buena persona.",
+    "Un incrédulo (kafir)."
+  ],
+  "fr": [
+    "Un prophète.",
+    "Une bonne personne.",
+    "Un mécréant (kâfir)."
+  ],
+  "ar": [
+    "نبيّ.",
+    "شخصٌ صالح.",
+    "كافر."
+  ]
+    },
+      "correct": 2
+    },
+    {
+      "type": "paragraph",
+      "en": "The Qur'an does not assert that the Qur'anic revelation has come because the Bible was corrupted. On the contrary, it asserts that although the Qur'an has now come, believers must still continue to believe in the Previous Scrip tures. Muslim believers are to believe in all the Holy Books that Allah has sent.",
+       "es": "El Corán no afirma que su revelación haya llegado porque la Biblia fue corrompida. Por el contrario, enseña que, aun después de la revelación del Corán, los creyentes deben seguir creyendo en las Escrituras anteriores. Los creyentes musulmanes deben creer en todos los Libros sagrados que Allah ha enviado.",
+  "fr": "Le Coran n’affirme pas que sa révélation soit venue parce que la Bible aurait été corrompue. Au contraire, il enseigne que, même après la révélation du Coran, les croyants doivent continuer à croire aux Écritures antérieures. Les croyants musulmans doivent croire en tous les Livres saints qu’Allah a envoyés.",
+  "ar": "لا يؤكّد القرآن أن نزوله كان بسبب تحريف الكتاب المقدّس، بل على العكس، يبيّن أنه حتى بعد نزول القرآن ما زال المؤمنون مُلزَمين بالإيمان بالكتب السابقة. فالمؤمنون المسلمون مطالبون بالإيمان بجميع الكتب المقدّسة التي أنزلها الله."
+    },
+    {
+      "type": "paragraph",
+      "en": "This implies that at the time of the Qur'anic revelation the previous Holy Books were still considered valid and unchanged revelations of Allah. This concept seems new to many believers. Many are amazed that the Qur'an is so emphatic on this point. However, in this verse, the Qur'an has gone one step further by stating that anyone who denies the beliefs of Islam-one of which is the 'Belief in the Holy Books of Allah'-has gone 'far, far astray'.",
+      "es": "Esto implica que, en el momento de la revelación del Corán, los Libros sagrados anteriores aún eran considerados revelaciones válidas e inalteradas de Allah. Esta idea resulta nueva para muchos creyentes, y a muchos les sorprende que el Corán sea tan enfático en este punto. Sin embargo, en este versículo el Corán va un paso más allá al declarar que quien niega las creencias del islam —una de las cuales es la fe en los Libros sagrados de Allah— se ha extraviado profundamente.",
+  "fr": "Cela implique qu’au moment de la révélation du Coran, les Livres saints antérieurs étaient encore considérés comme des révélations valides et inchangées venant d’Allah. Cette idée est nouvelle pour de nombreux croyants, et beaucoup sont surpris de voir à quel point le Coran est catégorique sur ce point. Cependant, dans ce verset, le Coran va encore plus loin en déclarant que quiconque nie les croyances de l’islam — dont l’une est la foi dans les Livres saints d’Allah — s’est profondément égaré.",
+  "ar": "وهذا يعني أنه في وقت نزول القرآن كانت الكتب المقدّسة السابقة لا تزال تُعتَبَر وحيًا صحيحًا وغير مُغيَّر من عند الله. ويُعدّ هذا المفهوم جديدًا لدى كثير من المؤمنين، كما يندهش الكثيرون من مدى تأكيد القرآن على هذه الحقيقة. غير أن هذا النص يذهب خطوة أبعد، إذ يصرّح بأن من يُنكر عقائد الإسلام — ومن بينها الإيمان بكتب الله المقدّسة — فقد ضلَّ ضلالًا بعيدًا."
+},
+    {
+      "type": "paragraph",
+      "en": "The Qur'an emphasizes that the person has not gone 'far astray' but 'far, far astray'. This implies that it is a very serious matter as far as the Qur'an is concerned. So who is the person that has gone far, far astray? Certainly, he is an unbeliever.",
+      "es": "El Corán enfatiza que la persona no solo se ha extraviado, sino que se ha extraviado profundamente. Esto muestra que, desde la perspectiva del Corán, se trata de un asunto de suma gravedad. Entonces, ¿quién es la persona que se ha extraviado profundamente? Claramente, se trata de un incrédulo.",
+  "fr": "Le Coran souligne que la personne ne s’est pas simplement égarée, mais qu’elle s’est égarée profondément. Cela montre que, du point de vue du Coran, il s’agit d’une question extrêmement grave. Alors, qui est la personne qui s’est profondément égarée ? Il s’agit clairement d’un mécréant.",
+  "ar": "يؤكّد القرآن أن الشخص لم يضلّ فحسب، بل ضلَّ ضلالًا بعيدًا جدًا، وهذا يدلّ على أن الأمر خطير للغاية في نظر القرآن. فمن هو الشخص الذي ضلَّ ضلالًا بعيدًا؟ من الواضح أنه كافر."
+    },
+    {
+      "type": "paragraph",
+      "en": "According to this verse, a believer should not deny 'Allah, His angels, His Books [PLURAL], His Messengers, and the Day of Judgment.' So, if a believer believes in 'Allah, His angels, His Books, His Messengers, and the Day of Judgment' but does not believe in all the Holy Books-this means that the person is almost a good believer but has denied Allah's Previous Revelations. The verse does not say, 'Book', but rather 'Books,'' which implies that the belief in all of Allah's revelations is imperative for the true believer.",
+       "es": "Según este versículo, un creyente no debe negar a «Allah, Sus ángeles, Sus Libros [en plural], Sus Mensajeros y el Día del Juicio». Por lo tanto, si una persona dice creer en Allah, en Sus ángeles, en Sus Mensajeros y en el Día del Juicio, pero no cree en todos los Libros sagrados, puede parecer un buen creyente, pero en realidad ha negado las revelaciones anteriores de Allah. El versículo no dice «Libro», sino «Libros», lo cual deja claro que la fe en todas las revelaciones de Allah es indispensable para el verdadero creyente.",
+  "fr": "Selon ce verset, le croyant ne doit pas nier « Allah, Ses anges, Ses Livres [au pluriel], Ses messagers et le Jour du Jugement ». Ainsi, si une personne affirme croire en Allah, en Ses anges, en Ses messagers et au Jour du Jugement, mais ne croit pas en tous les Livres saints, elle peut sembler être un bon croyant, tout en ayant en réalité nié les révélations antérieures d’Allah. Le verset ne parle pas d’un « Livre », mais de « Livres », ce qui indique clairement que la foi en toutes les révélations d’Allah est indispensable pour le véritable croyant.",
+  "ar": "بحسب هذه الآية، لا يجوز للمؤمن أن يُنكر «الله، وملائكته، وكتبه [بصيغة الجمع]، ورسله، واليوم الآخر». لذلك، إذا ادّعى شخص أنه يؤمن بالله وملائكته ورسله واليوم الآخر، لكنه لا يؤمن بجميع الكتب المقدّسة، فقد يبدو مؤمنًا صالحًا، لكنه في الحقيقة قد أنكر وحي الله السابق. فالآية لا تقول «كتابًا» بل «كتبًا»، وهذا يدلّ بوضوح على أن الإيمان بجميع وحي الله أمرٌ أساسيّ للمؤمن الحقيقي."
+    },
+   { "type": "question", "id": 6,
+      "question": { "en": "Which of the following is an OPTIONAL source of spiritual in formation?",
+    "es": "¿Cuál de las siguientes es una fuente opcional de información espiritual?",
+  "fr": "Laquelle des sources suivantes est une source facultative d’information spirituelle ?",
+  "ar": "أيٌّ مما يلي يُعَدُّ مصدرًا اختياريًا للمعلومات الروحية؟"
+    },
+      "options": { "en": ["Allah's Holy Books.", "Family members.", "Allah's messengers."],
+     "es": [
+    "Los Libros sagrados de Allah.",
+    "Los miembros de la familia.",
+    "Los mensajeros de Allah."
+  ],
+  "fr": [
+    "Les Livres saints d’Allah.",
+    "Les membres de la famille.",
+    "Les messagers d’Allah."
+  ],
+  "ar": [
+    "كتب الله المقدّسة.",
+    "أفراد الأسرة.",
+    "رسل الله."
+  ]
+    },
+      "correct": 0
+    },
+    { "type": "question", "id": 7,
+      "question": { "en": "What does the Qur'an consider those people who read the Qur'an but disregard earlier revelations?",
+    "es": "¿Cómo considera el Corán a quienes leen el Corán pero desprecian las revelaciones anteriores?",
+  "fr": "Comment le Coran considère-t-il ceux qui lisent le Coran mais rejettent les révélations antérieures ?",
+  "ar": "كيف ينظر القرآن إلى الذين يقرؤون القرآن لكنهم يتجاهلون الوحي السابق؟"
+    },
+      "options": { "en": ["Conservative Muslims.", "Unbelievers.", "Liberal Muslims."],
+    "es": [
+    "Musulmanes conservadores.",
+    "Incrédulos.",
+    "Musulmanes liberales."
+  ],
+  "fr": [
+    "Musulmans conservateurs.",
+    "Mécréants.",
+    "Musulmans libéraux."
+  ],
+  "ar": [
+    "مسلمون محافظون.",
+    "كافرون.",
+    "مسلمون ليبراليون."
+  ]
+    },
+      "correct": 1
+    },
+
+    { "type": "heading", "en": "Further thoughts from the Qur'an about the previous revelations.",
+   "es": "Reflexiones adicionales del Corán sobre las revelaciones anteriores",
+  "fr": "Réflexions supplémentaires du Coran sur les révélations antérieures",
+  "ar": "تأمّلات إضافية من القرآن حول الوحي السابق"
+  },
+    { "type": "verse", "reference": "Surat Al-Imran 3:3", "en": "It is He Who sent down to thee (step by step), in truth, the Book, confirming what went before it; and He sent down the Law (of Moses) and the Gospel (of Isa al-Masih) before this, as a guide to mankind, and He sent down the criterion (of judgment between right and wrong).",
+   "es": "Él es quien te ha revelado el Libro con la verdad, confirmando lo que fue revelado antes de él. Y anteriormente hizo descender la Ley de Moisés y el Evangelio de Isa al-Masih como guía para la humanidad, y reveló el Criterio para distinguir entre la verdad y el error.",
+  "fr": "C’est Lui qui t’a fait descendre le Livre en toute vérité, confirmant ce qui l’a précédé. Il avait déjà fait descendre la Loi de Moïse et l’Évangile d’Isa al-Masih comme guide pour l’humanité, et Il a révélé le Discernement pour distinguer le vrai du faux.",
+  "ar": "هُوَ الَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ، وَأَنْزَلَ مِنْ قَبْلُ تَوْرَاةَ مُوسَىٰ وَإِنْجِيلَ عِيسَى الْمَسِيحِ هُدًى لِلنَّاسِ، وَأَنْزَلَ الْفُرْقَانَ لِيُمَيِّزَ بَيْنَ الْحَقِّ وَالْبَاطِلِ."
+  },
+    
+    { "type": "question", "id": 8,
+      "question": { "en": "From this verse, it is clear that by the time the Qur'an came, the Tawrat and Injeel had already been given. According to this verse, why was the Qur'an sent?",
+     "es": "De este versículo queda claro que, cuando el Corán fue revelado, la Tawrat y el Injil ya habían sido entregados. Según este versículo, ¿por qué fue enviado el Corán?",
+  "fr": "D’après ce verset, il est clair qu’au moment de la révélation du Coran, la Tawrat et l’Injil avaient déjà été donnés. Selon ce verset, pourquoi le Coran a-t-il été révélé ?",
+  "ar": "من هذا النص يتّضح أنه عند نزول القرآن كانت التوراة والإنجيل قد أُنزِلا بالفعل. ووفقًا لهذه الآية، لماذا أُنزِل القرآن؟"
+    },
+      "options": { "en": ["To disqualify Previous Scriptures.", "To replace the Previous Scriptures. ", "To confirm the Previous Scriptures."],
+     "es": [
+    "Para descalificar las Escrituras anteriores.",
+    "Para reemplazar las Escrituras anteriores.",
+    "Para confirmar las Escrituras anteriores."
+  ],
+  "fr": [
+    "Pour disqualifier les Écritures antérieures.",
+    "Pour remplacer les Écritures antérieures.",
+    "Pour confirmer les Écritures antérieures."
+  ],
+  "ar": [
+    "لإبطال الكتب السابقة.",
+    "لاستبدال الكتب السابقة.",
+    "لتأكيد الكتب السابقة."
+  ]
+    },
+      "correct": 2
+    },
+
+    { "type": "question", "id": 9,
+      "question": { "en": "According to this verse, why were the Previous Scriptores - the Tawrat and Injeel (Bible) - sent?",
+    "es": "Según este versículo, ¿por qué fueron enviadas las Escrituras anteriores —la Tawrat y el Injil (Biblia)—?",
+  "fr": "Selon ce verset, pourquoi les Écritures antérieures — la Tawrat et l’Injil (Bible) — ont-elles été envoyées ?",
+  "ar": "وفقًا لهذه الآية، لماذا أُنزِلَت الكتب السابقة — التوراة والإنجيل (الكتاب المقدّس)؟"
+    },
+      "options": { "en": ["As a guide only for Jews and Christians. ", "As the guide for all mankind.", "As a book for the Jews."],
+     "es": [
+    "Como guía solo para judíos y cristianos.",
+    "Como guía para toda la humanidad.",
+    "Como un libro solo para los judíos."
+  ],
+  "fr": [
+    "Comme guide uniquement pour les Juifs et les Chrétiens.",
+    "Comme guide pour toute l’humanité.",
+    "Comme un livre réservé aux Juifs."
+  ],
+  "ar": [
+    "كَهُدًى لليهود والمسيحيين فقط.",
+    "كَهُدًى للبشرية جمعاء.",
+    "ككتابٍ مخصّص لليهود فقط."
+  ]
+    },
+      "correct": 1
+    },
+
+    { "type": "heading", "en": "But the Qur'an has more to say about the Previous Revelations.",
+  "es": "Pero el Corán tiene aún más que decir acerca de las revelaciones anteriores.",
+  "fr": "Mais le Coran a encore davantage à dire au sujet des révélations antérieures.",
+  "ar": "لكنّ القرآن لديه المزيد ليقوله عن الوحي السابق."
+  },
+    { "type": "verse", "reference": "Surat Al-Maida 5:48", "en": "To thee We sent the Scripture in truth, confirming the scripture that came before it, and guarding it in safety: so judge between them by what Allah hath revealed, and follow not their vain desires, diverging from the Truth that hath come to thee. To each among you have we prescribed a law and an open way. If Allah had so willed, He would have made you angle people, but (His plan is) to test you in what He hath given your so as in a race in all virtues. The goal of you all is to Allah; it is He that w you the truth of the matters in which ye dispute.",
+  "es": "A ti te hemos revelado la Escritura con la verdad, confirmando la Escritura que la precedió y protegiéndola. Juzga, pues, entre ellos conforme a lo que Allah ha revelado, y no sigas sus deseos apartándote de la verdad que te ha llegado. A cada uno de vosotros le hemos establecido una ley y un camino claro. Si Allah hubiera querido, os habría hecho una sola comunidad, pero quiso poneros a prueba en lo que os ha concedido. Competid, pues, en las buenas obras. A Allah regresaréis todos, y Él os informará acerca de aquello en lo que discrepabais.",
+  "fr": "Nous t’avons révélé le Livre en toute vérité, confirmant l’Écriture qui l’a précédé et en assurant la sauvegarde. Juge donc entre eux selon ce qu’Allah a révélé, et ne suis pas leurs passions en t’écartant de la vérité qui t’est parvenue. À chacun de vous Nous avons assigné une loi et une voie claire. Si Allah l’avait voulu, Il aurait fait de vous une seule communauté, mais Il a voulu vous éprouver par ce qu’Il vous a donné. Rivalisez donc dans les bonnes œuvres. C’est vers Allah que vous retournerez tous, et Il vous informera de ce en quoi vous divergiez.",
+  "ar": "وَأَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ مِنَ الْكِتَابِ وَمُهَيْمِنًا عَلَيْهِ، فَاحْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ عَمَّا جَاءَكَ مِنَ الْحَقِّ. لِكُلٍّ جَعَلْنَا مِنْكُمْ شِرْعَةً وَمِنْهَاجًا، وَلَوْ شَاءَ اللَّهُ لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَٰكِنْ لِيَبْلُوَكُمْ فِي مَا آتَاكُمْ، فَاسْتَبِقُوا الْخَيْرَاتِ. إِلَى اللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ فِيهِ تَخْتَلِفُونَ."
+  },
+    
+    { "type": "question", "id": 10,
+      "question": { "en": "This verse cautions believers and readers of the Qur'an that it has been sent to:",
+    "es": "Este versículo advierte a los creyentes y a los lectores del Corán que éste ha sido enviado para:",
+  "fr": "Ce verset avertit les croyants et les lecteurs du Coran que celui-ci a été révélé pour :",
+  "ar": "تُنَبِّه هذه الآية المؤمنين وقُرّاء القرآن إلى أن القرآن أُنزِل من أجل:"
+    },
+      "options": { "en": ["Confirm the Previous Scriptures that came before and to guard them in safety. ", "Inform everyone that the Previous Scriptures are not to be believed.", "Inform everyone that the Previous Scriptures have been changed."],
+     "es": [
+    "Confirmar las Escrituras anteriores que la precedieron y protegerlas.",
+    "Informar a todos que no se debe creer en las Escrituras anteriores.",
+    "Informar a todos que las Escrituras anteriores han sido cambiadas."
+  ],
+  "fr": [
+    "Confirmer les Écritures antérieures qui l’ont précédé et les préserver.",
+    "Informer tout le monde que les Écritures antérieures ne doivent pas être crues.",
+    "Informer tout le monde que les Écritures antérieures ont été modifiées."
+  ],
+  "ar": [
+    "تأكيد الكتب السابقة التي سبقته وحفظها.",
+    "إبلاغ الجميع بعدم وجوب الإيمان بالكتب السابقة.",
+    "إبلاغ الجميع بأن الكتب السابقة قد تمّ تغييرها."
+  ]
+    },
+      "correct": 0
+    },
+
+    { "type": "question", "id": 11,
+      "question": { "en": "This verse (Surat Al-Maidah 5:48) states, 'judge them by what Allah has revealed.' What does that mean?",
+     "es": "Este versículo (sura Al-Máida 5:48) dice: «juzga entre ellos conforme a lo que Allah ha revelado». ¿Qué significa esto?",
+  "fr": "Ce verset (sourate Al-Mâ’ida 5:48) déclare : « juge entre eux selon ce qu’Allah a révélé ». Qu’est-ce que cela signifie ?",
+  "ar": "تقول هذه الآية (سورة المائدة ٥:٤٨): «فَاحْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ اللَّهُ». ماذا يعني ذلك؟"
+    },
+      "options": { "en": ["Judge them only by the Qur'an", "Judge them according to what the government decides.", "Judge them according to the Holy Books of Allah, which include the Qur'an and the Previous Scriptures (the Bible)."],
+     "es": [
+    "Juzgarlos únicamente por el Corán.",
+    "Juzgarlos según lo que decida el gobierno.",
+    "Juzgarlos conforme a los Libros sagrados de Allah, que incluyen el Corán y las Escrituras anteriores (la Biblia)."
+  ],
+  "fr": [
+    "Les juger uniquement selon le Coran.",
+    "Les juger selon ce que décide le gouvernement.",
+    "Les juger selon les Livres saints d’Allah, qui incluent le Coran et les Écritures antérieures (la Bible)."
+  ],
+  "ar": [
+    "الحكم عليهم بالقرآن فقط.",
+    "الحكم عليهم وفقًا لما تقرّره الحكومة.",
+    "الحكم عليهم وفقًا لكتب الله المقدّسة، التي تشمل القرآن والكتب السابقة (الكتاب المقدّس)."
+  ]
+    },
+      "correct": 2
+    },
+    {
+      "type": "paragraph",
+      "en": "These verses state that not only has the Qur'an come to confirm the Bible (or the Previous Scriptures) but also to guard its safety. So the allegation that the Bible has been changed or corrupted is not valid since the believers were told that the Qur'an has come to confirm the Biblical revelation as authentic.",
+      "es": "Estos versículos afirman que el Corán fue revelado no solo para confirmar la Biblia (las Escrituras anteriores), sino también para protegerla. Por lo tanto, la acusación de que la Biblia ha sido cambiada o corrompida no es válida, ya que a los creyentes se les enseñó que el Corán vino a confirmar la revelación bíblica como auténtica.",
+  "fr": "Ces versets affirment que le Coran a été révélé non seulement pour confirmer la Bible (les Écritures antérieures), mais aussi pour la préserver. Par conséquent, l’affirmation selon laquelle la Bible aurait été modifiée ou corrompue n’est pas valable, puisque les croyants ont été instruits que le Coran est venu confirmer la révélation biblique comme authentique.",
+  "ar": "تؤكّد هذه الآيات أن القرآن لم يُنزَل فقط لتأكيد الكتاب المقدّس (الكتب السابقة)، بل أيضًا لحفظه وصيانته. ولذلك فإن الادعاء بأن الكتاب المقدّس قد تعرّض للتحريف أو الفساد لا يصحّ، لأن المؤمنين أُمروا بأن القرآن جاء ليؤكّد صحة الوحي الكتابي وأصالته."
+    },
+    {
+      "type": "paragraph",
+      "en": "You see, not only did some believers falsely accept that the Bible had been changed, but also many non-believers throughout the world had made claims against the Bible for centuries. The Qur'an was now revealed to confirm that the Bible, the Previous Scriptures, is the authentic Word of Allah; the Qur'an was to be the guardian of these Scriptures (or better to say Allah was the guardian). So, the claim that the Bible was changed after the Qur'an was revealed becomes invalid since the Qur'an itself confirms the validity of the Previous Scriptures and its unchanged message.",
+        "es": "Como puedes ver, no solo algunos creyentes aceptaron erróneamente la idea de que la Biblia había sido alterada, sino que durante siglos muchos no creyentes en todo el mundo también han hecho afirmaciones en contra de ella. El Corán fue revelado para confirmar que la Biblia —las Escrituras anteriores— es la auténtica Palabra de Allah, y que el Corán actúa como guardián de estas Escrituras (o, mejor dicho, que Allah mismo es su guardián). Por lo tanto, la afirmación de que la Biblia fue cambiada después de la revelación del Corán carece de validez, ya que el propio Corán confirma la autenticidad de las Escrituras anteriores y el carácter inalterado de su mensaje.",
+  "fr": "Vous voyez, non seulement certains croyants ont accepté à tort l’idée que la Bible aurait été altérée, mais pendant des siècles de nombreux non-croyants à travers le monde ont également formulé des accusations contre elle. Le Coran a été révélé pour confirmer que la Bible — les Écritures antérieures — est la Parole authentique d’Allah, et que le Coran agit comme un gardien de ces Écritures (ou plutôt qu’Allah Lui-même en est le gardien). Par conséquent, l’affirmation selon laquelle la Bible aurait été modifiée après la révélation du Coran n’est pas valable, puisque le Coran lui-même confirme l’authenticité des Écritures antérieures et le caractère inchangé de leur message.",
+  "ar": "كما ترى، لم يقتصر الأمر على أن بعض المؤمنين قبلوا خطأً فكرة أن الكتاب المقدّس قد تعرّض للتغيير، بل إن كثيرًا من غير المؤمنين حول العالم قد وجّهوا ادعاءات ضده على مدى قرون. وقد نزل القرآن ليؤكّد أن الكتاب المقدّس — أي الكتب السابقة — هو كلمة الله الحقيقية، وأن القرآن جاء ليكون حافظًا لهذه الكتب (أو بالأحرى أن الله نفسه هو الحافظ لها). ولذلك فإن الادعاء بأن الكتاب المقدّس قد تغيّر بعد نزول القرآن ادعاء غير صحيح، لأن القرآن نفسه يثبت صحة الكتب السابقة وأن رسالتها لم تتغيّر."
+    },
+    { "type": "question", "id": 12,
+      "question": { "en": "What does the fundamental Islamic pillar of the Holy Books teach?",
+    "es": "¿Qué enseña el pilar fundamental del islam relacionado con los Libros sagrados?",
+  "fr": "Qu’enseigne le pilier fondamental de l’islam concernant les Livres saints ?",
+  "ar": "ماذا يُعلِّم الركن الأساسي في الإسلام المتعلّق بالكتب المقدّسة؟"
+    },
+      "options": { "en": ["Muslims must read only the Qur'an since the Bible is corrupted.", "Muslims may choose to read what they like; it doesn't really matter.", "Muslims are obliged to read all four Holy Books as legitimate revelations from Allah."],
+    "es": [
+    "Los musulmanes deben leer solo el Corán, ya que la Biblia está corrompida.",
+    "Los musulmanes pueden elegir leer lo que quieran; en realidad no importa.",
+    "Los musulmanes están obligados a leer los cuatro Libros sagrados como revelaciones legítimas de Allah."
+  ],
+  "fr": [
+    "Les musulmans doivent lire uniquement le Coran, puisque la Bible serait corrompue.",
+    "Les musulmans peuvent choisir de lire ce qu’ils veulent ; cela n’a pas vraiment d’importance.",
+    "Les musulmans sont tenus de lire les quatre Livres saints comme des révélations légitimes venant d’Allah."
+  ],
+  "ar": [
+    "يجب على المسلمين قراءة القرآن فقط لأن الكتاب المقدّس مُحرَّف.",
+    "يمكن للمسلمين اختيار قراءة ما يشاؤون؛ فالأمر لا يهمّ كثيرًا.",
+    "يُلزَم المسلمون بقراءة الكتب المقدّسة الأربعة بوصفها وحيًا مشروعًا من عند الله."
+  ]
+    },
+      "correct": 2
+    },
+    {
+      "type": "paragraph",
+      "en": "However, for centuries, some Muslims and non-Muslims have alleged that the Bible has been changed, and this charge deserves closer scrutiny. In our next study, we will see if any changes were made between the time of Prophet Muhammad (pbuh) and the present day.",
+      "es": "Sin embargo, durante siglos algunos musulmanes y no musulmanes han afirmado que la Biblia ha sido alterada, y esta acusación merece un examen más detenido. En nuestro próximo estudio, analizaremos si se produjeron cambios entre la época del profeta Muhammad (pbuh) y la actualidad.",
+  "fr": "Cependant, depuis des siècles, certains musulmans et non-musulmans affirment que la Bible aurait été altérée, et cette accusation mérite un examen approfondi. Dans notre prochaine étude, nous examinerons s’il y a eu des changements entre l’époque du prophète Muhammad (pbuh) et aujourd’hui.",
+  "ar": "ومع ذلك، على مدى قرون، زعم بعض المسلمين وغير المسلمين أن الكتاب المقدّس قد تعرّض للتغيير، وهذا الادعاء يستحق دراسة أعمق. وفي دراستنا القادمة، سنبحث فيما إذا كانت قد حدثت أي تغييرات بين زمن النبي محمد ﷺ والوقت الحاضر."
+
+    }
+
+
+  ]
+}
