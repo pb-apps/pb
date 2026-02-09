@@ -4,13 +4,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
   <link rel="manifest" href="./manifest.json">
   <link rel="icon" type="image/png" href="./images/icon-192.png">
-
-
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#2e7d32">
-
-
-  
   <meta charset="UTF-8" />
   <title>PWA P&B</title>
   <style>
@@ -95,6 +90,11 @@ button:hover {
   background: #2980b9;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+
 
 /* Título */ 
 
@@ -147,12 +147,13 @@ button:hover {
 
 .home-grid {
   background: #0fa3a3;
-  display: grid;
-  grid-template-columns: repeat(3, 200px);
-  justify-content: center;
+ display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 16px;
-  padding: 20px;
-  
+  padding: 16px;
+
+  justify-content: center;
+   
 }
 
 .lesson-card {
@@ -204,21 +205,36 @@ button:hover {
 /* para móviles */
 
 @media (max-width: 600px) {
-  .study-card {
-    max-width: 90%;
+  .home-grid {
+    grid-template-columns: 1fr; /* UNA tarjeta por fila */
+    padding: 12px;
   }
 
-   button {
-    width: auto;
+  .lesson-card {
+    width: 100%;
     max-width: 100%;
-    font-size: 14px;
-    padding: 8px 12px;
-    white-space: normal;
+    margin: 0 auto;
+    padding: 16px;
   }
 
-   label {
-    font-size: 15px;
-    line-height: 1.4;
+  .lesson-title {
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .lesson-sub {
+    font-size: 13px;
+    text-align: center;
+  }
+
+  button {
+    width: 100%;
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  label {
+    font-size: 14px;
   }
 }
 
@@ -253,9 +269,6 @@ button:hover {
   max-width: 280px;
   box-sizing: border-box;
 }
-
-
-
   </style>
 </head>
 <body>
@@ -269,7 +282,6 @@ button:hover {
   <div id="content"></div>
 
   <script src="./main.js"></script>
-
  
 <script>
 if ("serviceWorker" in navigator) {
@@ -281,10 +293,6 @@ if ("serviceWorker" in navigator) {
   });
 }
 </script>
-
-
-
-
 </body>
 </html>
 
