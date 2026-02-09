@@ -93,12 +93,16 @@ let answers = {};
 // Al cargar la app → menú
 renderMenu();
 
+// función aparezca el idioma que es en todos lados
+function getLang() {
+  return localStorage.getItem("lang") || "en";
+}
+
 
 /* ==================== TRADUCCION DEL TITULO =========== */
 
 function getHomeTitle() {
-  const lang = localStorage.getItem("lang") || "en";
-
+  const lang = getLang();
   const titles = {
     en: "PROPHETS AND BOOKS",
     es: "PROFETAS Y LIBROS",
@@ -112,8 +116,7 @@ function getHomeTitle() {
 /* ======== DEL SUBTITULO LESSON ========*/
 
 function getLessonLabel() {
-  const lang = localStorage.getItem("lang") || "en";
-
+  const lang = getLang();
   const labels = {
     en: "Lesson",
     es: "Lección",
@@ -128,8 +131,7 @@ function getLessonLabel() {
 /* ============ BOTÓN VOLVER AL MENÚ ===========*/
 
 function getBackLabel() {
-  const lang = localStorage.getItem("lang") || "en";
-
+  const lang = getLang();
   const labels = {
     en: "⬅ Back to menu",
     es: "⬅ Volver al menú",
@@ -151,7 +153,8 @@ function renderMenu() {
   content.innerHTML = "";
   title.innerText = "";
 
-  const lang = localStorage.getItem("lang") || "en";
+  const lang = getLang();
+
 
   menu.innerHTML = `
     <div class="home-header">
@@ -221,7 +224,7 @@ function loadStudy(studyId) {
 
 
 function renderAll() {
-  const lang = localStorage.getItem("lang") || "en";
+  const lang = getLang();
   document.documentElement.dir = lang === "ar" ? "rtl" : "ltr";
 
   const menu = document.getElementById("menu");
@@ -280,6 +283,7 @@ function renderBlocks(blocks, lang) {
 
     if (b.type === "question") {
       el = document.createElement("div");
+       el.className = "question-block";
       el.style.margin = "20px 0";
       el.style.padding = "10px";
       el.style.border = "1px solid #ccc";
@@ -294,7 +298,7 @@ function renderBlocks(blocks, lang) {
  type="radio"
   name="q${b.id}"
   value="${i}"
-  ${answers[b.id] === i ? "checked" : ""}
+  ${answers[`${currentStudy.meta.id}_${b.id}`] === i ? "checked" : ""}
   onchange="saveAnswer(${b.id}, ${i})"
 />
               ${opt}
@@ -316,22 +320,23 @@ function renderBlocks(blocks, lang) {
 
 // Guardar respuesta
 function saveAnswer(qId, value) {
-  if (!currentStudy || !currentStudy.meta || !currentStudy.meta.id) return;
+  if (!currentStudy?.meta?.id) return;
 
-  const key = `answers_${currentStudy.meta.id}`;
+  const studyKey = `answers_${currentStudy.meta.id}`;
+  const key = `${currentStudy.meta.id}_${qId}`;
 
-  const studyAnswers = JSON.parse(localStorage.getItem(key)) || {};
-  studyAnswers[qId] = value;
+  const saved = JSON.parse(localStorage.getItem(studyKey)) || {};
+  saved[key] = value;
 
-  localStorage.setItem(key, JSON.stringify(studyAnswers));
-
-  answers = studyAnswers; // mantener sincronizado
+  localStorage.setItem(studyKey, JSON.stringify(saved));
+  answers = saved;
 }
+
 
 
 // Comprobar respuesta
 function checkAnswer(questionId, correctIndex) {
-  const lang = localStorage.getItem("lang") || "en";
+  const lang = getLang();
   const feedback = document.getElementById(`feedback-${questionId}`);
   const selected = document.querySelector(
     `input[name="q${questionId}"]:checked`
